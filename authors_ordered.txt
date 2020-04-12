@@ -391,6 +391,7 @@ APPS Roy
 APRIL Jean-Pierre
 APRUZ Daniel
 ARAKAWA Hiromu
+ARAMA Horia
 ARANGO Angel
 ARANTZA
 ARBASINO Alberto
@@ -761,6 +762,7 @@ BANULESCU Stefan
 BANVILLE D'HOSTEL Lucien
 BANWAY Kane
 BAOSHU
+BAQUAISE David
 BAQUÉ Françoise
 BARANGER François
 BARANGER Léon
@@ -1327,6 +1329,7 @@ BILLELIS
 BILLE S. Corinna
 BILLETER Jean-Bernard
 BILLINGSLEY Franny
+BILLON Pierre
 BILLOTEY Pierre
 BILLOT Renée
 BILLOT Romain
@@ -2472,6 +2475,7 @@ CHANDLER David
 CHANDLER Elizabeth
 CHANDLER Glenn
 CHANDON G.
+CHANET-MUNSCH Simone
 CHANG Hsi-Kuo
 CHANG Ta-Chun
 CHANGZHI Li
@@ -4106,6 +4110,7 @@ ELLIOTT George P(aul)
 ELLIOTT Kate
 ELLIOTT Patricia
 ELLIS A.E.
+ELLIS Brett Easton
 ELLIS Carol
 ELLIS Carson
 ELLIS Dean
@@ -9574,6 +9579,7 @@ PERRIER Dominique
 PERRIER Edmond
 PERRIN Don
 PERRIN Isabelle
+PERRIN Jean
 PERRIN Jules
 PERRIN Jules (Laurent)
 PERRIN Maud
