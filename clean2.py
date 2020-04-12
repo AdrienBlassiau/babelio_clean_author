@@ -35,7 +35,7 @@ def last_capitalizer(name):
 
 	return u_name
 
-#2469
+#4580
 def run():
 	try:
 		with codecs.open("/home/adrien/Documents/EBOOK_PROJET/cleaning_project/html_pages/res.html", 'r',encoding="windows-1252") as file:

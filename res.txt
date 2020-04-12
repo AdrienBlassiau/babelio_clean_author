@@ -16,9 +16,11 @@ ABDULLAH Achmed
 ABÉCASSIS Éliette
 ABEILLE Jacques
 ABE Kobo
+ABÉLARD Pierre
 ABEL Franklin
 ABELLIO Raymond
 ABENSOUR Gérard
+ABENSOUR Miguel
 ABERCROMBIE Joe
 ABERNATHY Robert
 ABÉ Shana
@@ -49,6 +51,7 @@ ACHILLEOS Chris
 ACHILLE Stéphane
 ACHILLI Justin
 ACKERMAN Forrest J.
+ACKERMAN Galia
 ACKERMANN Louise
 ACKER Paul
 ACKROYD Peter
@@ -80,6 +83,7 @@ ADLINGTON Lucy J.
 ADOLPH José B.
 ADORNETTO Alexandra
 ADORNIER Pierre
+ADORNO Theodor W.
 ADRIAN Chris
 ADRIAN Lara
 ADVENIER Emmanuelle
@@ -88,6 +92,7 @@ AËL Gwenn
 AERTS Ruwan
 AESCHLIMANN Richard
 AFFLATET Bernard
+AGAMBEN Giorgio
 AGAMIL
 AGAPIT Marc
 AGARMEN Pit
@@ -97,9 +102,11 @@ AGGS Patrice
 AGNE Ahmed
 AGRATI Jean-Marc
 AGREST Matest M.
+AGUEEV M.
 AGUILERA Juan Miguel
 AGUILERA Julio Fausto
 AGUIRRE Ann
+AGULHON Maurice
 AHERN Cecelia
 AHERN Jerry
 AHLGREN Paco
@@ -146,6 +153,7 @@ ALBAR Ludovic
 ALBEE George Sumner
 ALBERES René-Marill
 ALBERNY Luc
+ALBERONI Francesco
 ALBERT-BIROT Pierre
 ALBERT Éric
 ALBERT-JEAN
@@ -194,19 +202,23 @@ ALEXIS Jacques-Stephen
 ALEXIS Robert
 ALEXIUS Vitaly S.
 ALFERI Pierre
+ALFÉRI Pierre
 ALFRED
 ALFU
 ALGARRON André
 ALGAYRES Muriel
 ALHADEFF Daniel
+ALHIR Si
 ALIBERT Florence
 ALICE Alex
 ALICK
+ALIGHIERI Dante
 ALI Julien
 ALISSANDRE
 ALIX Maiwenn
 ALIZET Jean-Claude
 ALKINE Serge
+ALLADAYE René
 ALLAIN Marcel
 ALLAIS Alphonse
 ALLAMARGOT Jean-Claude
@@ -261,6 +273,7 @@ ALWETT Audrey
 ALZAMORA Sebastià
 ALZMANN Christian
 AMADE Bernard
+AMADO Jorge
 AMALRIC Vivian
 AMAN Kimiko
 AMANSHAUSER Gerhard
@@ -269,6 +282,7 @@ AMAURY Marie
 AMAWORO WILSON J.J.
 AMBRE
 AMBROSE David
+AMBROSE Stephen E.
 AMELIN Françoise
 AMELIN Michel
 AMES John Edward
@@ -281,6 +295,7 @@ AMMAN Mir
 AMMIRATI Isabelle
 AMNOUEL Pavel
 AMON Éric
+AMOR Safia
 AMOZ Claude
 AMPRIMOZ Alexandre L.
 AMPUERO Fernando
@@ -300,6 +315,7 @@ ANDERSCH Alfred
 ANDERS Charlie Jane
 ANDERSEN Hans Christian
 ANDERSEN Kenneth Bøgh
+ANDERS Günther
 ANDERSON Douglas A.
 ANDERSON Eli
 ANDERSON Gerry
@@ -321,6 +337,7 @@ ANDRAU Marianne
 ANDRÉA Lalex
 ANDREANI Pauline
 ANDREAS Jürgen
+ANDRÉ Christophe
 ANDREESCO Ioanna
 ANDRÉIEV Kiril
 ANDREIEV Leonid
@@ -336,6 +353,7 @@ ANDREWS Virginia C.
 ANDREW Thomas
 ANDREYEV Daniel
 ANDRIAT Frank
+ANDRIEU Bernard
 ANDRIEU Philippe
 ANDY Charles
 ANEAU Barthélémy
@@ -353,6 +371,7 @@ ANGEVIN David
 ANGLADE Jean
 ANGUS
 ANH Lori
+ANISSIMOV Myriam
 ANNANDALE David
 ANNAN David
 ANNE Eugène
@@ -384,10 +403,12 @@ ANTON Robert
 ANTONSSON Linda
 ANTONSSON Thorsteinn
 ANTON Uwe
+ANTUNES Antonio Lobo
 ANVIL Christopher
 ANWEI Wang
 ANYURU Johannes
 ANZERAEY Emmanuel
+ANZIEU Didier
 APESTEGUY Pierre
 APOLLINAIRE Guillaume
 APOSTOLIDES Alex
@@ -400,8 +421,10 @@ APPOLLO
 APPS Roy
 APRIL Jean-Pierre
 APRUZ Daniel
+AQUIEN Pascal
 ARAGON Louis
 ARAKAWA Hiromu
+ARAMA Horia
 ARANGO Angel
 ARANTZA
 ARASSE Daniel
@@ -409,8 +432,10 @@ ARBASINO Alberto
 ARBES Jakub
 ARBOS Ange
 ARCADIUS
+ARCAND Bernard
 ARCAN Nelly
 ARCHAIMBAULT Jean-Michel
+ARCHAMBAULT Gilles
 ARCHAMBAULT Marius
 ARCHDEACON Evelyn Mary
 ARCHER Chris
@@ -445,6 +470,7 @@ ARIDJIS Homero
 ARIEL J.-P.
 ARIKAWA Hiro
 ARISTE Jean-Paul
+ARISTOTE
 ARITON Nicolae C.
 ARJAK Nicolas
 ARKIN Alan
@@ -472,6 +498,7 @@ ARMSTRONG Sarah
 ARNAUD C. L.
 ARNAUD G.-J.
 ARNAUD Michel
+ARNAUD Noël
 ARNAUD-RAYMON Marie-Dominique
 ARNÉGUY Michèle
 ARNIM Achim von
@@ -491,12 +518,15 @@ AROUI Jean-Louis
 ARQUIER-PARAYRE Paul
 ARRABAL Fernando
 ARREOLA Juan-José
+ARRIGO Bruce A.
+ARRIVÉ Jean-Yves
 ARRIVÉ Michel
 ARROU-VIGNOD Jean-Philippe
 ARR Stephen
 ARSAN Emmanuelle
 ARSENIEVA Elena
 ARSLAN Artur
+ARTAUD Antonin
 ARTHUR Chet
 ARTHUR Clair
 ARTHUR G. D.
@@ -537,6 +567,7 @@ ASQUITH Cynthia
 ASSEEV Nicolaï
 ASSELINEAU Charles
 ASSIA Yael
+ASSOCIATION American psychiatric
 ASSOLANT Alfred
 ASSO Raymond
 ASSOULINE Pierre
@@ -547,6 +578,7 @@ ASTIER Alexandre
 ASTOLFI Luis
 ASTOR John Jacob
 ASTRUD Michèle
+ASTURIAS Miguel Angel
 ASTURIAS Miguel Ángel
 ATAK
 ATALLAH Marc
@@ -559,6 +591,7 @@ ATKEY Bertram
 ATKINS John
 ATKINSON Hugh
 ATKINSON Kate
+ATLAN Corinne
 ATLANTE Gilbert
 ATTALI Jacques
 ATTAL Jean-Pierre
@@ -587,6 +620,7 @@ AUCLAIR Claude
 AUCLAIR Jean-Marc
 AUCOUTURIER Gustave
 AUDEBRAND Hervé
+AUDEGUY Stéphane
 AUDEMARD Raymond
 AUDIBERTI Jacques
 AUDIGIER Camille
@@ -612,8 +646,10 @@ AUMONT Yves
 AUNILLON Abbé Pierre-Charles Fabiot
 AUREILLE Philippe
 AURIBEAU Philippe
+AURITA Aurélia
 AUROUSSEAU Nan
 AUROUSSEAU Philippe
+AUROUX Sylvain
 AUSLÄNDER Rose
 AUSTEN Jane
 AUSTER Paul
@@ -625,11 +661,13 @@ AUTRET Ronan
 AUTUMN Emilie
 AUVRAY Claude
 AUVRAY Jean
+AUZIAS Dominique
 AUZIAS-TURENNE Raymond
 AVALLONE Michael
 AVELINE Claude
 AVEL Roland
 AVENARIUS Vassili
+AVENEL Cyprien
 AVÈNE Simone d''
 AVEYARD Victoria
 AVEZANCE Éric
@@ -655,6 +693,7 @@ AYLESWORTH Jim
 AYME Docteur
 AYME Gabriel
 AYMÉ Marcel
+AYMOND Philippe
 AYMON Gaël
 AYRAULT Jean-Marc
 AYROLES Alain
@@ -673,6 +712,7 @@ BACARISSE Dominique
 BACCALARIO Pierdomenico
 BAC Ferdinand
 BACHAUMONT
+BACHELARD Gaston
 BACHELIER Benjamin
 BACHER Ingrid
 BACHMANN Ingeborg
@@ -689,10 +729,13 @@ BADER Daren
 BADET C.H.
 BADE William L.
 BADHAM John
+BADINTER Robert
 BADOR Damien
 BADOUREAU Albert
+BADRÉ Frédéric
 BAER Gil
 BAERMAN Matthew
+BAER Robert
 BAGAGE Lilie
 BAGA Volkan
 BAGGOTT Julianna
@@ -702,6 +745,7 @@ BAILEY Charles Waldo, II
 BAILEY Dale
 BAILEY Dennis R.
 BAILEY Hilary
+BAILLARGEON Normand
 BAILLY Albert
 BAILLY Gilles
 BAILLY Marc
@@ -759,6 +803,7 @@ BALTAZAR Armand
 BALTZER Pascal
 BALZAC Honoré de
 BAMA Jim
+BÂ Mariama
 BAMBECK Joern J.
 BAMEUL Pierre
 BANDURA Cyrielle
@@ -779,6 +824,8 @@ BANULESCU Stefan
 BANVILLE D'HOSTEL Lucien
 BANWAY Kane
 BAOSHU
+BAPTISTE-MARREY
+BAQUAISE David
 BAQUÉ Françoise
 BARANGER François
 BARANGER Léon
@@ -791,6 +838,7 @@ BARBAULT André
 BARBAULT Armand
 BARBEAU Philippe
 BARBE Christian
+BARBEDETTE Gilles
 BARBEE Phillips
 BARBERI Gloria
 BARBÉRI Jacques
@@ -835,12 +883,14 @@ BARKER Clive
 BARKER J.D.
 BARKER R.J.
 BARKIN Haskell
+BARLEY Nigel
 BARLOWE Wayne Douglas
 BARLOW George W.
 BARLOW Robert H.
 BARLOW Toby
 BARLOY Jean-Jacques
 BARMEYER Eike
+BARNABÉ Réal
 BARNARD Bryn
 BARNAUD Jean-Marie
 BARNES Arthur K.
@@ -862,6 +912,7 @@ BARON Juliette
 BARONSKY Eva
 BARQUIN Alexis
 BARRACK Jo
+BARRAL Etienne
 BARRAQUÉ Gilles
 BARRAULT Jean-Michel
 BARREAUX Cyril
@@ -899,12 +950,14 @@ BARTHELEMY Stanislas
 BARTHE Léo
 BARTHELME Donald
 BARTH Ernie
+BARTHES Roland
 BARTHE Ulric
 BARTH John
 BARTÓK Mira
 BARTON Tony
 BARTON William
 BARU
+BARUK Stella
 BASCOUR Xavier
 BASIC Zdenko
 BASILE Giambattista
@@ -922,25 +975,34 @@ BASTIA Pascal
 BASTID Jean-Pierre
 BASTIN Claude
 BASTIN Philippe
+BATAILLE Georges
 BATAILLE Leo
 BATAILLE Marie-Louise
 BATAILLE Thierry
 BATAILLON Laure
+BATESON Gregory
 BATET François
 BATHELOT Lilian
 BATHORY Elisabeth
 BATISSIER Louis
 BATRAE Margot
+BATTESTI Anne
 BATTESTINI Monique
 BATTIN Marcel
 BATTISTINI Olivier
+BATTUT Eric
+BAUCHAU Henry
 BAUCHER-MORENCY Lise
 BAUDAT Henry
+BAUDE Jean-Michel
+BAUDELAIRE Charles
 BAUDET David
 BAUDIN Alexandre
 BAUDIN Henri
 BAUDINO Gael
 BAUDITZ Sophus
+BAUDOIN Edmond
+BAUDOT François
 BAUDOU Jacques
 BAUDOUY Michel-Aimé
 BAUDRAND Edith
@@ -992,8 +1054,10 @@ BEAUCHAMP Pierrette
 BEAUCHAMP Suzanne
 BEAUCHAMP Thierry
 BEAUCHEMIN Jean-François
+BEAUCHESNE Jacques
 BEAU Daniel
 BEAUDE Pierre-Marie
+BEAU ET AL Frank
 BEAUFILS Tony
 BEAUGRAND Honoré
 BEAUJEAN Isabelle
@@ -1019,10 +1083,12 @@ BEAUSSART Élodie
 BEAUVAIS Robert
 BEAUVERGER Stéphane
 BEAUVOIR Simone de
+BEAUVOIS Jean-Léon
 BEAVERSON Aiden
 BEBBER Federico
 BEB-DEUM
 BÉCART Philippe R.
+BEC Christophe
 BECCOGNÉE Monique
 BÉCHAR Christine
 BECK Beatrix
@@ -1059,6 +1125,7 @@ BÉGUIN Albert
 BÉGUIN Annick
 BÉGUINOT Stéphane
 BÉHACHE
+BEHAN Brendan
 BEHAR Rebecca
 BÉHÉ
 BEHEMOTH
@@ -1112,6 +1179,7 @@ BELMONT Nicole
 BELRUN Malia
 BELVIANES Marcel
 BEMMANN Hans
+BÉNAC Henri
 BENACQUISTA Tonino
 BENADY Sam
 BENAGLIA Frédéric
@@ -1123,6 +1191,8 @@ BENASSAYA Romain
 BÉNÂTRE Michel
 BENAYOUN Robert
 BENBRAHMI Jamal
+BENCHEIKH Jamel-Eddine
+BENCHETRIT Samuel
 BENCHLEY Peter
 BENCHLEY Robert
 BENDER Aimee
@@ -1133,10 +1203,14 @@ BENET I JORNET Josep Maria
 BENET Stephen Vincent
 BENETT Léon
 BENFORD Gregory
+BENÍTEZ J. J.
 BENITEZ-ROJO Antonio
 BENJAMIN G.
+BENJAMIN Walter
 BEN KEMOUN Hubert
+BENKIRANE Réda
 BENN André
+BENNETT Alan
 BENNETT Alfred Gordon
 BENNETT Arnold
 BENNETT Cherie
@@ -1152,6 +1226,7 @@ BENOIT François
 BENOÎT Jacques
 BENOIT-JEANNIN Maxime
 BENOIT Pierre
+BENOIT Ted
 BENO Jean-Luc
 BENOZIGLIO Jean-Luc
 BEN SAPIR Richard
@@ -1165,6 +1240,7 @@ BENSOUSSAN Albert
 BENTHAM Jérémy
 BENTZ Anne-Marie
 BENTZON Thérèse
+BENVENISTE Emile
 BEORN Paul
 BER André
 BERA Paul
@@ -1174,6 +1250,7 @@ BÉRARD Sylvie
 BÉRATO Paul
 BERA Tristan
 BERAULT-BERCASTEL Abbé Antoine-Henri de
+BERBÉRIAN Charles
 BERBERICK Nancy Varian
 BERCHMANS Michel
 BERCK Jean-Noël
@@ -1192,6 +1269,7 @@ BERGERON David
 BERGERON Diane
 BERGERON Gervais
 BERGERON Guy
+BERGERON Louis
 BERGERON Sylvie L.
 BERGERON Vincent
 BERGEY Earle K.
@@ -1201,6 +1279,7 @@ BERGIER Jacques
 BERGIN Virginia
 BERGLUND Edward P.
 BERGMAN Jean-Christian
+BERGSON Henri
 BERGSTROM Elaine
 BERHAULT Coralie
 BERHOUN Slimane-Baptiste
@@ -1212,6 +1291,7 @@ BERKELEY Jon
 BERLING Peter
 BERLIN Isaiah
 BERLITZ Charles
+BERLOQUIN Pierre
 BERMAN Laurent
 BERMÈS Sébastien
 BERMUDEZ Maria Elvira
@@ -1244,6 +1324,8 @@ BERNASCONI Luciano
 BERNAUW Patrick
 BERNAY Henri
 BERNÈDE Arthur
+BERNE Eric
+BERNHARD Thomas
 BERNHEIM Cathy
 BERNHEIM Emmanuèle
 BERNIÉ Jean-Philippe
@@ -1281,8 +1363,10 @@ BERTIN Eddy C.
 BERTOLINI Max
 BERTO Luigi R.
 BERTON Gilles
+BERTRAND
 BERTRAND Aloysius
 BERTRAND Chloé Jo
+BERTRAND Philippe
 BERTRAND Raphaël
 BERTRAND Serge
 BERTRAND Stéphane
@@ -1304,6 +1388,7 @@ BESSIERES Albert
 BESSON Anne
 BESSON Jean-Louis
 BESSON Luc
+BESSON Philippe
 BESTER Alfred
 BETANCOURT John Gregory
 BÉTAN Julien
@@ -1328,7 +1413,10 @@ BEYNON John
 BEYSSAC Jean-Paul
 BIALAS Zbigniew
 BIANCHI Gérard
+BIANCIOTTI Hector
+BIANU Zéno
 BIARD François-Auguste
+BIARD Joël
 BIBEAU Paul-André
 BIBIKOW Walter
 BICHONNIER Henriette
@@ -1336,6 +1424,7 @@ BIDAULT Lili
 BIDCHIREN Olivier
 BIDDELOO Karel
 BIDEL Guy
+BIDENT Christophe
 BIEBEL Bernard
 BIEFNOT Véronique
 BIEGEL Paul
@@ -1346,6 +1435,7 @@ BIGGLE Lloyd Jr
 BIGNON Abbé Jean-Paul
 BIGOT Raoul
 BIHAN Max
+BILAL Enki
 BILDER Albert
 BILENKINE Dimitri
 BILIBINE Ivan
@@ -1355,9 +1445,11 @@ BILLELIS
 BILLE S. Corinna
 BILLETER Jean-Bernard
 BILLINGSLEY Franny
+BILLON Pierre
 BILLOTEY Pierre
 BILLOT Renée
 BILLOT Romain
+BILLOUET Pierre
 BILLY Alain
 BILODEAU Marie
 BILODEAU Stéphan
@@ -1383,6 +1475,7 @@ BISHOP Anne
 BISHOP K.J.
 BISHOP Michael
 BISHOP Stéphane
+BISMUTH Nadine
 BISSELL Mary L.
 BISSETTE Stephen R.
 BISSIEUX Jean-Joachim
@@ -1411,6 +1504,7 @@ BLACK J. R.
 BLACKMAN Honor
 BLACKMAN Malorie
 BLACK MIND Will
+BLACKMORE Susan J.
 BLACKSHORE Ewan
 BLACKSTONE James
 BLACKWOOD Algernon
@@ -1442,6 +1536,7 @@ BLANC William
 BLANDY Stella
 BLANN Michael
 BLANQUET Estelle
+BLANQUET Stéphane
 BLANZAT Jean
 BLARY Jean-Luc
 BLATIERE Raoul
@@ -1459,6 +1554,8 @@ BLIN Fabrice
 BLISHEN Edward
 BLISH James
 BLIXEN Karen
+BLOCH Ernest Joseph
+BLOCH Ernst
 BLOCH-HENRY Anouk
 BLOCH Muriel
 BLOCH Robert
@@ -1474,7 +1571,9 @@ BLONDEL Roger
 BLOND Georges
 BLONDIAU Pascal
 BLONDIAU Philippe
+BLONDIN Antoine
 BLONK
+BLOOM Howard
 BLOUIN Geneviève
 BLOY Léon
 BLUE Parker
@@ -1484,9 +1583,11 @@ BLUMLEIN Michael
 BLUM Yoav
 BLUNT Gilles
 BLUTCH
+BLYTON Enid
 BOAISTUAU Pierre
 BOB Bobby
 BOBER Richard
+BOBIN Christian
 BOCA Gaston
 BOCCACIO dit BOCCACE Giovanni
 BÖCKLIN Arnold
@@ -1510,14 +1611,18 @@ BOGORAZ Vladimir
 BOHNHOFF Maya Kaathryn
 BOIA Lucian
 BOILEAU (2) Pierre
+BOILEAU-NARCEJAC
 BOILEAU Pierre
 BOILE Olivier
+BOILET Frédéric
 BOILLOT Stéphane
 BOIREAU Jacques
 BOIRY Véronique
+BOISACQ-SCHEPENS Nicole
 BOIS Jules
 BOISNARD Philippe
 BOISSAU Éric
+BOISSEAU Philippe
 BOISSEL Xavier
 BOISSET Éric
 BOISSON Marius
@@ -1550,6 +1655,7 @@ BOMMART Jean
 BONANSINGA Jay R.
 BONAPARTE Napoléon
 BONAVIRI Giuseppe
+BONCENNE Pierre
 BONDAR Vladimir
 BOND Gwenda
 BOND Michael
@@ -1578,8 +1684,10 @@ BONNEFOY Jean
 BONNEFOY Jean-Pierre
 BONNEFOY Miguel
 BONNEFOY René
+BONNEFOY Yves
 BONNEL J.-M.
 BONNÉRY Jean
+BONNET Jacques
 BONNET Michel
 BONNET Sylvain
 BONTEMPELLI Massimo
@@ -1596,9 +1704,12 @@ BOPP Léon
 BORDA Adrian
 BORDAGE Pierre
 BORDAT Josselin
+BORDELEAU Yvan
 BORDELON Abbé Laurent
 BORDERIE Michel
+BORDERIE Roger
 BORDES François
+BORDES Gilbert
 BORDET Gaël
 BORDIER Bruno B.
 BORDONI Carlo
@@ -1620,10 +1731,13 @@ BOR Karol
 BORNAIS Gilles
 BORNEMANN Patrick
 BORNERT Lucien
+BORN Michel
 BORREL Anna
 BORRELLI Paul
+BORRUS Kathy
 BORTON Douglas
 BORVEAU Alain
+BORY Jean-Louis
 BOSCHIAN Catherine
 BOSCH Jérôme
 BOSCH Patrick
@@ -1646,6 +1760,7 @@ BOUCHARD Corinne
 BOUCHARD Guy
 BOUCHARD Jocelyne
 BOUCHARD Nicolas
+BOUCHARD Serge
 BOUCHÉ-LECLERCQ Henri
 BOUCHER Alan
 BOUCHER Anthony
@@ -1654,9 +1769,12 @@ BOUCHER Michel
 BOUCHET Mathieu
 BOUCHET Paul
 BOUCHONVILLE Julie
+BOUCQ François
 BOUDA Cyril
+BOUDARD Alphonse
 BOUDEBESSE Carole
 BOUDESOCQUE Aude
+BOUDET Jacques
 BOUDET Robert
 BOUDIGNON Françoise
 BOUDINE Jean-Pierre
@@ -1670,6 +1788,7 @@ BOUHALASSA Mehdi
 BOUHÉLIER Clément
 BOUHIER Florence
 BOUÏDA Iouri
+BOUILHAC Claire
 BOUILHET Louis
 BOUILLIE Anne-Camille
 BOUILLOC Judith
@@ -1680,6 +1799,7 @@ BOULANGER Anthony
 BOULAY Marc
 BOULENGER Jacques
 BOULET
+BOULGAKOV Mikhaïl
 BOULLE Philippe
 BOULLE Pierre
 BOULLET Jean
@@ -1688,13 +1808,19 @@ BOULYTCHEV Kir
 BOUNGO H.J.
 BOUQUET Jean-Louis
 BOUQUET Marcel
+BOUQUET Simon
 BOUQUIN Jérémy
 BOURA Olivier
+BOURASSA Lucie
 BOURAZOPOÙLOU Ioànna
 BOURBON Ernestine
+BOUR Danièle
 BOURDIER Raoul
+BOURDIEU Pierre
+BOURDIL Pierre-Yves
 BOURDON Chloé
 BOURGEADE Pierre
+BOURGEOIS Étienne
 BOURGEOIS Marc
 BOURGEON Charles
 BOURGET Paul
@@ -1725,6 +1851,7 @@ BOUTON Bertrand
 BOUTON Cyprien
 BOUTON Jean-Luc
 BOUTTIER-COUQUEBERG Catherine
+BOUVERESSE Jacques
 BOUVIER Nicolas
 BOUYER Gérard
 BOUYER Sylvain
@@ -1743,9 +1870,11 @@ BOWSER Jonathon Earl
 BOYD John
 BOYD J.P.
 BOYD Lyle
+BOYD William
 BOYE Karin
 BOYER Alain-Michel
 BOYER Jeanne
+BOYER Régis
 BOYLE Franck
 BOYLESVE René
 BOYLE T.C.
@@ -1753,12 +1882,14 @@ BOYLL Randall
 BOYNE John
 BOZELLEC Anne
 BOZZETTO Roger
+BRABIS David
 BRACCO Mathieu
 BRACHMAN Ronald
 BRACKEN Alexandra
 BRACKETT Leigh
 BRACK Ludy
 BRADBURY Jamey
+BRADBURY Ray
 BRADDOCK Hanovi
 BRADDON Mary Elizabeth
 BRADFIELD Scott
@@ -1774,6 +1905,7 @@ BRAITSTEIN Marcel
 BRALTARD Gil
 BRAMAH Ernest
 BRAMANTI Olivier
+BRAMI Elisabeth
 BRANCATO Robin F.
 BRANDEL Marc
 BRAND Karl
@@ -1790,14 +1922,20 @@ BRASHARES Ann
 BRASSAC Esther
 BRASSARD Jonathan
 BRASSEUR Pierre
+BRAUDEAU Michel
 BRAUNBECK Gary A.
+BRAUNSTEIN Florence
 BRAUTIGAM Don
+BRAUTIGAN Richard
 BRAVO Émile
 BRAVO-VILLASANTE Carmen
+BRAY Bernard
 BRAYER Yves
 BRAY Libba
+BRECHT Bertolt
 BRECK Don
 BREDA Hélène
+BREDIN Jean-Denis
 BREFFORT Alexandre
 BREITMAN Michel
 BREITSAMETER Florian
@@ -1819,6 +1957,8 @@ BRETIN Denis
 BRETIN Joseph
 BRETIN Rodica
 BRETNOR Reginald
+BRETON André
+BRETONNIÈRE Bernard
 BRETON Thierry
 BRETT Leo
 BRETT Peter V.
@@ -1833,12 +1973,15 @@ BRIDE Emmanuel
 BRIDENNE Jean-Jacques
 BRIDGE Ann
 BRIDGES Thomas Charles
+BRIE Albert
 BRIFFA J.E.
 BRIFFAUT Jérôme
 BRIGGS Patricia
 BRIGGS Stephen
+BRIGITTE
 BRIGNULL Irena
 BRILLIOTH Seymour
+BRILLON Pascale
 BRIN David
 BRINGER Rodolphe
 BRINGSVAERD Tor Åge
@@ -1864,6 +2007,7 @@ BROCARD Anthony
 BROCAS Alexis
 BROCHARD Hippolyte-Aimé de
 BROCHERIE Charles
+BROCH Henri
 BROCH Hermann
 BROCHON Pierre
 BROCHU Isabel
@@ -1882,6 +2026,7 @@ BROOKER Edward
 BROOK Meljean
 BROOKS Collin
 BROOKS-DALTON Lily
+BROOKS David
 BROOKS Kevin
 BROOKS Max
 BROOKS Mel
@@ -1910,6 +2055,7 @@ BROWN Bill
 BROWN Charles Brockden
 BROWN Charles N.
 BROWN Dale
+BROWN Dan
 BROWNE Frances
 BROWNE Howard
 BROWNE Reginald
@@ -1941,13 +2087,16 @@ BRUGNOT
 BRUGOT MAILLARD Sandrine
 BRULEY Marie-Agnès
 BRULHET Pierre
+BRULLER Hélène
 BRULLS Christian
 BRUNDAGE Margaret
 BRUNEAU Michel
 BRUNEAU Ophélie
 BRUNEL Camille
+BRUNEL Henri
 BRUNEL Noré
 BRUNET Jean
+BRUN Jean
 BRUNNER Frank
 BRUNNER John
 BRUNNER Zyg
@@ -1969,6 +2118,7 @@ BUCHANAN Col
 BUCHAN John
 BUCHARD Robert
 BUCHET Philippe
+BUCHNER Georg
 BUCK Doris Pitkin
 BUCKELL Tobias S.
 BUCKINGHAM Royce
@@ -2026,6 +2176,7 @@ BURKE Kealan Patrick
 BURKE Sue
 BURKE Thomas
 BURKS Arthur J.
+BURN Bernadette
 BURNE-JONES Edward
 BURNELL Cerrie
 BURNIER Michel-Antoine
@@ -2038,8 +2189,10 @@ BURRIDGE Jay Jay
 BURROUGHS Edgar Rice
 BURROUGHS John Coleman
 BURROUGHS Studley O.
+BURROUGHS William S.
 BURROUGHS William Seward
 BURSTEIN Michael A.
+BURSTON Paul
 BURT Hugh
 BURTIS Thomson
 BURTON Tim
@@ -2065,6 +2218,8 @@ BUTTERLIN Étienne
 BUTTS Marie
 BUWERT Harald
 BUZANÇAIS Jean
+BUZAN Tony
+BUZZATI Dino
 BYATT A. S.
 BYCHKOVA Marina
 BYERS Richard Lee
@@ -2088,6 +2243,7 @@ CABRAL Ciruelo
 CABROL Nathalie A.
 CACAUD M(ichel)
 CACEK P. D.
+CACHARD Claudie
 CACHIN Claude
 CADAFALCH Antoni
 CADIC François
@@ -2126,6 +2282,8 @@ CALDERA Georgia
 CALDER Richard
 CALDIRAC Annie
 CALDWELL Clyde
+CALDWELL Erskine
+CALDWELL Ian
 CALDWELL (Janet) Taylor
 CALDWELL Steven
 CALHOUN Kenneth
@@ -2137,11 +2295,13 @@ CALLAHAN Coreene
 CALLAHAN Kate
 CALLEBAT Paul
 CALLEBAUT Rony
+CALLÈDE Joël
 CALLEJON Cyril-Mickaël
 CALLENBACH Ernest
 CALLENS Eric
 CALLENS Laurence
 CALLÉ Paul
+CALLE Sophie
 CALLIAS Aurore
 CALLICO Diana
 CALLY Catherine
@@ -2153,6 +2313,7 @@ CALONNE Michel
 CALVEL Jean
 CALVET Emile
 CALVEZ Jean-Michel
+CALVINO Italo
 CALVO Sabrina
 CAMBON René
 CAMBRIA Quentin
@@ -2168,6 +2329,7 @@ CAMI Henri
 CAMIL Colette
 CAMILLE Marie-Lé
 CAMILLE Nicolas
+CAMILLERI Andrea
 CAMOENS Luis de
 CAMOUS Frank
 CAMPANELLA Tommaso
@@ -2193,6 +2355,7 @@ CANARY Brenda Brown
 CANAVAN Trudi
 CANAVESE Silvio
 CANETTI Hugues
+CANGUILHEM Georges
 CANIGÜZ Alper
 CANNON Peter H(ughes)
 CANSOT Audrey
@@ -2214,10 +2377,12 @@ CAPET François
 CAP Jean
 CAPOBIANCO Michael
 CAPON Paul
+CAPOTE Truman
 CAPOULET-JUNAC Edward Georges de
 CAPPE Jeanne
 CAPRON Julien
 CAPUANA Luigi
+CARADEC François
 CARAGIALE Ion Luca
 CARAGUEL Edmond P.
 CARAKER Mary
@@ -2230,6 +2395,7 @@ CARBONARI Pierre
 CARBONEL Jean-Christophe
 CARDINET Thierry
 CARDOL Pierre
+CARDONA Jeannine
 CARD Orson Scott
 CARDOT Christine
 CAREAU François
@@ -2249,6 +2415,7 @@ CARILLET Jean-Bernard
 CARION Jacques
 CARISSIMO Luc
 CARLETON William
+CARLIER Guy
 CARLI José
 CARLINI Marcel de
 CARLO
@@ -2337,6 +2504,7 @@ CARUSO Olivier
 CARWYN Giles
 CARY Kate
 CASABIANCA Annibale
+CASALIS Didier
 CASANOVA Angèle
 CASANOVA DI SEINGALT Giacomo
 CASARES Adolfo Bioy
@@ -2348,6 +2516,7 @@ CASELBERG Jay
 CASHORE Kristin
 CASPER Susan
 CASSABOIS Jacques
+CASSADAY John
 CASSAGNE Lucien
 CASSAN Didier
 CASSIAN Nina
@@ -2364,16 +2533,19 @@ CASTAIGNÈDE Monique
 CASTAING Frédéric
 CASTAN Claude
 CASTANIÉ Julien
+CASTANS Raymond
 CASTANY Ernesto
 CASTELLARNAU Ariadna
 CASTELLI Alfredo
 CASTEL Lise
 CASTELLUCCI Cecil
+CASTEL Robert
 CASTERET Norbert
 CASTEX Pierre-Georges
 CASTIER Jules
 CASTILHON Jean-Louis
 CASTILLO Gabriel Bermudez
+CASTILLON Claire
 CAST Kristin
 CASTLE Kendra Leigh
 CASTLE Mort
@@ -2425,10 +2597,12 @@ CAZEDESSUS Camille Jr
 CAZENAVE Michel
 CAZENOVE Laure de
 CAZES Bernard
+CAZOTTE Jacques
 CECCARELLI Serge
 CECE Adam
 CEGARRA Alejandro
 CEINWYNN
+CELAN Paul
 CELIER François
 CÉLINE Louis-Ferdinand
 CELLI Giorgio
@@ -2460,6 +2634,7 @@ CESBRON Gilbert
 CEULEMANS Églantine
 CEVEY Sébastien
 CÉZEMBRE Jacques
+CHABANNES Jean Paul
 CHABAS Jean-François
 CHABEUIL Daniel
 CHABIN Laurent
@@ -2477,16 +2652,20 @@ CHADBOURN Mark
 CHADOUR Nelly
 CHAF
 CHAGALL Marc
+CHAGNAUD Thomas
 CHAINANI Soman
 CHAINAYE Hector
 CHAINE Catherine
 CHAIT Gavin
+CHALAND Yves
 CHALFOUN Célia
+CHALINE Jean
 CHALKER Jack L(aurence)
 CHALLAYE Félicien
 CHALOPIN Jean
 CHALOUPEK Henri
 CHALUMEAU Fortuné
+CHAMAYOU Grégoire
 CHAMBE Émile
 CHAMBERS Andy
 CHAMBERS Becky
@@ -2497,6 +2676,7 @@ CHAMBON Gilles
 CHAMBON Jacques
 CHAMBON Jean-Pierre
 CHAMBOST Edouard
+CHAMOISEAU Patrick
 CHAMPAGNE Danielle
 CHAMPAGNE Louis
 CHAMPAGNE Maurice
@@ -2505,6 +2685,7 @@ CHAMPETIER Joël
 CHAMPFLEURY
 CHAMPION DE CRESPIGNY Rose
 CHAMPSAUR Félicien
+CHAMPY Philippe
 CHANBERT Daniel Yves
 CHANCE Karen
 CHANCEL Jules
@@ -2514,6 +2695,7 @@ CHANDLER David
 CHANDLER Elizabeth
 CHANDLER Glenn
 CHANDON G.
+CHANET-MUNSCH Simone
 CHANG Hsi-Kuo
 CHANG Ta-Chun
 CHANGZHI Li
@@ -2524,6 +2706,7 @@ CHAO H. V.
 CHAON Dan
 CHAOWEI Li
 CHAPDELAINE Perry A.
+CHAPELAN Maurice
 CHAPEL Félix
 CHAPELLE
 CHAPERON Alain
@@ -2536,8 +2719,10 @@ CHAPONNAY Michel
 CHAPOUTON Anne-Marie
 CHAPPELL Fred
 CHAPPUIS Jean-Marc
+CHAPPUIS Pierre
 CHAPRON Dominique
 CHAPRON Glen
+CHAPSAL Madeleine
 CHAPTAL Stéphanie
 CHAPUIS Alfred
 CHAPUIS Bernard
@@ -2554,19 +2739,25 @@ CHARLAND Jean-Pierre
 CHARLES François
 CHARLES Frédéric
 CHARLET Sylvaine
+CHARLIER Jean-Michel
 CHARLIER Philippe
 CHARLTON Blake
 CHARLTON William
 CHARLY Isabelle
 CHARMASSON Guy
 CHARNAS Suzy McKee
+CHARON Jean E.
 CHARPENTIER Armand
 CHARPENTIER Jacques
+CHARRAS Pierre
+CHAR René
 CHARRETTE Robert N.
 CHARRIÈRE Christian
 CHARROUX Robert
 CHARTERIS Leslie
+CHARTIER Pierre
 CHARTRAND Sébastien
+CHARYN Jerome
 CHASE Clifford
 CHASLES Philarète
 CHASTAGNOL Alain
@@ -2581,12 +2772,15 @@ CHATELLARD-SCHAPIRA Johanna
 CHATEL Thibaut
 CHATILLON Pierre
 CHATRON Gérard
+CHATTAM Maxime
 CHATTOU-COUMBIL Nicolas
 CHAULET Georges
 CHAULIAC Fabrice
 CHAUMETTE Jean-Christophe
 CHAUMIN David
+CHAUTARD Sophie
 CHAUVEL David
+CHAUVEL Louis
 CHAUVIN Rémy
 CHAUVIRÉ Roger
 CHAUX Claude
@@ -2597,6 +2791,7 @@ CHAVASSIEUX Christian
 CHAVIANO Daina
 CHAYEFSKY Paddy
 CHAZAL Roger
+CHEDRU Delphine
 CHEE Traci
 CHEINISSE Claude-François
 CHENEVIERE Jacques
@@ -2613,24 +2808,28 @@ CHÉREAU Fred
 CHÉRON Pierre-Antoine
 CHERRIER Yann
 CHERRYH Carolyn Janice
+CHERVEL André
 CHESBRO George C.
 CHESNEAU Éric
 CHESNEAUX Jean
 CHESNEY Lt-Col. Sir George T.
 CHESTER Deborah
 CHESTER H.C.
+CHESTERTON Gilbert Keith
 CHETWIN Grace
 CHETWYND-HAYES Ronald
 CHEVAL Gilles
 CHEVALIER Alain
 CHEVALIER Chloé
 CHEVALIER Jean
+CHEVALIER Tracy
 CHEVALLEY Mopélia
 CHEVALLIER Claude-Alain
 CHEVALLIER Folco
 CHEVALLIER Jacques
 CHEVALLIER SM.
 CHEVET Céline
+CHEVILLARD Éric
 CHEVIN Barnett
 CHEVRETTE Christiane
 CHEVRON Michel
@@ -2639,6 +2838,7 @@ CHIANG Ted
 CHIARELLLO Fanny
 CHIASSON-VILLENEUVE Rémi
 CHICA
+CHIFLET Jean-Loup
 CHILDER Simon Ian
 CHILD Lincoln
 CHILD Maureen
@@ -2649,16 +2849,19 @@ CHILSON Robert
 CHILTON Charles Frederick W.
 CHIMA Cinda Williams
 CHINTESCO Manou
+CHION Michel
 CHIOSTRI Carlo
 CHIREN Bid
 CHIROUZE Christian
 CHIU Bobby
+CHIVARD Yoann
 CHOISY Maryse
 CHOLLAT Emilie
 CHOLLIER Antoine
 CHOLMONDELEY Mary
 CHOMET Richard
 CHONG Stephanie
+CHOPIN Kate
 CHOQUET Gaston
 CHOQUETTE Adrienne
 CHORIS Ludwig
@@ -2681,6 +2884,8 @@ CH'VAVAR Ivar
 CIARAMELLA Jason
 CIBYLLINE
 CICCARELLI Kristen
+CICCOTTI Serge
+CICÉRON
 CICOGNA Giorgio
 CID R. José
 CIENCIN Denise
@@ -2689,6 +2894,7 @@ CIESLEWICZ Roman
 CILINCA Victor
 CINCIN Sylvain
 CINTRAT Serge
+CIORAN Emil
 CIRIEZ Frédéric
 CISCO Michael
 CISNEROS Antionio
@@ -2718,10 +2924,12 @@ CLARKE I.F.
 CLARKE Susanna
 CLARK Jerome
 CLARK Leonard
+CLARK Pascale
 CLARK Simon
 CLARO Christophe
 CLAUDE-HENRI
 CLAUDEL Louis-Félix
+CLAUDEL Paul
 CLAUDEL Philippe
 CLAUSTRIAUX Geoffrey
 CLAUZEL Raymond
@@ -2731,12 +2939,15 @@ CLAVEL Fabien
 CLAVELOUX Nicole
 CLAVERIE Jean
 CLAVIGNY Georges
+CLAYSSEN Virginie
 CLAYTON Dhonielle
 CLAYTON Emma
 CLAYTON Jo
+CLEARY Thomas
 CLEGG Douglas
 CLEGG Tom
 CLEMENS James
+CLÉMENT Catherine
 CLEMENT Claire
 CLÉMENT Claude
 CLEMENT-DAVIES David
@@ -2744,6 +2955,7 @@ CLÉMENT Frédéric
 CLÉMENT Gilles
 CLEMENT Hal
 CLÉMENT Michel
+CLÉMENT Thomas
 CLÉMENT Yves-Marie
 CLENDENING Logan
 CLERY Frank
@@ -2770,6 +2982,7 @@ COARER-KALONDAN Edmond
 COATANLEM Pascal
 COATES Robert M.
 COBB Willie
+COBEN Harlan
 COBLEY Michael
 COBO Manuel
 COCARO Nicolas
@@ -2789,6 +3002,7 @@ COGAN Paul
 COGGINS Jack
 COGNÉ Christian
 COGSWELL Theodore R.
+COHEN Albert
 COHEN Bernard
 COHEN Cyrielle
 COHEN Jack
@@ -2800,6 +3014,7 @@ COIMBRA Miguel
 COINDREAU Maurice-Edgar
 COISNE Gérard
 COLA Alberto
+COLBO
 COLBUS Jean-Paul
 COLD Chris
 COLE Babette
@@ -2811,15 +3026,19 @@ COLEMAN Loren L.
 COLERIDGE Samuel Taylor
 COLE Stephen
 COLETTE
+COLETTE Sidonie-Gabrielle
 COLFER Chris
 COLFER Eoin
 COLGAN Jenny
+COLIGNON Jean-Pierre
 COLIN Arthur
 COLIN Fabrice
+COLIN Jean-Paul
 COLINS Dick
 COLIN Vladimir
 COLLARD Robert
 COLLAZO Miguel
+COLLECTIF
 COLLEMARE Frédéric
 COLLETTE Sandrine
 COLLIER John
@@ -2839,10 +3058,12 @@ COLLINS Suzanne
 COLLINS Tim
 COLLINS William Wilkie
 COLLODI Carlo
+COLLONGUES Robert
 COLLON Hélène
 COLLYN George
 COLMANT Prosper
 COLMONT Marie
+COLOMBIER-HOCHBERG Agathe
 COLOMBIER Jean
 COLOMBO Andrea G.
 COLONNA Francesco
@@ -2856,12 +3077,16 @@ COMBARD Serge
 COMBAZ Christian
 COMBELLES Anna
 COMBREXELLE Anthony
+COMBROUZE Alain
+COMÈS Didier
 COMMENT Bernard
+COMPAGNON Antoine
 COMPAIN DE SAINT-MARTIN abbé
 COMPÈRE Daniel
 COMPÈRE Gaston
 COMPTON D. G.
 COMTE Jean-François
+COMTE-SPONVILLE André
 CONDE Victor
 CONDIE Ally
 CONDON Richard
@@ -2877,6 +3102,7 @@ CONN Brian
 CONNELL Alan
 CONNELL Brendan
 CONNELL Richard
+CONNELLY Michael
 CONNER Mike
 CONNES Alain
 CONNOLLY Dawn
@@ -2884,8 +3110,11 @@ CONNOLLY John
 CONNOLLY MarcyKate
 CONRAD Daniel
 CONRAD Georges
+CONRAD Joseph
 CONRAD Pam
 CONRAD Robert
+CONROY Frank
+CONROY Pat
 CONSTANTINE Storm
 CONSTANT Jacques
 CONTENTO William
@@ -2895,6 +3124,7 @@ CONVARD Didier
 CONWAY D.J.
 CONWAY Gerard F.
 CONWAY Hugh
+CONZE Edward
 COOK Dawn
 COOKE Cynthia
 COOK (GB) Robin
@@ -2949,10 +3179,12 @@ CORME Véronique
 CORMIER Jean-Marc
 CORMIER Robert
 CORNAROS Vitzentzos
+CORNEAU Guy
 CORNEILLE Pierre
 CORNETTE Jean-Luc
 CORNUT Clotilde
 CORNWELL Bernard
+CORNWELL Patricia
 CORRÊA Henrique Alvim
 CORREA Hugo
 CORREIA Cécilia
@@ -2969,14 +3201,20 @@ CORTEGGIANI François
 CORTES Cécile G.
 CORTHOUTS Christophe
 CORTILE Linda
+CORTOT Alfred
 CORVINI Graziella
 CORWIN Cecil
 COSEM Michel
+COSEY
+COSNIER Colette
+COSSERY Albert
 COSSETTE Danielle
 COSTA André
+COSTE Didier
 COSTELLO Matthew John
 COSTE Nadia
 COSTE Nora
+COSTERMANS Jean
 COSTIKYAN Greg
 COSTILLE Hervé
 COTARD Jean
@@ -3016,6 +3254,7 @@ COURCELLE Olivier
 COURCEL Pierre
 COURNOYER Jacques
 COURTADE Henri
+COURTECUISSE Victor
 COURTIAUD Laurent
 COURTINE Bernard
 COURTOIS-BRIEUX Jean
@@ -3035,6 +3274,7 @@ COUTURIAU Paul
 COUTURIER Brice
 COUTY Daniel
 COUVREUR André
+COUVREUR Stanislas
 COVER Arthur Byron
 COVILLE Bruce
 COVIN Alec
@@ -3083,6 +3323,7 @@ CRISCUOLO David
 CRISENOY Maria de
 CRISPIN Ann Carol
 CRISP Steve
+CRISSE
 CROCI Pascal
 CROHMALNICEANU Ovid S.
 CROISETIÈRE Mathieu
@@ -3098,6 +3339,7 @@ CROSS Kady
 CROSSLEY-HOLLAND Kévin
 CROSS Ronald Anthony
 CROUCH Blake
+CROUZET Thierry
 CROUZET Yves-Daniel
 CROWDAGGER Lizzie
 CROWE Catherine
@@ -3117,6 +3359,7 @@ CSC
 CSERNAI Zoltan
 CSERNUS Tibor
 CUDDON J. A.
+CUECO Henri
 CUEILLERON Jean
 CUENCA Catherine
 CUIDET Arnaud
@@ -3127,8 +3370,10 @@ CUMMINGS Lindsay
 CUMMINGS Raymond King "Ray"
 CUMMINGS Shane Jiraiya
 CUNGE Étienne
+CUNGI Charly
 CUNNINGHAM Elaine
 CUNNINGHAM Michael
+CUNY Marie-Thérèse
 CURÉ Sophie
 CURHAM Siobhan
 CURIOL Céline
@@ -3154,16 +3399,20 @@ CUVELIER Pierre
 CYRANO DE BERGERAC (Hector) Savinien
 CYRIL-BERGER
 CYRIUS
+CYRULNIK Boris
 CZAKOW Guillaume
 CZERNEDA Julie
 CZILINDER Frédéric
 CZMARA Jean-Claude
 DABAT Sophie
+DABITCH Christophe
 DABOS Christelle
+DACO Pierre
 DACOS Jean-Pierre
 DACOSTA Luisa
 DACRE Charlotte
 DA CUNHA Lefter
+DADDAH Muhtar Wuld
 DADIÉ Bernard B.
 DADOUN Roger
 DAGENAIS Luc
@@ -3176,7 +3425,9 @@ DAHL André
 DAHLGREN Madeleine
 DAHLIG Maretha
 DAHLQUIST Gordon
+DAHL Roald
 DAIGNEAULT Mathieu
+DAIN Alphonse
 DAINCHE Alexandre
 DAIRAIN Roger
 DAISNE Johan
@@ -3195,9 +3446,11 @@ DALL ANESE Rémi
 DÄLLENBACH Lucien
 DALMAIS Anne-Marie
 DALRUNE Arnaud
+DALRYMPLE William
 D'ALSACE René
 DALTON Annie
 DALY Catherine
+DALZON Christian
 DAMASIO Alain
 DAMBLANS Eugène
 D'AMBOISE Valéry
@@ -3214,6 +3467,7 @@ D'ANDREA G. L.
 DANDURAND Anne
 DANESHVARI Gitty
 DANGÉRY Jean
+DANIEL A. B.
 DANIELEWSKI Mark Z.
 DANIEL François
 DANIEL Kate
@@ -3226,6 +3480,7 @@ DANIEL Tony
 DANILA Florin Leodor
 DANINOS Pierre
 D'ANJOU René
+DANNEMARK Francis
 DANNEREAU Grégoire
 DANN Jack M.
 D`ANNUNZIO Gabriele
@@ -3235,6 +3490,7 @@ DAN Sergiu Pavel
 DANSKY Richard E.
 DANSLER Robert
 DANTE
+DANTEC Maurice G.
 D'ANTERNY Fredrick
 DANVERS Louis
 DANVILLE Gaston
@@ -3242,11 +3498,13 @@ D'AQUILA Pierre
 D'ARBAUD Joseph
 DARCIS Pierre
 DARCO Élie
+D`ARC Soeur Jeanne
 DARCY BOLES Paul
 D'ARCY Ella
 D'ARCY Manuel
 DARCY Paul
 DARD Frédéric
+DARD Patrice
 DARGENS Paul
 D'ARGYRE Gilles
 DARIDJANA
@@ -3302,6 +3560,7 @@ DAVE Max
 DAVENTRY Leonard (John)
 DAVERAT Loïc
 DAVIAU Mo
+DAVID Alain
 DAVID Bruno
 DAVID-de PALACIO Marie-France
 DAVID François
@@ -3327,10 +3586,12 @@ DAVIS Jack E.
 DAVIS Jerry
 DAVIS John Parke
 DAVIS Mildred
+DAVODEAU Etienne
 DAVOUST Lionel
 DAVRAY Henry D.
 DAVY Marie-Madeleine
 DAWE Carlton
+DAWKINS Richard
 DAWSON David Laing
 DAWSON Delilah S.
 DAWSON George W.
@@ -3356,8 +3617,10 @@ DEBANDT Nicolas
 DEBANS Camille
 DE BANVILLE Théodore
 DEBAQUE Mérédith
+DEBARRE Christian
 DEBATS Jeanne-A
 DE BEAUREPAIRE Alfred Quesnay
+DE BEAUVOIR Simone
 DEBENAT Jean-Paul
 DEBET Anne-Marie
 DEBEURME Ludovic
@@ -3366,12 +3629,14 @@ DEBI Gliori
 DEBILL Walther C. Jr.
 DEBLANDER Gabriel
 DeBLEU Maxime
+DE BLOIS C. Gregoire
 DE BODARD Aliette
 DE BOIS-MADAME Philarète
 DE BOISSY Philippe
 DEBORD Guy
 DE BORES Rémy
 DE BORON Robert
+DE BOYER ARGENS Jean-Baptiste
 DE BRABOIS Xavier
 DeBRANDT Don
 DEBRESSE Pierre
@@ -3384,17 +3649,23 @@ DECANDIDO Keith R. A.
 DÉCARY Marie
 DE CASTELL Sebastien
 DE CAYLUS Comte Anne-Claude-Philippe
+DE CECCATTY René
 DE CELLES Michel
+DE CHARDIN Pierre Teilhard
+DE CHATEAUBRIAND François-René
 DE CHIRICO Giorgio
 DECK François
 DÉ Claire
 DE CLERCK Hendrick
 DE COCK Elvire
 DECOCK Matthieu
+DECOIN Didier
 DE COSTER Charles
+DE COSTER Dominique
 DECOSTER Henri
 DÉCOTTE Alex
 DECOUFLÉ André-Clément
+DE CRÉCY Nicolas
 DE CUNTREVAL Philippe
 DE CURZON Henri
 DECUYPER Michel
@@ -3422,11 +3693,16 @@ DEFRASNE Jean
 DE FRÉMONT D'ABLANCOURT Jean Jacobé
 DE FROMENT Jean-Baptiste
 DE GANS Aléric
+DE GAULLE Charles
 DE GENCÉ Comtesse
 DÉGLANTINE Sylvain
+DE GONCOURT Edmond
+DE GONCOURT Jules
+DE GOURMONT Rémy
 DE GOUVENAIN Marc
 DE GRAMONT Louis
 DE GRANDFORT Marie
+DE GROOT Bob
 DEGÜELLUS
 DE GUENYVEAU François-Régis
 DEHARME Lise
@@ -3447,12 +3723,16 @@ DE KEYSER Frédérique
 DEKISS Jean-Paul
 DEKK Karel
 DEKOBRA Maurice
+DE LA BOÉTIE Étienne
 DELABY Philippe
+DE LACLOS Pierre Choderlos
+DELACOUR Jean
 DELACOUR-MAITRINAL Cécile
 DE LA CRUZ Melissa
 DE LA FORCE Mademoiselle
 DELAFOSSE Bernard
 DELAFOSSE Claude
+DE LA GARANDERIE Antoine
 DELAGE Anthony
 DE LA HARPE Jean-François
 DE LA HIGUERA Luis
@@ -3475,8 +3755,11 @@ DE LA ROCHEFOUCAULD Valérie
 DE LARRABEITI Michael
 DELARUE Claude
 DE LA SARTHE Henriette
+DE LA SCIENCE FICTION Anthologie
+DELAS Daniel
 DE LA TORRE GIMENEZ Estrella
 DELAUME Chloé
+DE LAUTREAMONT Comte
 DE LAVELEYE Soline
 DELBE Alain
 DELBOURG Marylène
@@ -3486,22 +3769,30 @@ DELCOURT Pierre
 DELCROIX Olivier
 DE LEEUW Marc
 DELEPIERRE Gérard
+DELERM Philippe
 DELESSERT Chantal
 DELESSERT Étienne
 DE L'ESTOILE Arnaud
 DELEUZE Gilles
 DELGADO Xavier
+DE L`HOMME Centre Royaumont pour une science
+DELIGEORGES Stéphane
 DELIGNE Michel
 DELIGNY Anne-So
 DELILLE Claire
 DeLILLO Don
+DELILLO Don
 DELINSKY Barbara
 DE LINT Charles
 DE LINTOT Madame
+DELISLE Guy
 DELIT Patrick
 DELLA CHIESA Bruno
+DELLINGER Bruno
 DELLISSE Luc
+DELL Jean
 DELLY
+DELMAR Alexandre
 DELMAS Marie-Charlotte
 DELMEULLE Frédéric
 DELMON Yann
@@ -3532,6 +3823,7 @@ DELTEIL Gérard
 DEL TORO Guillermo
 DE LUBERT Mademoiselle
 DE LUBICZ MILOSZ Oskar Wladislaw
+DE LUCA Erri
 DELUC Thierry
 DELUERMOZ Quentin
 DELVAL Jacques
@@ -3558,10 +3850,12 @@ DEMIAN David
 DE MILLE James
 DEMILLE Nelson
 DEMING Richard
+DE MIOMANDRE Francis
 DEMOLDER Eugène
 DE MOLINER Christian
 DE MOMPER Josse
 DE MONFREID Henri
+DE MONTAIGNE Michel
 DE MONTALVO Garci Rodriguez
 DE MONTELLA Christian
 DE MONTGON Adhémar
@@ -3578,11 +3872,13 @@ DENFELD Rene
 DENIAU Jean-François
 DENIEL Philippe
 DENIEUL Pierre
+DENIMAL Eric
 DE NIMAL Henri
 DENIS Pierre
 DENIS Sébastien
 DENIS Sylvie
 D'ENNERY Adolphe
+DENNETT Daniel C.
 DENNING Troy
 DENNIS Geoffrey (Pomeroy)
 DENNYS Pierre
@@ -3598,13 +3894,18 @@ DE PASCALIS Luigi
 DE PAWLOWSKI Gaston (William Adam)
 DE PAWLOWSKI W.
 DE PEDROLO Manuel
+D`ÉPHÈSE Héraclite
 DE PLOUR Guy René
 DEPOTTE Jean-Philippe
 DE PRACONTAL Michel
+DE PRADA Juan Manuel
 DE PRESSENSE Domitille
 DE PURE Michel
+DEPUSSE Jean
+DE QUINCEY Thomas
 DERAJINSKI Laura
 DERAMBURE Paul
+DERATHÉ Robert
 DE RAUGLAUDRE Nicolas
 DERAY Gil
 DERBAUDRENGHIEN Daniel
@@ -3617,8 +3918,10 @@ DE ROBIEN Gilles
 DE RODRIGUÉ Geneviève T.
 DEROIDE Ioanis
 DE ROMA Alessandro
+DE ROSNAY Joël
 DE ROSSIGNOLI Emilio
 DEROUIN Claire
+DERRIDA Jacques
 DERRIEN Eve
 DERU Myriam
 DERUSSY Julie
@@ -3626,15 +3929,22 @@ DERYCKERE Angie L.
 DERYCKE Tristan
 DERY Mark
 DE SACY Samuel
+DE SADE Marquis
 DE SAINT CHAMAS Benoît
 DE SAINT CHAMAS Emmanuelle
 DE SAINTE MARÉVILLE Cyrille
+DE SAINT PULGENT Maryvonne
 DE SAINT-RAT Yann
+DESALMAND Paul
 DE SA MOREIRA Régis
+DESANTI Jean-Toussaint
 DE SANTIS Pablo
+DE SAUSSURE Ferdinand
 DESBERG Stephen
 DESBIEF Thibaud
 DESBOIS Erwan
+DESBOIS Hervé
+DESCARTES René
 DESCHAMPS Laëtitia
 DESCOINGS Richard
 DESCOSSE Olivier
@@ -3649,6 +3959,7 @@ DESFORGES André
 DES GACHONS Jacques
 DESHUN Jin
 DESIENNE Stéphane
+DE SINGLY François
 DE SIVRY Charles
 DESJARDINS Martine
 DESLANDES Amelith
@@ -3662,13 +3973,16 @@ DESMOND William Olivier
 DESNEUVE Alph
 DESNOS Robert
 DESNOYERS Louis
+DE SOLEMNE Marie
 DE SOLMS Marie
 DE SOUSA CAUSO Roberto
 DESPAIN Bree
 DESPAIN Brian
+DESPENTES Virginie
 DESPLAT-DUC Anne-Marie
 DESPLECHIN Marie
 DESPRÉS Ronald
+DESPROGES Pierre
 DESRIAUX Jean
 DESROCHE Henri
 DES ROCHES Jean
@@ -3676,6 +3990,7 @@ DES ROCHES Roger
 DESROSIERS Emmanuel
 DESSEVRES Pierre-Emmanuel
 DESSIAN Cédrick
+DESSONS Gérard
 DESTANQUE Robert
 DeSTEFANO Lauren
 D'ESTIENNE D'ORVES Nicolas
@@ -3746,6 +4061,7 @@ DI CAMILLO Kate
 DiCHARIO Nick
 DICKENS Charles
 DICKINSON Charles
+DICKINSON Emily
 DICKNER Nicolas
 DICK Philip K.
 DICK R. A.
@@ -3754,6 +4070,7 @@ DICKS Terrance
 DICK Wenceslas-Eugène
 DIDDEN Jack
 DIDELOT Roger-Francis
+DIDEROT Denis
 D'IÉNA Thibault
 DIERX Léon
 DIETER
@@ -3763,6 +4080,7 @@ DIEUMORAIN Alex
 DIEZ Julian
 DIFATE Vincent
 DI FILIPPO Paul
+DIGEST Reader`s
 DIGUET Charles
 DIGUET Westley
 DIKEMAN Kris
@@ -3775,6 +4093,7 @@ DILOV Liouben
 DI MARTINO Richard
 DIMERCURIO Michael
 DIMPRE Henri
+DINCHER Justine
 DION Bertrand
 DIONISIO Vincent
 DION Jean
@@ -3798,6 +4117,7 @@ DIXON Heather
 DIXON Larry
 DIX Shane
 DJERASSI Carl
+DJIAN Philippe
 D.M. Eunice
 DMITROUK Andrei
 DNEPROV Anatoli
@@ -3809,6 +4129,7 @@ DOBRININ Pablo
 DOBSON William
 DOBZYNSKI Charles
 DOCIU Daniel
+D`OCKHAM Guillaume
 DOCKTOR Irv
 DOCTOROW Cory
 DODDS Robert
@@ -3827,15 +4148,19 @@ DOLLENS Morris Scott
 DOLLO Xavier
 DOLRON Désirée
 DOLS Laurent
+DOLTO Françoise
+DOLTO-TOLITCH Catherine
 DOMAS Tatiana
 D'OMBREMONT Manon Elisabeth
 DOMINIQUE André
 DOMINIQUE Pierre
+DONALD Robyn
 DONALDSON Dale C.
 DONALDSON Stephen R.
 DONAT Marc
 DONG Wang
 DONLAY Philip
+DONNÉ Boris
 DONNELLY Joe
 DOOM Kitty
 DOOZ Jean-Marie
@@ -3849,6 +4174,7 @@ DOREMUS Gaëtan
 DORFMAN Joaquin
 DORGELES Roland
 DORIAN Dorel
+DORIN Françoise
 DORIN Philippe
 DORISON Xavier
 DORLEANS Anne Marie Louise
@@ -3860,14 +4186,19 @@ DORRA Martine
 DORRA Max
 DORSENNE Jean
 DORSEY Candas Jane
+DORST Jean
+DORTIER Jean-François
 DORVENNES Julien
 DOSTER F. Paul
 DOSTOÏEVSKI Fédor
+DOSTOÏEVSKI Fiodor
 DOTTEN Eric
 DOTTIN Georges
 DOUARD Michel
 DOUAY Dominique
 DOUBINSKY Sébastien
+DOUBROVSKY Serge
+DOUCET Dominique
 DOUCET Louis-Joseph
 DOUCHET Jean
 DOUDIÈS Laurent
@@ -3879,6 +4210,7 @@ DOUILLY Alain
 DOUNOVETZ Serguei
 DOURIAUX Hugues
 DOURNAN Jacques
+DOURNON Jean-Yves
 DOURY Michel
 DOVERT Stéphane
 DOWD Siobhan
@@ -3895,6 +4227,7 @@ DRAC Romain
 DRAEGER Manuela
 DRAGO Ty
 DRAGT Tonke
+DRAGUET Michel
 DRAKE Brenda
 DRAKE David
 DRAKE Leah Bodine
@@ -3903,11 +4236,13 @@ DRAKE Shannon
 DRATZ Constant
 DRECHSLER Arndt
 DREW Wayland
+DREYFUS François-Georges
 DRIIAN
 DRIOU Alfred
 DRODE Daniel
 DROIT Roger-Pol
 DROLET Stéphane
+DROSTE Magdalena
 DROUGAL Serguei
 DROUHIN Évelyne
 DROUIN Véronique
@@ -3919,6 +4254,8 @@ DRUON Maurice
 DRURY Allen (Stuart)
 DRYFOOS Dave
 DUANE Diane
+DUBÉ Marcel
+DUBOCHET/
 DUBOIN Jacques
 DU BOIS Albert
 DUBOIS Ambre
@@ -3930,7 +4267,9 @@ DUBOURG Marie-Jo
 DUBOURTHOUMIEU Gwenn
 DU BRUL Jack B.
 DUBUIS Gilles
+DUBY Georges
 DU CAMP Maxime
+DUCAYRON Philippe
 DUCHARME Alain
 DUCHATEAU André-Paul
 DUCHATEAU Philippe
@@ -3939,6 +4278,7 @@ DUCHÉ Didier-Jacques
 DUCHEK Tomas
 DUCHEMIN Gérald
 DUCHER Patrick
+DUCHESNE Alain
 DUCHESNE Christiane
 DUCHESNE René
 DUCHON-DORIS Jean-Christophe
@@ -3953,6 +4293,7 @@ DUFAUX Jean
 DUFF Hilary
 DUFORT Constance
 DUFOUR Catherine
+DUFOUR Hortense
 DUFREIGNE Jean-Pierre
 DUFRESNE Didier
 DU GADOUARD Henri
@@ -3960,11 +4301,14 @@ DUGAIN Marc
 DUGALD Steel
 DU GARDIER Raoul
 DU GARD Roger Martin
+DUGAS
 DUGAS Mathieu
 DUGOMIER Vincent
 DUGUAY Christian
 DUGUËL Anne
 DUHAMEL Georges
+DUHAMEL Jean
+DUHAMEL Jérôme
 DUHAMEL Marcel
 DUHAMEL Victoria
 DUITS Charles
@@ -3980,15 +4324,19 @@ DUMAS Alexandre
 DUMAS Alice
 DUMAS Patrick A.
 DUMAS Philippe
+DUMAS Roland
 DU MAURIER Daphné
 DU MAURIER George
 DUMAYET Pierre
 DUMAY Gilles
 DUMERCHAT Frédéric
 DUMONCEAUX Pierre
+DUMONCEL Jean-Claude
 DUMONT (2) Philippe
 DUMONT Claude
 DUMONT Jean-François
+DUMONT Jean-Paul
+DUMONT Laure
 DUMONT Philippe
 DUMOUCHEL Delphine
 DUMOULIN Élodie
@@ -4000,6 +4348,7 @@ DUNCAN David
 DUNCAN Glen
 DUNCAN Hal
 DUNCAN Ronald
+DUNETON Claude
 DUNN C.Z.
 DUNN Katherine
 DUNN Pintip
@@ -4016,13 +4365,18 @@ DUPONT Kurt
 DUPONT Vinceslas
 DUPRAU Jeanne
 DUPRÉ G.
+DUPRIEZ Bernard
+DU PUIGAUDEAU Odette
 DUPUIS-DÉRI Francis
+DUPUIS Hector
 DUPUIS Patrice
 DUPUY Jean-Daniel
+DUPUY Philippe
 DUQUENNE Cécile
 DUQUENNOY Jacques
 DUQUESNE Brigitte
 DUQUESNE Henri
+DURANÇON Jean
 DURAND Claude
 DURAND Dominique
 DURAND Élodie
@@ -4033,12 +4387,15 @@ DURAND Loup
 DURAND Réjane
 DURAND René
 DURANT Robert J.
+DURAS Marguerite
 DURASTANTI Pierre-Paul
 DÜRER Albrecht
 DURET Alain
 DURGIN Doranna
 DURHAM David Anthony
+DURKHEIM Emile
 DUROCHER Luc
+DU ROUTARD Guide
 DURR Cyril
 DURRELL Lawrence
 DÜRRENMATT Friedrich
@@ -4066,6 +4423,7 @@ DUVERNOIS Henri
 DUVERT Guy-Roger
 DUVIC Patrice
 DUVIVIER Julien
+DUVIVIER Marianne
 DUWALD Sylvain
 DVORKIN David
 DWYER James Francis
@@ -4094,6 +4452,7 @@ EBNOU Moussa Ould
 EBORY Elisabeth
 EBSTEIN Jean-Patrick
 E.C. Elyna
+ECHENOZ Jean
 ECKEN Claude
 ECKHARDT Jason C.
 ECO Umberto
@@ -4102,6 +4461,8 @@ EDDINGS Leigh
 EDDISON E.R.
 EDDY Clifford M Jr.
 EDELFELT Albert
+EDELMAN Gerald M.
+EDELMAN Marek
 EDELMAN Nicole
 EDGAR Silène
 EDGHILL Rosemary
@@ -4129,8 +4490,10 @@ EGÉMAR Béatrice
 EGGERS Dave
 EGGLETON Bob
 EGLETON Dominique
+EGLOFF Joël
 EGMONT Henry
 EGOLF Tristan
+EHRENBERG Alain
 EHRET Bruno
 EHRLICH Max Simon
 EHRWEIN Michel
@@ -4147,6 +4510,7 @@ EISHIMA Jun
 EISLER Steven
 EISNER Will
 EIZYKMAN Boris
+EKELAND Ivar
 EKLUND Gordon
 EKMAN Fredrik
 EKMAN Kerstin
@@ -4179,12 +4543,15 @@ ELLIOTT Kate
 ELLIOTT Patricia
 ELLIS A.E.
 ELLIS Bret Easton
+ELLIS Brett Easton
 ELLIS Carol
 ELLIS Carson
+ELLIS David
 ELLIS Dean
 ELLISON Harlan
 ELLIS Warren
 ELLMER Arndt
+ELLROY James
 ELLYSIUM
 EL MACHO Jorge
 EL MAKKI Laura
@@ -4212,6 +4579,7 @@ EMSH Ed
 EMSHWILLER Carol
 EMTSEV Mikhail (Tikhonovich)
 ENAMORTE
+ENCKELL Pierre
 ENDE Michael
 ENDORE Guy
 ENDRÈBE Maurice Bernard
@@ -4222,10 +4590,12 @@ ENGH M.J.
 ENGHOLM Ahrvid
 ENGLAND George Allan
 ENGLAND Guy
+ENGLEBERT Annick
 ENGLUND Robert
 ENGSTROM Elizabeth
 ENRIQUEZ Mariana
 ENSELME-TRICHARD Olivier
+ENSLER Eve
 ENSOR James
 ENZENBACHER Dale
 EON Yann
@@ -4249,6 +4619,7 @@ ERLAND Jean
 ERLER Rainer
 ERMINE Jean-Louis
 ERMOLINSKI Sergueï
+ERNAUX Annie
 ERNOULD Roland
 ERNSHAW Shea
 ERNSTING Walter
@@ -4266,13 +4637,16 @@ ESCHBACH Andreas
 ESCHBACH Marianne
 ESCHENBRENNER Étienne
 ESCHER M. C.
+ESCHYLE
 ESCOUBE Lucienne
+ESCRIBANO Jean-Charles
 ESCUDERO Pedro
 ESCUDIÉ René
 ESHBACH Lloyd Arthur
 ESHED Eli
 ESKRIDGE Kelley
 ESLÈRE Laure
+ÉSOPE
 ESPINOSA Albert
 ESPINOSA Aurelio M.
 ESPINOSA Michaël
@@ -4282,6 +4656,7 @@ ESTEBAN Claude
 ESTEBAN DEIVE Carlos
 ESTÈBE Jean-Luc
 ESTEP Jennifer
+ESTÉS Clarissa Pinkola
 ESTIBAL Sylvain
 ESTLEMAN Loren D.
 ESVÉ Claude
@@ -4289,12 +4664,18 @@ ETCHEBERRY Céline
 ETCHEMENDY Nancy
 ETCHISON Dennis
 ETERNOT Catherine
+ETERSTEIN Claude
 ETÉVENON Pierre
+ETHIER-BLAIS Jean
 ÉTHUIN Philippe
+ÉTIEMBLE René
 ETRIVERT Viviane
 e-troubadour Marco
+ETXEBARRIA Lucia
 EUDES Olivier
 EUGÈNE
+EUGENIDES Jeffrey
+EURIPIDE
 EUSTACE Robert
 EUSTACHE Nicholas
 EVANGELISTI Valerio
@@ -4324,6 +4705,7 @@ EWING Amy
 EWING Lynne
 EX-AGENT SR 27
 EXIMENO Santiago
+EXLEY Helen
 EXTEVAL
 EXTREMADURA Juan
 EYGHAR Paul
@@ -4340,6 +4722,7 @@ FACCINI Emily
 FACCIOLO Doris
 FACON Roger
 FADAT Nicolas
+FADIMAN Anne
 FAGAN Jenni
 FAGEOLLE Pierre
 FAGER Anders
@@ -4368,6 +4751,7 @@ FALLET René
 FALLON Jennifer
 FALLOUR Romuald
 FALLS Kat
+FAMERIE Étienne
 FAÑCH
 FANCHON Claude
 FANDOR Jérôme
@@ -4376,7 +4760,9 @@ FANG Liu
 FANGMEIR Norbert
 FANIOUSSE Pierre
 FANO Daniel
+FANON Frantz
 FANTASKEY Beth
+FANTE John
 FANTHORPE R. L.
 FANTINI Nicola
 FAPIN Zhong
@@ -4385,9 +4771,11 @@ FARAGASSO Jack
 FARAGORN Frédéric
 FARCA Marie C.
 FARCASAN Sergiu
+FARCHY Joelle
 FARDIN Marc-Antoine
 FARGETTON Manon
 FARGUE Léon-Paul
+FARIAS Victor
 FARISON Charlotte
 FARLAND David
 FARLAN Pierre
@@ -4413,6 +4801,7 @@ FAUCHEUX Pierre
 FAUCHON Caroline
 FAUCONNIER Fabrice
 FAULIOT Pascal
+FAULKNER William
 FAULQUES Julie
 FAUQUE Jean-Charles
 FAURA Francisco
@@ -4429,8 +4818,10 @@ FAVARD Jean-Pierre
 FAVREAU Jean-Claude
 FAWCETT Heather
 FAYARD Colette
+FAYE Emmanuel
 FAYE Éric
 FAYE Estelle
+FAYET Michelle
 FAZI Mélanie
 F. B. Vincent
 FEARING Kenneth
@@ -4448,6 +4839,7 @@ FEEK Anthony
 FEFFER John
 FEGER Jérémy
 FEHERVARI Peter
+FEHR Johannes
 FEIBUSH Ray
 FEILLET Naïk
 FEINTUCH David
@@ -4460,8 +4852,10 @@ FEL Jérémy
 FELL Aly
 FELTON Lizzie
 FÉNELON
+FÉNÉON Félix
 FENG Yan
 FENOGLIO Alberto
+FENOUILLET Fabien
 FENRISS
 FÉRAT Jules
 FÉRAUD Gabriel
@@ -4475,9 +4869,11 @@ FERENCZI Joseph
 FÉRET-FLEURY Christine
 FÉRET-FLEURY Madeleine
 FERGUSON Jean
+FERGUSON Will
 FERGUSSON Bruce
 FERJAULT Jacky
 FERMAN Edward L.
+FERMINE Maxence
 FERNANDEZ Danielle
 FERNANDEZ DELGADO Miguel Angel
 FERNANDEZ Fabien
@@ -4491,6 +4887,7 @@ FERNAND-LAFARGUE Jean
 FERNEZ André
 FÉRON Michel
 FERRAND Cédric
+FERRANDEZ Jacques
 FERRAN Pierre
 FERRA Olivier
 FERRARINI Ivo
@@ -4523,14 +4920,19 @@ FESSIER Michael
 FÉTIDUS
 FÉTIS Laurent
 FETJAINE Jean-Louis
+FEUERHAHN Nelly
+FEUVRIER-BOULANGER Aline
 FÉVAL Paul
 FÉVAL Paul (fils)
 FÉVRIER Marc
+FEYDEAU Georges
+FEYRABEND Florent
 FEZANDIÉ Clément
 FFORDE Jasper
 FIALKOWSKI Konrad
 FIATKOWSKA-CALLEBAT Kinga
 FIEDLER Lisa
+FIELDING Helen
 FIELDING Henry
 FIÉROBE Claude
 FIEROBE François
@@ -4541,6 +4943,7 @@ FILLEUL-PÉTIGNY
 FILLION Jane
 FINCH Sheila
 FINDLEY Nigel D.
+FINDLEY Timothy
 FINE Oronce
 FINK Joseph
 FINLAY C.C.
@@ -4553,7 +4956,9 @@ FINOT Jean
 FIORA Marguerite
 FISCHER E. Léonard
 FISCHER Harry Otto
+FISCHER Hervé
 FISCHER Rusty
+FISCHER Tibor
 FISCHLI Bernard
 FISHER Carrie
 FISHER Catherine
@@ -4563,16 +4968,20 @@ FISHER Robert
 FISHER Steve
 FISH Robert Lloyd
 FISK Nicholas
+FITOUSSI Michèle
 FITZBACK Serge
 FITZ Estelle
+FITZGERALD Francis Scott
 FITZGERALD William
 FITZGIBBON (Robert Louis) Constantine (Lee-Dillon)
 FITZPATRICK Becca
 FIVET Luc
 FIX Philippe
 FIZZALA Léa
+FLAGG Fannie
 FLAGG Francis
 FLAHAUT Thomas
+FLAJAC Vincent
 FLAMAND Alexis
 FLAMAND Barbara Y.
 FLAMANT Ludovic
@@ -4580,6 +4989,7 @@ FLAMMARION Camille
 FLANAGAN John
 FLANDERS John
 FLANDERS Rebecca
+FLAUBERT Gustave
 FLAUX Célia
 FLEHR Paul
 FLEISCHER Leonore
@@ -4614,17 +5024,21 @@ FOERSTER Philippe
 FOGGIA Léonard
 FOGLIO Phil
 FOIGNY Gabriel de
+FOLCO Michel
 FOLE Charles
 FOLLETT Ken
 FOLSOM Allan
 FOMENKO Louis-Clément
 FONDANÈCHE Daniel
+FONNET Laurent
 FONTAINE Brigitte
 FONTAINE Eric
+FONTAINE François
 FONTAINE Frédérick
 FONTAINE Gilles
 FONTAINE Luce
 FONTAINE Maxime
+FONTAINE Nicolas
 FONTAINE Perrine
 FONTANA D. C.
 FONTANA Jean-Pierre
@@ -4633,8 +5047,11 @@ FONTANIERES Hervé
 FONTBRUNE Jean-Charles de
 FONTENAILLE Élise
 FONTENAY Charles Louis
+FONTENEAU Jean-Marie
+FONTENELLE Sébastien
 FONTIS Henri
 FONTUGNE Christian (Camille)
+FONYI Antonia
 FONYODI Tibor
 FOON Dennis
 FORBECK Matt
@@ -4647,14 +5064,19 @@ FORD Richard
 FOREMAN Michael
 FOREST Andréa Jo
 FORESTER Cecil Scott
+FORESTIER Georges
+FORESTIER Louis
 FOREST Isabelle
 FOREST Jean-Claude
+FOREST Philippe
 FORET Rachel D.
+FORÊTS Louis-René Des
 FOREY Verge
 FORGE Sylvain
 FORGET Pierre
 FORGIT Michel
 FORGUES Émile
+FORMOSA Gil
 FORNEL Ernest E.
 FORNERET Xavier
 FORREST Bella
@@ -4663,6 +5085,7 @@ FORREST George
 FORREST V.K.
 FORSTCHEN William R.
 FORSTER Edward Morgan
+FORSTER E. M.
 FORST John-Christian
 FORST John-Sébastien
 FORT Charles Hoy
@@ -4693,6 +5116,7 @@ FOUCHER Jacques
 FOUCRIER Chantal
 FOUILLET Pierre
 FOULQUIER Valentin
+FOUREST Caroline
 FOURET Julien
 FOURNEL Paul
 FOURNEL Victor
@@ -4701,6 +5125,7 @@ FOURNIER Christiane
 FOURNIER Fabien
 FOURNIER Guillaume
 FOURNIER Guillaume (2)
+FOURNIER Jean-Louis
 FOURNIER Jean-Pascal
 FOURNIER KISS Corinne
 FOURNIER Thérèse
@@ -4717,6 +5142,7 @@ FOX Gardner F.
 FOX Janet
 FOX Matt
 FOX MAZER Norma
+FOX Paula
 FOYSTER John
 FRABETTI Carlo
 FRACHET Léon
@@ -4724,15 +5150,18 @@ FRADON Ramona
 FRAHM Leanne
 FRAIN Irène
 FRAKES Randall
+FRANÇAISE Ecole biblique et archéologique
 FRANCAIX Audrey
 FRANÇAIX Pascal
 FRANCE Anatole
+FRANCE-LANORD Hadrien
 FRANCE Marie de
 FRANCESCANO Gilles
 FRANCESCHI Patrice
 FRANCES Valérie
 FRANCILLON Clarisse
 FRANCIS Diana Pharaoh
+FRANCIS Dick
 FRANCIS H.G.
 FRANCIS Mario
 FRANCIS Philippe
@@ -4751,11 +5180,14 @@ FRANKLIN Alfred
 FRANKLIN H. Bruce
 FRANKLIN Jo
 FRANK Paul
+FRANQUIN André
 FRANQUIN Gérard
 FRANSKAYA Michel
 FRANSON Donald
 FRANTCHITCH Valentin
+FRANTICO
 FRANTZ Jennifer
+FRANZEN Jonathan
 FRAPPA Jean-José
 FRATER Rhiannon
 FRATTINI Stéphane
@@ -4777,13 +5209,18 @@ FRÉMAUX Anne
 FRÉMION Yves
 FRÉMOV Ivan E.
 FRENCH John
+FRENCH Marilyn
+FRENCH Nicci
 FRENCH Nora May
 FRENCH Paul
 FRENGANOR Vincent
 FRESÁN Rodrigo
 FRESSE Gilles
+FREUD Sigmund
 FREYBURGER Jean-Yves
+FREY Cyril
 FREY James
+FREY Jean-Marie
 FRICK Klaus N.
 FRIDOLFS Derek
 FRIED Erich
@@ -4835,12 +5272,15 @@ FUNNELL Augustine
 FURET Claude
 FUREY Maggie
 FURTH Robin
+FURUYA Usamaru
 FURY David
 FÜSSLI Johann Heinrich
 FUSTEC Alan
 FUTRELLE Jacques
 FUYANG Wang
+FVEQ b
 FYFE Horace B.
+GAARDER Jostein
 GABALDON Diana
 GABIN Christian
 GABORIEAU Joseph
@@ -4853,6 +5293,7 @@ GACHET Gérard
 GADY Philippe
 GAFLA Ofir Touché
 GAGEAC Rémi
+GAGNIÈRE Claude
 GAGNIER Hélène
 GAGNOL Alain
 GAGNON Alain
@@ -4872,13 +5313,16 @@ GAILLARD Frédéric
 GAILLARD Patricia
 GAILLARD Roger
 GAILLARD Yann
+GAILLY Christian
 GAIL Otto Willi
 GAIMAN Neil
 GALACTION Gala
+GALAN Alain
 GALARD Comtesse de
 GALBRAITH John Kenneth
 GALEAZZI Livia
 GALENORN Yasmine
+GALE Patrick
 GALERON Henri
 GALET Jean-Louis
 GALFARD Christophe
@@ -4891,6 +5335,7 @@ GALLAGHER Diana G.
 GALLAGHER Stephen
 GALLAIX Vincent
 GALLAND André
+GALLAND Antoine
 GALLART Rémy
 GALLAS Gilles
 GALLAZ Christophe
@@ -4931,6 +5376,7 @@ GAPDY Jean Christophe
 GARANCE Robert
 GARAND Claire
 GARAND Dominique
+GARAUDY Roger
 GARAVITO Julian
 GARBAY Paul
 GARBER Stephanie
@@ -4984,6 +5430,7 @@ GARRETT Randall
 GARSAULT Alain
 GARTMANN Heinz
 GARTON Ray
+GARY Romain
 GASCOGNE André
 GASCOIGNE Marc
 GASKELL Elizabeth
@@ -4998,6 +5445,7 @@ GASTON-PASTRE Jules-Louis
 GATISS Mark
 GATTANELLA Jacopo
 GATTEGNO Jean
+GATTÉGNO Jean
 GATTEGNO Jean-Pierre
 GAUBERT Jean-Claude
 GAUCHER Jakez
@@ -5005,9 +5453,11 @@ GAUCHET Marcel
 GAUDAR Louis
 GAUDÉ Laurent
 GAUDENCIO DI LUCCA
+GAUDIN Jean-Charles
 GAUDRAT Marie-Agnès
 GAUDY Béatrice
 GAUGHAN Jack
+GAULET Laurent
 GAULON Pierre
 GAULTIER Christophe
 GAULT William Campbell
@@ -5027,6 +5477,7 @@ GAUTIER Théophile
 GAUTIER Théophile Fils
 GAUTIER Vanessa
 GAUT VEL HARTMAN Sergio
+GAVALDA Anna
 GAVARNI S.H.G. Chevalier
 GAVAZZI Michèle
 GAVIN Richard
@@ -5037,14 +5488,17 @@ GAY Bob
 GAY Bruno
 GAY Gabriel
 GAY Kelly
+GAY Michel
 GAY Olivier
 GAYOT Paul
 GAYRAUD Joël
 GAY William
 GAZHOLE
+GEAGLEY Brad
 GEARY Patricia
 GÉBÉ
 GECHTER Olivier
+GEDDES Anne
 GEE Emily
 GEERINCK Manuel
 GEERON Paul
@@ -5060,6 +5514,7 @@ GÉLINAS Martin
 GELLIS Roberta
 GELSEY James
 GELTZER Jeremy
+GELUCK Philippe
 GEM Jonathan
 GEMMELL David
 GEMMELL Stella
@@ -5072,6 +5527,7 @@ GENEST Guy
 GENEST Serge
 GENÊT Aurélie
 GENÊT Emmanuel
+GENETTE Gérard
 GENET Tony
 GENÈVE Pierre
 GENEVOIX Maurice
@@ -5112,6 +5568,7 @@ GERMAIN Laurence
 GERMAIN René
 GERMAIN Sylvie
 GERMAIN Yannick
+GERMA Pierre
 GERNER Jochen
 GERNET Jacques
 GERNSBACK Hugo
@@ -5129,6 +5586,7 @@ GÉVART Pierre
 GÉVRY Gérard
 GHANOUCHI Jamel
 GHELDERODE Michel de
+GHEORGHIU Constantin Virgil
 GHEORGHIU Georges
 GHEZ Emmanuelle
 GHILINI Hector
@@ -5144,10 +5602,13 @@ GIBBONS Dave
 GIBERT Bruno
 GIBERT David
 GIBERT Michel
+GIBRAN Khalil
+GIBSON Anna
 GIBSON Gary M.
 GIBSON Marley
 GIBSON Walter B.
 GIBSON William
+GIDE André
 GIDON Laurent
 GIDWITZ Adam
 GIER Kerstin
@@ -5171,6 +5632,7 @@ GILLIAM Terry
 GILLILAND Alexis A.
 GILLINGS Walter
 GILLI Yves
+GILL Lucy
 GILMAN Carolyn Ives
 GILMAN Charles
 GILMAN Charlotte Perkins
@@ -5181,7 +5643,9 @@ GILSON Paul
 GIMAT DE BONNEVAL Jean-Baptiste
 GIMENEZ Carlos
 GIMENEZ Juan
+GIN
 GINDRE Philippe
+GIONO Jean
 GIORGIONE
 GIOUX Thierry
 GIPE George
@@ -5189,6 +5653,7 @@ GIRALT Pilar
 GIRARD Agnès
 GIRARD Bernard
 GIRARD Cédric
+GIRARDET Raoul
 GIRARDIN Delphine de
 GIRARDIN Georges
 GIRARDI Robert
@@ -5199,12 +5664,15 @@ GIRARDOT Jean-Jacques
 GIRARD Pierre
 GIRARD Raymond
 GIRAUD Albert
+GIRAUD Brigitte
 GIRAUDON Philippe
+GIRAUDOUX Jean
 GIRAUD Robert
 GIREL Stéphane
 GIRERD Jacques-Rémy
 GIRODEAU Gildas
 GIRODET Anne-Louis
+GIRODET Jean
 GIROD Patrice
 GIRONELLA José-Maria
 GIRON Enrique Télllez
@@ -5225,10 +5693,15 @@ GLASER Alice
 GLASER Higashi
 GLASGOW Ellen
 GLASKIN G. M.
+GLASSER William
 GLASS Seressia
 GLAVINIC Thomas
 GLEASON Colleen
+GLEESON Kerry
+GLEICK James
 GLEITZMAN Morris
+GLISSANT Edouard
+GLOAGUEN Philippe
 GLORIS Thierry
 GLOSS Molly
 GLOT Claudine
@@ -5243,12 +5716,15 @@ GOBLED Karine
 GOBLE Warwick
 GODARD André
 GODARD Bastien
+GODARD Henri
 GODBOUT Gaétan
 GODBOUT Yvan
 GODDYN Régis
 GODEAU Eric
 GODEY John
 GODFREY Hal
+GODFRYD Michel
+GODIN Christian
 GODIN DES ODONAIS Louis
 GODIN Marcel
 GODMAN Jane
@@ -5264,11 +5740,14 @@ GOFFART Hélène
 GOFFART Vincent
 GOFFETTE Christophe
 GOFFI Letizia
+GOGOL Nikolai
 GOGOL Nikolaj Vasil'evic
 GOHIER Jacques
 GOIDADIN Maurice
 GOIDTS Bruno
 GOIDTS Francis
+GOIGOUX Roland
+GOIMARD Jacques
 GOLDBERG Tod
 GOLDBERG Whoopi
 GOLDEN Christie
@@ -5276,6 +5755,7 @@ GOLDEN Christopher
 GOLD Glen David
 GOLD Horace L.
 GOLDING Louis
+GOLDING William
 GOLDIN Stephen
 GOLDMAN Leslie
 GOLDMAN William
@@ -5292,8 +5772,10 @@ GOMBROWICZ Witold
 GOMEZ DE LA SERNA Ramon
 GOM Leona
 GONCALVÈS-FÉLIX Fernando
+GONCHAROFF Nicko
 GONGA Saholy
 GONIAK Lauren
+GONICK Larry
 GONNARD Mario-Rémi
 GONNET Charles A(nthoine)
 GONTCHAROV Ivan
@@ -5312,8 +5794,10 @@ GOONAN Kathleen Ann
 GOORDEN Anne B.
 GOORDEN Bernard
 GOORDEN-WETS Anne B.
+GOOSSENS
 GORBOVSKI Alexandre
 GORDIMA Lucien
+GORDIMER Nadine
 GORDON Donald
 GORDON Les
 GORDON Millard Verne
@@ -5333,6 +5817,7 @@ GORON Marie-François
 GORSSE Henry de
 GORT Ilse
 GORY Pascal
+GOSCINNY René
 GOSS James
 GOSS Theodora
 GOTIÉ Mahrk
@@ -5374,6 +5859,7 @@ GOYA Francisco
 GOY Philip
 GOZLAN Léon
 GRABINSKI Stefan
+GRABOWSKI Sandra Reynolds
 GRACE America
 GRACIA Manuel
 GRACIANO Lucas
@@ -5416,6 +5902,8 @@ GRANT Susan
 GRANVILLE Eliza
 GRARD Françoise
 GRASS Günter
+GRATCH Alon
+GRATELOUP Léon-Louis
 GRATIANOPOLIS Marc
 GRATIAS Claire
 GRATINI-LEVIT Marilou
@@ -5477,6 +5965,7 @@ GREY S. L.
 GREY SoFee L.
 G. Ri
 GRIBBIN John
+GRIBBIN John R.
 GRIBBIN Mary
 GRIDBAN Volsted
 GRIERA CALDERÓN Rafael
@@ -5488,6 +5977,7 @@ GRIFFIN Scott Tracy
 GRIFFITH Ann Warren
 GRIFFITH George
 GRIFFITH Nicola
+GRIFFO
 GRILLON
 GRIMALDI Laura
 GRIMAL Pierre
@@ -5508,6 +5998,7 @@ GRINNELL David
 GRIPARI Pierre
 GRIPE Maria
 GRISÉ Martial
+GRISHAM John
 GRISON Benoît
 GRISON Georges
 GRIVEL Guillaume
@@ -5523,10 +6014,12 @@ GROSS Dave
 GROSSI Danilo
 GROSSMAN Austin
 GROSSMAN Lev
+GROSSMAN Vassili
 GROUSSARD Valérie
 GROUSSET Alain
 GROUSSET Paschal
 GROVE S. E.
+GROZDANOVITCH Denis
 GRUAZ Pierre
 GRUBB Davis
 GRUBB Jeff
@@ -5536,23 +6029,31 @@ GRUDZIEN Guy
 GRUMBACH Lena
 GRUNBERG Arnaud
 GRÜNBERG Roland
+GRÜNBERG Serge
 GRUNENBERGER Lysiane
 GRÜNEWALD M. G.
 GRUSON David
 GUADALCAZAR
 GUADALUPI Gianni
+GUARNIDO Juanjo
 GUASTI Gaia
+GUATTARI Félix
 GUAY Patrick
 GUAY-POLIQUIN Christian
 GUDULE
 GUEBEL Daniel
+GUEDJ Denis
+GUÉGUEN Nicolas
+GUÉNO Jean-Pierre
 GUENOT Jean-Paul
 GUÉRAUD Guillaume
 GUERBETTE Patrick
 GUÉRET Christian
 GUÉRINEAU Jérémy
 GUÉRIN Raoul
+GUÉRIN Raymond
 GUÉRIN Rémi
+GUERNE Armel
 GUERO Anne
 GUÉRO Gérard
 GUERRINI Remo
@@ -5562,7 +6063,9 @@ GUÉTARY Hélène
 GUEUDET Arnaud
 GUGENHEIM
 GUGENHEIM-WOLFF Anne
+GUIBERT Emmanuel
 GUIBERT Marius-Pierre
+GUICHARD Jean
 GUICHEN Frédéric
 GUIDOUX Valérie
 GUIEU Jimmy
@@ -5581,6 +6084,8 @@ GUILLÉN Nicolas
 GUILLERMOU Jean-Sébastien
 GUILLET (2) Jean-Pierre
 GUILLET Jean-Pierre
+GUILLEVIC Christian
+GUILLEVIC Eugène
 GUILLON F. C.
 GUILLON-VERNE Claude
 GUILLOT Cécile
@@ -5595,8 +6100,10 @@ GUIOT Denis
 GUISÉRIX Didier
 GUISIANO Danielle
 GUITARD Agnès
+GUITRY Sacha
 GUITTEAUD Corinne
 GUITTON Gustave
+GUITTON Jean
 GU Long
 GUNNARSSON Thorarinn
 GUNN David
@@ -5611,6 +6118,7 @@ GUTH Paul
 GUTHRIDGE George
 GUTMAN Dan
 GUTWIRTH Pierre
+GUYARD Marius-François
 GUYMER David
 GUY Noël de
 GUYON Charles
@@ -5632,10 +6140,14 @@ HABEL Lia
 HABER Karen
 HABERVILLE Jules d'
 HACKETT Sir John (Winthrop)
+HADDAD Gérard
 HADDAD Hubert
 HADDIX Margaret Peterson
+HADDON Mark
+HADENGUE Philippe S.
 HADÈS
 HAEDENS Kléber
+HAEK Jaroslav
 HAGE Isabelle
 HAGGARD Henry Rider
 HAHN Ronald M.
@@ -5647,6 +6159,7 @@ HAIG Matt
 HAI Magdalena
 HAINES Richard Foster
 HAINING Peter
+HAKIM Remi
 HALACY Daniel Stephen Jr.
 HALBROOK K.D.
 HALDANE J.B.S.
@@ -5664,11 +6177,14 @@ HALIN Pierre
 HALKIN John
 HALLAHAN William H.
 HALL Austin
+HALL Edward Twitchell
 HALLET Marc
 HALL Hal W.
+HALLIER Jean-Edern
 HALL Louisa
 HALL Sandy
 HALL Steven
+HALL Tarquin
 HALL Willis
 HALPERN Jake
 HALTER Paul
@@ -5683,6 +6199,7 @@ HAMID Mohsin
 HAMILTON Alex
 HAMILTON Alwyn
 HAMILTON Antoine
+HAMILTON Edith
 HAMILTON Edmond
 HAMILTON Laurell K.
 HAMILTON Peter F.
@@ -5697,6 +6214,9 @@ HAMON Denis
 HAMPÂTÉ BÂ Amadou
 HANDECAULT
 HAND Elizabeth
+HANDKE Peter
+HANDY Charles Brian
+HANFF Helene
 HANH Thích Nhât´
 HANKE-WOODS Joan
 HANOST Paul
@@ -5705,6 +6225,7 @@ HANOVER M.L.N.
 HANSEN Carla
 HANSEN Erik Fosnes
 HANSEN Karl
+HANSENNE Michel
 HANSEN Vilhelm
 HANSHENG Yan
 HANSON Alan
@@ -5770,8 +6291,10 @@ HARRIS Thomas
 HARRY Eric L.
 HARRYHAUSEN Ray
 HARSTAD Johan
+HART Basil H. Liddell
 HART Carolyn
 HARTE Bret
+HART George
 HARTLEY Leslie Poles
 HARTMANN Marie-Odile
 HARTMANN William K.
@@ -5816,11 +6339,13 @@ HAWK William
 HAWTHORNE Nathaniel
 HAWTHORNE Rachel
 HAYASHI Nancy
+HAYDER Mo
 HAYDON Elizabeth
 HAYDON June
 HAYES Gwen
 HAYES Joseph
 HAYES T.
+HAYEZ Jean-Yves
 HAYEZ Sébastien
 HAY George
 HAYNES Betsy
@@ -5846,8 +6371,10 @@ HECHT Yvon
 HECTOR Robert
 HEDAYAT Sadegh
 HEES Elly
+HEGEL Georg Wilhelm Friedrich
 HEGLAND Jean
 HEICHEN Walter
+HEIDEGGER Martin
 HEIDMANN Jean
 HEIM Gérard
 HEINE Colin
@@ -5868,6 +6395,8 @@ HELLO Ernest
 HELPRIN Mark
 HELU Antonio
 HÉMERY Jean-Claude
+HEMINGWAY Ernest
+HEMINWAY ET AL
 HEMRY John G.
 HÉNAULT Rolland
 HENDEE Barb
@@ -5936,8 +6465,11 @@ HÉRON Jean-Olivier
 HERRERO Juan Luis
 HERRIDGE Charles
 HERR SANG Patrice
+HERSANT Yves
 HERSART DE LA VILLEMARQUÉ Théodore
 HERSAY Gilles
+HERSCOVICI Armand
+HERSEN Michel
 HERSON Valérie
 HERVIER Grégoire
 HERVIEU Paul-Louis
@@ -5960,7 +6492,9 @@ HEXING Zhou
 HEYLBROECK Julien
 HEYMES Lorraine-S.
 H.-GIRAUD Mad.
+H Hyssen
 HIBON Christian
+HIBOU Maïtena
 HICHENS Robert Smythe
 HICKMAN Laura
 HICKMAN Stephen
@@ -5982,6 +6516,7 @@ HILLENBRAND Tom
 HILLERMAN Tony
 HILLER Neil W.
 HILL Ernest
+HILLESUM Etty
 HILL Headon
 HILLING Simone
 HILL Joe
@@ -6003,6 +6538,7 @@ HION Monique
 HIPPIUS Zenaïda
 HIRANO Keiichirô
 HIRDT Kai
+HIRIGOYEN Marie-France
 HIRSCHING Nicolas de
 HIRSHBERG Glen
 HIRTZ Manuel
@@ -6034,13 +6570,16 @@ HOEYE Michael
 HOFFMAN Alice
 HOFFMAN Lee
 HOFFMAN Mary
+HOFFMANN Banesh
 HOFFMANN Benjamin
+HOFFMANN Ernst Thedor Amadeus
 HOFFMANN Ernst Theodor Amadeus
 HOFFMANN Horst
 HOFFMAN Nina Kiriki
 HOFFMANN Roald
 HOFFMANN Werner
 HOFMEYR David
+HOFSTADTER Douglas Richard
 HOGAN Chuck
 HOGAN Edward
 HOGAN James P.
@@ -6058,6 +6597,7 @@ HOLIDAY Duchess
 HOLLANDE Eugène
 HOLLAND Sara
 HOLLAND Tom
+HOLLERAN Andrew
 HOLLIS H. H.
 HOLLOWAY Emma Jane
 HOLLY Emma
@@ -6076,6 +6616,7 @@ HOMSY Gaston
 HONAKER Michel
 HONIG Michael
 HONIGSBERG David M.
+HONNEF Klaus
 HONSINGER H. Paul
 HONSPACQ Chris B.
 HOOD Daniel
@@ -6108,6 +6649,7 @@ HOTTOIS Gilbert
 HOUDAER Frédérick
 HOUDART Emmanuelle
 HOUDINI Harry
+HOUELLEBECQ Michel
 HOUGH Jason M.
 HOUGHTON Claude
 HOUGRON Alexandre
@@ -6130,11 +6672,13 @@ HOWARD Robert E.
 HOWE Irving
 HOWE John
 HOWE Katerine
+HOWELL David C.
 HOWELL Katherine
 HOWELL Michael
 HOWEY Hugh
 HOYLE Fred
 HOYLE Geoffrey
+HRABAL Bohumil
 HRIVNAK Jason
 HSU Hui-Lan
 HUANG Jiawei
@@ -6146,6 +6690,7 @@ HUBER Gerhard
 HUBERT Jean-Pierre
 HUBERT-RICHOU Gérard
 HUBIN Christian
+HUBIN Guy
 HUBINON Victor
 HUCHU Tendai
 HUDON Dany
@@ -6165,6 +6710,7 @@ HUGHES Monica
 HUGHES Rhys
 HUGHES Ted
 HUG Nathalie
+HUGO Victor
 HUGUET Hélène
 HUGUET Sylvie
 HUIDOBRO Vicente
@@ -6189,15 +6735,19 @@ HUNTER Mollie
 HUNT Isobel Violet
 HUNT Leon
 HUNTON Robert L.
+HURAULT Marie-Laure
 HURD Douglas (Richard)
 HURLEY Andrew Michael
 HURLEY Kameron
 HURL Vincent T.
 HUSTON Charlie
+HUSTON Nancy
 HUTCHINS J.C.
 HUTCHINSON Dave
+HUTEAU Michel
 HUTMACHER Rahel
 HUTSON Shaun
+HUXLEY Aldous
 HUYGEN Wil
 HUYSMANS Joris-Karl
 HYMAN Miles
@@ -6209,19 +6759,26 @@ IBBOTSON Eva
 IBRI Laurent
 ICHBIAH Daniel
 ICKX Herbert
+IDE Pascal
 IDIERS Marcel
 IFFERER Arthur
+IFRAH Georges
 IGER Jerry
 IGGULDEN C.F.
+IGOUNET Valérie
 IJÄS Jirki
 IKOR Roger
 ILAN Red
+ILF ET PETROV
 ILF Ilya
+ILIFFE John
 ILLIANO Rozenn
+ILLICH Ivan
 ILLING Werner
 ILMI Hazem
 IMBAR Jean-Gérard
 IMBERT Patrick
+INCONNU
 INDICK Ben
 INGHILTERRA Sabrina
 INGLES Teresa
@@ -6231,10 +6788,13 @@ INNES Hammond
 INNESS George
 INNOCENTI Roberto
 INOUE Makoto
+INRETS
+INSERM
 INSTALL Deborah
 INTEM Muriel B.
 INTERNOSCIA Gisèle
 INUI Tomiko
+IOAKIMIDIS Demètre
 IOCHEM Thierry
 IOGNA-PRAT Dominique
 IONE Larissa
@@ -6274,6 +6834,7 @@ JABLOKOV Alexander
 JABLONSKI Carla
 JABRE Elias
 JACAMON Luc
+JACCARD Roland
 JACCAUD Frédéric
 JACINTO Jorge
 JACKA Benedict
@@ -6287,6 +6848,7 @@ JACOBS David M.
 JACOBS Edgar Pierre
 JACOBS Edgar-Pierre
 JACOBS Harvey
+JACOBS Jérôme
 JACOBS Joseph
 JACOBSON Alfred
 JACOBSON Howard
@@ -6325,6 +6887,7 @@ JALOUX Edmond
 JAMES Bryan
 JAMES Donald
 JAMES Francis
+JAMES Henry
 JAMES Laurence
 JAMES Montague Rhodes
 JAMESON Fredric
@@ -6343,6 +6906,8 @@ JANELLE Claude
 JAN Gabriel
 JANIFER Laurence M.
 JANIN Jules
+JANKELEV
+JANKÉLÉVITCH Vladimir
 JAN Lou
 JAN-LOUP
 JANSEN Michel
@@ -6354,8 +6919,10 @@ JAOUEN Anaïs
 JAOUEN Hervé
 JAOUEN Marie
 JAPP Andrea H.
+JAPRISOT Sébastien
 JAQUAYS Paul
 JAQUIER Antoine
+JARRASSÉ Dominique
 JARRELL Randall
 JARRY Alfred
 JARRY Isabelle
@@ -6366,6 +6933,7 @@ JASMIN Claude
 JASPER Ron
 JASSAUD Adrien de
 JAUBERT Ernest
+JAUFFRET Régis
 JAULIAC Patricia
 JAULIN Régis Antoine
 JAUNIN Antoine
@@ -6375,11 +6943,13 @@ JAVET David
 JAVOR Frank A.
 JAWORSKI Jean-Philippe
 JAY Annie
+JEAMMET Nicole
 JEAN-BOULAN Robert
 JEAN-CHARLES Jehanne
 JEAN Cynthia
 JEAN-DESTHIEUX François
 JEAN Didier
+JEAN Georges
 JEAN-LOUP
 JEANNENEY Jean-Noël
 JEANNE René
@@ -6389,6 +6959,8 @@ JEAN Sylvane
 JEDAR Pierre
 JÉGOU Cyril
 JÉHIN Jules
+JELINEK Elfriede
+JELLOUN Tahar Ben
 JELOT-BLANC Jean-Jacques
 JEMISIN N.K.
 JENKINS Paul
@@ -6415,6 +6987,7 @@ JIJÉ
 JILBUCQ Jean
 JIMENES Guy
 JIMENEZ EMAN Gabriel
+JIMENEZ Marc
 JINKS Catherine
 JIRALERSPONG Thomas
 JIXIAN Huang
@@ -6502,6 +7075,7 @@ JONES Stephen Lloyd
 JONES Terry
 JONES Ursula
 JONET Michel
+JONQUET Thierry
 JONSBERG Barry
 JORDAN G(odfrey) P.
 JORDAN Hillary
@@ -6517,10 +7091,12 @@ JOSEPH-RENAUD Jean
 JOSHI Ruchir
 JOSHI S.T.
 JOSSE Francis
+JOSSE Pierre
 JOUANNAUD Laurent
 JOUANNE Emmanuel
 JOUANNY Robert
 JOUBERT Jean
+JOUBERT Joseph
 JOUBERT Nelson
 JOUBERT Patrice de G.
 JOUBERT Pierre
@@ -6528,18 +7104,23 @@ JOUBERT Vincent
 JOUGLA Christian
 JOUGLET René
 JOUHANDEAU Marcel
+JOULE Robert-Vincent
 JOULY André
 JOUNIEAUX Vincent
 JOURAVLEVA Valentina
 JOURDAN Claude
+JOURDAN Eric
 JOURDE Pierre
 JOURNO-DUREY Anouk
 JOUSSET-COUTURIER Béatrice
 JOUTY Sylvain
 JOUVE Géraud
 JOUVE Pierre Jean
+JOUVE Pierre-Jean
 JOUVET Michel
 JOUVET Pierre
+JOUXTEL Pascal
+JOVANOVIC Pierre
 JOY André
 JOYCE Brenda
 JOYCE Graham
@@ -6555,12 +7136,15 @@ JUDDE Benoît
 JUDENNE Roger
 JUDEX
 JUGAND Jean-Philippe
+JUILLARD André
 JUILLARD Sébastien
 JUILLET Jacques-Henri
 JUIN Hubert
 JULAUD Jean-Joseph
 JULIEN Jeanne
+JULIET Charles
 JUN Cai
+JUNG
 JÜNGER Ernst
 JUNG Myeong-seop
 JUNLEN Dong
@@ -6581,6 +7165,7 @@ KADARÉ Ismail
 KADREY Richard
 KAESER Thibaut
 KAEWERT Julie
+KAFKA Franz
 KAGAN Janet
 KAGAN Norman
 KAGAWA Julie
@@ -6609,8 +7194,10 @@ KANDEL Michael
 KANE Gil
 KANE Stacia
 KANG Johanna
+KANT Emmanuel
 KANTOR Vladimir
 KANUX
+KA Olivier
 KAOUT'T'CHOUC Tridace-Nafé-Théobrôme de
 KAO Yi-feng
 KAPLAN Nelly
@@ -6629,12 +7216,14 @@ KARNAUCH Rémi
 KARPYSHYN Drew
 KARR Alphonse
 KARREL Peter
+KAS
 KASDAN Lawrence
 KASISCHKE Laura
 KASPRZAK Mike
 KASSEM Lou
 KASTEVIK Janina
 KASTNER Erich
+KÄSTNER Erich
 KAST Pierre
 KASUGA Yasunori
 KASZUK Cyrille
@@ -6651,6 +7240,7 @@ KAUFMAN Amie
 KAUFMAN Andrew
 KAVAN Anna
 KAVERINE Benjamin
+KAWABATA Yasunari
 KAWAGUCHI Kaiji
 KAWAHARA Reki
 KAWAKAMI Ryô
@@ -6689,6 +7279,7 @@ KELLY Ken
 KELLY Michael
 KELLY Ronald
 KELMAN Judith
+KEMELMAN Harry
 KEMMEL
 KEMP Earl
 KEMPENEERS Gaëlle K.
@@ -6699,6 +7290,7 @@ KENA Sharon
 KENDALL Anna
 KENDALL John
 KENEALY Arabella
+KENNEDY Douglas
 KENNEDY Leigh
 KENNEL Léo
 KENNEL Odile
@@ -6714,6 +7306,7 @@ KEPLER Catherine
 KEPLER Johann
 KEPLER Lars
 KERAVAL Gwen
+KERBAKER Andrea
 KERBONN G.-G.
 KERDJILOV Peter
 KERET Etgar
@@ -6733,6 +7326,7 @@ KERR P. B.
 KERR Philip
 KERRUISH Jessie Douglas
 KERSH Gerald
+KERTÉSZ Imre
 KERVAREC'H
 KERVÉVAN Jean-Yves
 KÉRY Jean
@@ -6744,6 +7338,7 @@ KESSLER Lisa
 KESSLER Liz
 KESTREL Edwyn
 KETCHUM Jack
+KETELE De
 KETELS Denis
 KETTERER David
 KETTLITZ Hardy
@@ -6759,12 +7354,14 @@ KHALKOFF Ivan
 KHAN Katie
 KHAOS Mary
 KHARA David S.
+KHAYYÂM Omar
 KHAYYÃM Omar
 KHEMIR Nacer
 KHIÊM Pham Duy
 KIDBY Paul
 KIDD Chip
 KIEKEN Bernard
+KIERKEGAARD Sören
 KIERNAN Caitlin R.
 KIERNAN Celine
 KIERNAN Stephen
@@ -6772,6 +7369,7 @@ KIFFER Kevin
 KIJÉ Lieutenant
 KILIAN Georges
 KILLIAN Jean-Jacques
+KILLOFFER Patrice
 KILLOUGH Lee
 KILPATRICK Nancy
 KILWORTH Garry
@@ -6798,9 +7396,12 @@ KING Tabitha
 KINGTON Miles (Beresford)
 KING Vincent
 KING William
+KINNEAR Paul
 KINNISON Kimball, Jr.
+KINSELLA Sophie
 KIPIN Sara
 KIP Leonard
+KIPLING Rudyard
 KIRBY Josh
 KIRBY Matthew J.
 KIRCHNER Ernst
@@ -6810,6 +7411,7 @@ KIRIKKANAT Mine G.
 KIRKMAN Robert
 KIRK Robert
 KIRK Russell
+KISHIMOTO Masashi
 KISNER James
 KISTEMAECKERS Henry
 KITAMURA Satoshi
@@ -6817,15 +7419,19 @@ KI-TSI Chen
 KITTREDGE Caitlin
 KIVIRÄHK Andrus
 KLAGES Ellen
+KLAM Matthew
 KLASS David
 KLAVAN Andrew
 KLEE Paul
 KLEINBAUM N. H.
 KLEINBERG Carl
 KLEINBERGER Laurence
+KLEIN Étienne
+KLEIN Gérard
 KLEIN Jean-Pierre
 KLEIN Naomi
 KLEIN Robin
+KLEMPERER Victor
 KLENT Hadrien
 KLEY Heinrich
 KLÍMA Ladislav
@@ -6869,6 +7475,7 @@ KOEPP David
 KOESTLER Arthur
 KOISUMI Yakumo
 KOJA Kathe
+KOJÈVE Alexandre
 KOKE Jak
 KOKOSCHKA Oscar
 KOLEBKA Georges
@@ -6897,8 +7504,11 @@ KOSMATKA Ted
 KOSTICK Conor
 KOSTOVA Elizabeth
 KOTZWINKLE William
+KOUCHNER Bernard
 KOUPRINE Alexandre
+KOURILSKY Philippe
 KOURKOV Andreï
+KOUROUMA Ahmadou
 KOVALENKOV Sergueï
 KOVASEVIC Vuk
 KOWAL Mary Robinette
@@ -6911,6 +7521,7 @@ KRAMER Frank
 KRAPIVINE Vladislav
 KRASZEWSKI Josef Ignacy
 KRAUS Daniel
+KRAUS Karl
 KREBS Franck
 KREISS Bernard
 KRÉMER Jean-Pierre
@@ -6921,6 +7532,9 @@ KRIJANOVSKAIA Véra
 KRINARD Susan
 KRINGS Jean-Marc
 KRING Tim
+KRIS
+KRISHNAMURTI Jiddu
+KRISTOF Agota
 KRISTOFF Jay
 KRITZER Naomi
 KROHN Leena
@@ -6945,15 +7559,19 @@ KUBRICK Stanley
 KUCZKA Peter
 KUDDAN Yalin Georgi
 KUEVA C.
+KUHN Thomas Samuel
 KUJAWINSKI Peter
 KUKALIS Romas
 KULPER Kendall
 KUNDERA Milan
 KÜNSKEN Derek
 KÜNZI Christophe
+KUNZMANN Peter
+KUNZRU Hari
 KUO Camille
 KUPERBERG Robert
 KURAHASHI Yumiko
+KUREISHI Hanif
 KURIMOTO Kaoru
 KURLAND Michael
 KUROSAWA Kiyoshi
@@ -6977,6 +7595,7 @@ LABARTHE André S.
 LABAT Franck
 LABAT Louis
 LA BATUT Pierre de
+LABBÉ Brigitte
 LABBÉ Denis
 LABBÉ Luc
 LABBE Stéphane
@@ -6993,6 +7612,7 @@ LABROUSSE Nathalie
 LABRUNIE Vincent
 LABY Denis
 LACARRIÈRE Jacques
+LACASSE Micheline
 LACASSIN Francis
 LACEY Josh
 LACHLAN M. D.
@@ -7011,6 +7631,7 @@ LADOUARI Laurent
 LAEFT Dan
 LA FARGE Oliver
 LAFARGUE Freddie
+LAFARGUE Paul
 LAFERME Édouard
 LAFFERTY Mur
 LAFFERTY R. A.
@@ -7023,18 +7644,23 @@ LA FONTAINE Jean De
 LAFONT Daniel
 LA FONTINELLE Jean de
 LAFORCE Louis
+LAFORGUE Jules
 LA FOUCHARDIÈRE Georges de
 LAFRAMBOISE Michèle
 LAFRANCE Catherine
+LAFRANCE Guy
 LA FRANCE Henri
 LA FRANCE Micheline
 LAFRANCE Micheline
 LAFRANCE Pierre-Luc
 LAFRANCE Roger
+LAGACHE Daniel
+LAGARDE Alain
 LAGARDE Ève
 LAGARDE Pierre
 LAGERLÖF Selma
 LAGERSTEDT Mikko
+LAGET Thierry
 LAGNEAU Hippocrate
 LAGRANGE Pierre
 LAGUERRE Philippe
@@ -7075,6 +7701,7 @@ LAMAZOU Titouan
 LAMBADARIS Stéphan
 LAMBERT Christophe
 LAMBERT Jacob
+LAMBERT Paul
 LAMBERT P.J.
 LAMB Harold
 LAMBIL Willy
@@ -7094,10 +7721,12 @@ LAMPO Hubert
 LAMQUET Christian
 LAMUR Sylvain
 LAMY Claude
+LAMY Jean-Claude
 LANAGAN Margo
 LANCE Katherine
 LANCET Barry
 LANDA Norbert
+LANDES David S.
 LANDIS Geoffrey A.
 LANDOLFI Tommaso
 LANDON Perceval
@@ -7147,6 +7776,7 @@ LAPIPE Mélanie
 LAPLANCHE Stéphan
 LAPOINTE Claude
 LAPORTE Michel
+LAPORTE Roger
 LAPORTE Sylvie
 LAPOUGE Laure-Marie
 LAPOUSSIÈRE Tristan
@@ -7156,6 +7786,7 @@ LARBAIGT Hélène M.
 LARBALESTIER Justine
 LARBAUD Valéry
 LARCENET Manu
+LARCENET Patrice
 LARCHER Geoffroy
 LARCHEY Loredan
 LARDNER Ring
@@ -7170,16 +7801,19 @@ LARKIN Bob
 LARME Patrick
 LAROCHE Agnès
 LA ROCHELLE Pierre Drieu
+LAROUSSE Pierre
 LARRY Yan
 LARSEN Reif
 LARSON Glen A.
 LARSON Nathan
+LARSSON Stieg
 LARTAS Christophe
 LARTIGUE Hubert de
 LARUE Anne
 LARZEM François
 LASA Catherine de
 LASAGNA Roberto
+LASBATS Chantal
 LASCAULT Gilbert
 LASELLE Jean-Pol
 LASJUILLIARIAS Sylvain
@@ -7196,6 +7830,8 @@ LATIL Pierre de
 LATORRE Laurent
 LATOUR-BURNEY Valérie
 LA TOUR DU PIN Patrice
+LA TOUR Florence Dupré
+LATOUR Sébastien
 LATTE Ekart
 LATTIER Gérard
 LAUGHAM Max
@@ -7205,11 +7841,13 @@ LAUN Friedrich
 LAURAND Thierry
 LAURENT Agnès
 LAURENT Delphine
+LAURENT Éric
 LAURENT Magali
 LAURIAN Marcel
 LAURICELLA Anne
 LAURIE Alain
 LAURIE André
+LAURIOT-PRÉVOST Claude
 LAUTRÉAMONT Isidore Ducasse  Comte de
 LAUTREC Gabriel de
 LAUZIER Gérard
@@ -7224,6 +7862,7 @@ LA VARENDE Jean de
 LAVAUD Régis
 LA VAULX Cte Henry de
 LAVAUR Pierre
+LAVEAULT Dany
 LAVEDAN Henri
 LAVERDET Marcel
 LA VINGTRIE Jean de
@@ -7241,11 +7880,14 @@ LAWRENCE Mark
 LAWRENCE Michael
 LAWRENCE Theo
 LAWS Stephen
+LAYE Françoise
+LAYGUES Bernard
 LAYMON Richard
 LAYMORE H.
 LAZARE Bernard
 LAZARESCU Christian
 LAZARTCHOUK Andreï
+LAZUECH Gilles
 LAZURE Jacques
 L. Bastien
 LEACOCK Stephen
@@ -7255,6 +7897,7 @@ LÉAL Frédéric
 LÉANDRI Bruno
 LEAR Edward
 LÉAUD Francis
+LÉAUTAUD Paul
 LÉAUTÉ Pierre
 LEBAILLY Monique
 LE BARS Louise
@@ -7274,6 +7917,7 @@ LE BOSSÉ Michel-Vital
 LEBOULANGER Camille
 LEBOUTET Alain
 LE BRAZ Anatole
+LE BRETON David
 LE BRETON Nicolas
 LE BRIS Michel
 LE BRUN Charles
@@ -7282,6 +7926,7 @@ LEBRUN Michel
 LEBUGLE André
 LE BUSSY Alain
 LE CALLET Blandine
+LE CAM Laurent
 LECAS Gérard
 LECAYE Alexis
 LECERCLE Jean-Jacques
@@ -7312,6 +7957,7 @@ LECOUFFE-DEHARME Bastien
 LECOUTEUX Claude
 LE CRAVER Jean-Louis
 LÉCRIVAIN Olivier
+LEC Stanislaw Jerzy
 LECUYER Philippe
 LÉCUYER René
 LEDESMA Francisco González
@@ -7352,6 +7998,7 @@ LEFÈVRE Thierry
 LEFRANC DE POMPIGNAN Jean-Jacques
 LEFRANC Pamela
 LE GAC Jean
+LE GALL Frank
 LE GALLO Céline
 LE GALLO Claude
 LE GALL Pierre
@@ -7377,6 +8024,7 @@ LE GRAND Claire
 LEGRAND Claude J.
 LEGRAND Ilka
 LEGRAND Marc-Antoine
+LEGUAY Thierry
 Le Guen Pierre
 LE GUILLOU Philippe
 LE GUIN Ursula K.
@@ -7391,6 +8039,7 @@ LEHR Paul
 LEIALOHA Steve
 LEIBER Fritz
 LEIBER Justin
+LEIBRICH Geneviève
 LEICHT Markus
 LEIGH Stephen
 LEIGHTON Erica
@@ -7399,6 +8048,8 @@ LEIGHTON Sir Frédéric
 LEI Li
 LEINONEN Anne
 LEINSTER Murray
+LEIRIS Michel
+LEITES Edmund
 LEIVA Antonio Dominguez
 LEIVIK H.
 LEI Zhang
@@ -7411,6 +8062,7 @@ LELONG René
 LELOUP Fabienne
 LELOUP Roger
 LEMAIRE Gérard
+LEMAIRE Patrick
 LEMAIRE Philippe
 LE MAITRE Barbara
 LEMAITRE Jules
@@ -7449,6 +8101,7 @@ LENK Fabian
 LENNE Gérard
 LENN Jonas
 LE NOBLE Eustache
+LENOBLE-PINSON Michèle
 LENOIR Frédéric
 LENOIR Joseph
 LENORMAND Frédéric
@@ -7461,6 +8114,7 @@ LENVERS Léo
 LEOKUM Leonard
 LÉO Loïc
 LEONARD Elmore
+LEON Donna
 LEONETTI Bernard
 LÉONNEC Félix
 LÉOURIER Christian
@@ -7472,6 +8126,7 @@ LE PALLEC Loïc
 LEPAPE Marc
 LE PAS André
 LE PAYRE Véronique
+LEPERS John Paul
 LÉPINE Pierre
 LE PIVAIN Pierre
 LE PIXX Pierre
@@ -7500,8 +8155,10 @@ LEROUX Alfred-Gaston
 LEROUX Auguste
 LEROUX Catherine
 LEROUX Denis
+LEROUX Gaston
 LE ROY Boris
 LEROYER Pierre-Denis
+LEROY Gilles
 LE ROY Grégoire
 LEROY Jérôme
 LEROY Martine
@@ -7510,8 +8167,11 @@ LEROY-RAMBAUD Martine
 LEROY Violaine
 LERUTH Dominique
 LE SAUSSE Patricia
+LESAY Jean-Damien
+LESBROS Dominique
 LESCALET Nine
 LESCAP Julien
+LESCURE Jean
 LE SIDANER Jean-Marie
 LESKOV Nicolas
 LESLIE V.H.
@@ -7525,6 +8185,7 @@ LESTER Alison
 LESTER Andrew
 LESUEUR Éric
 LETAILLEUR Nathalie
+LE TENDRE Serge
 LETENDRE Serge
 LE THANH Taï-Marc
 LETHEM Jonathan
@@ -7532,6 +8193,8 @@ LÉTI
 LETORT Yves
 LÉTOURNEAU Rénald
 LETSCH Ralph
+LÉTURGIE Jean
+LÉTURGIE Simon
 LEUMAN Jo
 LEUTRAT Jean-Louis
 LEVALLOIS Stéphane
@@ -7549,6 +8212,7 @@ LÉVI Éliphas
 LÉVI Jean
 LEVILAIN-CLÉMENT Emmanuel
 LEVIN Adam
+LEVINAS Emmanuel
 LÉVINE Alexandre
 LEVINE Daniel
 LEVINE David D.
@@ -7557,6 +8221,7 @@ LEVI Primo
 LÉVIS-MIREPOIX Duc de
 LEVISON Iain
 LEVITHAN David
+LEVITT Steven D.
 LEVITZ Paul
 LEVRERO Mario
 LEVRON Jacques
@@ -7575,6 +8240,7 @@ LEWIS J. F.
 LEWIS Matthew G.
 LEWIS Roy
 LEWITT Shariann
+LEYENS Jacques-Philippe
 LEYMARIE Marie
 LEY Willy
 LEZA MORENO Victor Manuel
@@ -7583,6 +8249,7 @@ L'HEUREUX Christine
 L'HOMME Erik
 LHOMME Tristan
 LHOSTIS Christian-Yves
+LHULLIER Sylvain
 LIABEUF Fanny
 LIAGRE François-Xavier
 LI-AN
@@ -7593,13 +8260,17 @@ LIBENZI Ermanno
 LIBERATORE Tanino
 LI-CAM
 LICHTENBERGER André
+LICHTENBERG Georg Christoph
 LICHTENBERG Jacqueline
 LICTEVOUT Hugues
+LIEBERMAN Herbert
+LIEBIG Etienne
 LIEF Evelyn
 LIÉGEON Virginie
 LIE Jonas
 LIENARD Jacques
 LIENHARDT Jean-Michel
+LIEURY Alain
 LIEVENS Henri
 LIFFNER Eva-Marie
 LIGHTNER A(lice) M(artha)
@@ -7613,6 +8284,7 @@ LIMA Chely
 LIMAT Maurice
 LIMBERGER Tobias
 LIMITE
+LIMOGES Jacques
 LINATI Carlo
 LINAWEAVER Brad
 LIN Chen
@@ -7632,6 +8304,7 @@ LINDSAY Norman
 LINDSEY Johanna
 LINDSKOLD Jane
 LING Hui
+LINHART Robert
 LINK Kelly
 LINKLATER Eric
 LINLEY SAMBOURNE Edward
@@ -7650,7 +8323,9 @@ LIPSYTE Robert
 LIQUOIS Auguste
 LIRZIN Thierry
 LISLE Holly
+LISPECTOR Clarice
 LISS David
+LITTELL Jonathan
 LITTLE Bentley
 LITTLEMOUSE J.
 LITT Toby
@@ -7673,6 +8348,7 @@ LLEWELLYN Edward
 LLEWELLYN Livia
 LLINARÈS André
 LLOP Frédéric
+LLOSA Mario Vargas
 LLOYD Saci
 LLOYD Tom
 LOCATELLI Loïc
@@ -7682,6 +8358,7 @@ LOCKHART E.
 LOCK Jean
 LOCKWOOD Todd
 LOC Larry
+LODGE David
 LODI-RIBEIRO Gerson
 LO DUCA Joseph Marie
 LOETSCHER Michel
@@ -7691,9 +8368,11 @@ LOEYCHE Henrik
 LOFFICIER Jean-Marc
 LOFFICIER Randy
 LOFTING Hugh
+LOFTUS Elizabeth
 LOISEAU Yvette-Marie
 LOISEL Élodie
 LOISEL Régis
+LOISY Jacques
 LO JACONO Massimo
 LOLI Eugenia
 LOMAN David
@@ -7705,6 +8384,7 @@ LOMBART DE LA VILLOTIÈRE Baron
 LONCAN Martine
 LONDON Geo
 LONDON Jack
+LONDRES Albert
 LONG Anna C.
 LONG Dustin
 LONG Frank Belknap
@@ -7712,6 +8392,7 @@ LONG Julius W.
 LONG Nathan
 LONGO Davide
 LONGRE Blandine
+LONGUS
 LONGYEAR Barry B.
 LÖNNBERG O.E.
 LOPE DE VEGA
@@ -7729,6 +8410,7 @@ LORD Virginia
 LORENJY Don
 LORENS Alexis
 LORENTZEN Birgitte
+LORENZ Konrad
 LORENZONI Piero
 LORE Pittacus
 LOREY Dean
@@ -7747,6 +8429,9 @@ LORUSSO Adriana
 LORY Robert (Edward)
 LOSSKY Olga
 LOTEY Andrée
+LOT Ferdinand
+LOTI Pierre
+LOTTMAN Eileen
 LOTTMAN Herbert
 LOTZ Sarah
 LOUBET Christophe
@@ -7777,6 +8462,7 @@ LOWDER James
 LOWE Helen
 LOWNDES Robert A.W.
 LOWRY Lois
+LOWRY Malcolm
 LOWRY Robert
 LOYCHE Hans Henrik
 LOYGUE Jean-Sébastien
@@ -7787,6 +8473,7 @@ LUBBERS Bob
 LUBIE Lou
 LUBIN Jean-François
 LUBRANO Lucien
+LUCA Ghérasim
 LUCAS George
 LUCAS Tim
 LUCAZEAU Romain
@@ -7802,6 +8489,7 @@ LUCIDI Mario
 LUCIEN DE SAMOSATE
 LUCIEN-GRAUX Docteur
 LUCK John
+LUCRÈCE
 LUDA
 LUDWIG Edward W(illiam)
 LUEZIOR Claude
@@ -7825,6 +8513,7 @@ LUNOIS Alexandre
 LUNOT Bertrand
 LUO GUAN-ZHONG
 LUPOFF Richard A.
+LUTES Jason
 LUTON Jean-Claude
 LUTTRELL Hank
 LUTZ John
@@ -7869,9 +8558,11 @@ MACÉ Florian
 MacFARLANE Wallace
 MacGREGOR Ellen
 MacGREGOR Rob
+MACHADO Antonio
 MACHADO Carmen Maria
 MacHALE D. J.
 MACHEN Arthur
+MACHIAVEL Nicolas
 MACHINAL Hélène
 MACHINE Philippe
 MACHOROWSKI Marthe
@@ -7897,9 +8588,11 @@ MacRAE Norman
 MacTAGGAERT Bran
 MACUMI Malaïka
 MAD André
+MADAULE Pierre
 MADDOX Tom
 MADOURAUD Marc
 MADRAS Vincent
+MAËL
 MAËL Pierre
 MAES Dominique
 MAETERLINCK Maurice
@@ -7911,10 +8604,12 @@ MAGEAU Romain
 MAGIN Ulrich
 MAGNANENSI Cecilia
 MAGNAN Pierre
+MAGNARD Pierre
 MAGNASON Andri Snær
 MAGNÉ Cécile
 MAGNIN Florence
 MAGNUS Olaus
+MAGNY Claude Edmonde
 MAGOG H.J.
 MAGRE Maurice
 MAGRITTE René
@@ -7931,6 +8626,7 @@ MAIA Emmanuelle
 MAIDIERES Pierre
 MAIER Corinne
 MAILER Norman
+MAILHOT Laurent
 MAILLARD Lucien
 MAILLARD Yvonne
 MAILLART Jehan
@@ -7939,6 +8635,7 @@ MAILLET Caroline
 MAILLET Jean
 MAILLOUX Serge
 MAILLY Louis, chevalier de
+MAI Mukhtar
 MAINARD Dominique
 MAINE Charles Eric
 MAINE David
@@ -7948,6 +8645,7 @@ MAIRE Christophe
 MAIRE Frédéric
 MAIROWITZ David Zane
 MAISONNEUVE Emmanuelle
+MAISONNEUVE Jean
 MAÎTREJEAN Louis Lazare
 MAITZ Don
 MAIZEL Rebecca
@@ -8002,6 +8700,7 @@ MANCASSOLA Marco
 MANCHESTER Sean
 MANCHETTE Jean-Patrick
 MANCHU
+MANDELBROT Benoît
 MANDEL Emily St. John
 MANDERS Harry
 MANDY
@@ -8009,10 +8708,13 @@ MANE Holy
 MANGAN James Clarence
 MANGELS Andy
 MANGOLD Adrien
+MANGUEL Alberto
 MANIAK Arnaud S.
 MANIER Bernard
+MANIEZ Dominique
 MANIGNAL Patricia
 MANINI Jack
+MANKELL Henning
 MANN-BORGESE Elisabeth
 MANNERING Paul
 MANN George
@@ -8034,12 +8736,16 @@ MANUEL Claude
 MANUEL Don Juan
 MANUEL Florent
 MANUEL Franck
+MANUS André
 MANZOR René
 MAP Gautier
+MARADONA Diego
+MÁRAI Sándor
 MARAIT Florian
 MARASCO Robert
 MARAUDY Paul
 MARCASTEL Jean-Luc
+MARCEAU Félicien
 MARCEAU Martin
 MARCELLINO Fred
 MARCEL Patrick
@@ -8057,11 +8763,14 @@ MARCHETTO Hélène
 MARCHETTO Sybille
 MARCHIKA Colin
 MARCHIONI M.
+MARCHON Benoît
 MARCH William
 MARCLOFF Jean
+MARCOIN Francis
 MARCO John
 MARCQ Véro-Lyse
 MARCUS Ben
+MARCUSE Herbert
 MARCY Didier
 MARCY Gérard
 MARDON Grégory
@@ -8091,6 +8800,8 @@ MARILAC
 MARILLAC Alain
 MARILLIER Juliet
 MARINES Johanna
+MARINI Enrico
+MARININA Aleksandra
 MARIN Rafael
 MARIO Auguste
 MARIO Maurice
@@ -8117,6 +8828,7 @@ MAROTO Esteban
 MAROTTA Florent
 MARPHIL Ménéas
 MARQUET Denis
+MÁRQUEZ Gabriel Garcia
 MARQUIS Nataniel
 MARRAK Michael
 MARRAMA Daniele Oberto
@@ -8150,6 +8862,7 @@ MARTEL Jay
 MARTEL Julie
 MARTEL Serge
 MARTEL Suzanne
+MARTENS Andreas
 MARTENSSON Bertil
 MARTENS Thierry
 MARTIGNY Comte de
@@ -8171,10 +8884,12 @@ MARTINE Arkady
 MARTINE-BARNES Adrienne
 MARTIN Edu
 MARTIN Ellen Raven
+MARTINET Pierre
 MARTINETTI Anne
 MARTINEZ A. Lee
 MARTINEZ Carole
 MARTINEZ DE LA VEGA Pepe
+MARTÍNEZ Guillermo
 MARTINEZ Luis Garcia
 MARTINEZ Rodolfo
 MARTINEZ Tonio
@@ -8182,11 +8897,13 @@ MARTIN François
 MARTIN Gail Z.
 MARTIN GAITE Carmen
 MARTIN George R. R.
+MARTIN George R.R.
 MARTIN Graham Dunstan
 MARTINIÈRE Stephan
 MARTINIGOL Danielle
 MARTINI Virgilio
 MARTIN Jack
+MARTIN Jacques
 MARTIN Jason
 MARTIN Jean
 MARTIN Jean-Clet
@@ -8196,6 +8913,7 @@ MARTIN Kurt
 MARTIN Les
 MARTIN Lionel-Édouard
 MARTIN Michael A.
+MARTIN Michel Élie
 MARTIN Paul
 MARTIN-PÉCHEUX Marie
 MARTIN Pierre (2)
@@ -8270,8 +8988,11 @@ MATIVAT Daniel
 MATIVAT Marie-Andrée
 MATJE Martin
 MATOS José Martinez
+MATOUK Jean-Richard
 MATSON Lynne
 MATSON Norman H.
+MATSUMOTO Seicho
+MATSUMOTO Taiyou
 MATSUURA Daruma
 MATTÉI Jean-François
 MATTEO
@@ -8279,6 +9000,7 @@ MATTHEWS Andrew
 MATTHEWS Patricia
 MATTHEWS Rodney
 MATTHEY Hubert
+MATTHIEU Corinne
 MATTHIEU Serge-André
 MATTHIEUSSENT Brice
 MATTINGLY David B.
@@ -8299,6 +9021,7 @@ MAUGHAM William Somerset
 MAUHOURAT Jean
 MAUMÉJEAN Xavier
 MAUPASSANT Guy de
+MAUPIN Armistead
 MAUREL Gilbert
 MAURENSIG Paolo
 MAURE Rémi
@@ -8309,6 +9032,7 @@ MAURI Christophe
 MAURIN Adrien
 MAURIN Isa
 MAUROIS André
+MAUVIGNIER Laurent
 MAUVILLON Eléazar de
 MAUZAN Lucien Achille
 MAUZENS Frédéric
@@ -8318,12 +9042,14 @@ MAXENCE Philippe
 MAXEY James
 MAXIM John R.
 MAXIMOVIC Gerd
+MAXWELL-HUDSON Clare
 MAXWELL Lisa
 MAYHAR Ardath
 MAY Julian
 MAYLE Peter
 MAYNADIER Boris
 MAYNARD Joël
+MAYNARD Solomon
 MAYNARD William Patrick
 MAYNE Jean-Louis
 MAYNE-REID Capitaine
@@ -8331,6 +9057,7 @@ MAYNIAL Edouard
 MAY Olivier
 MAYORGA Gabriel
 MAZ
+MAZAN
 MAZAN 1968
 MAZARIN Jean
 MAZAURETTE Maïa
@@ -8357,6 +9084,7 @@ McCAULEY H. W.
 McCAY Bill
 McCLELLAN Brian
 McCLINTON Malcolm
+MCCLOUD Scott
 McCLOY Helen
 McCONNELL Ashley
 McCONNELL James
@@ -8366,6 +9094,8 @@ McCOY Max
 McCREIGH James
 McCREIGHT Kimberly
 McCRUMB Sharyn
+MCCULLERS Carson
+MCDERMID Val
 McDERMOTT Andy
 McDEVITT Jack
 McDONALD David
@@ -8375,7 +9105,9 @@ McDONALD Sandra
 McDOWELL Michael
 McEVOY Seth
 McEWAN Ian
+MCEWAN Ian
 McFALL Claire
+MCFARLAND David
 McFARREL Sean
 McFATHER Nelle
 McGAHAN Andrew
@@ -8385,6 +9117,7 @@ McGIVERN William P.
 McGOOHAN Patrick
 McGOUGH Scott
 McGOWAN Demi
+MCGOWAN Kathleen
 McGRATH Christian
 McGRATH Patrick
 McGRAW Charles G.
@@ -8414,6 +9147,7 @@ McKEONE  Dixie Lee
 McKILLIP Patricia A.
 McKIMMEY James
 McKINLEY Robin
+MCKINLEY Tamara
 McLAREN Teri
 McMAHON Thomas
 McMULLAN Kate H.
@@ -8473,13 +9207,16 @@ MELOY Colin
 MELQUIOT Fabrice
 MELTZER David
 MELTZOFF Stanley
+MELVILLE Herman
 MEMBRE François
 MÉMOIRE DU TEMPS
 MÉNARD Diane
 MENARD Emmanuel
+MENARD Jean-Denis
 MÉNARD Jean-François
 MÉNARD Julie
 MÉNARD Olivier
+MÉNARD Pascal
 MENDÈS Catulle
 MENDEZ PINTO Fernan
 MENDONÇA Aurélie
@@ -8500,6 +9237,7 @@ MERCHEZ Gabrielle
 MERCIER Claude
 MERCIER Hélène
 MERCIER Jacques
+MERCIER Louis Sébastien
 MERCIER Louis-Sébastien
 MERCIER Luc
 MERCIER Mario
@@ -8514,11 +9252,14 @@ MÉRIC Patrick
 MÉRIC Victor
 MÉRIGOT Bernard
 MÉRILLAC Landry
+MÉRIMÉE Prosper
 MÉRINDOL Ismaël
 MERISCA Lucian
 MERJAGNAN Norbert
 MERKER Reinhard
+MERLEAU-PONTY Maurice
 MERLE Claude
+MERLE Robert
 MERLIER Frédéric
 MERLIN Pierre
 MÉROT Alain
@@ -8529,6 +9270,7 @@ MERRITT Abraham
 MERWIN Sam Jr.
 MÉRY Joseph
 MERY Marwan
+MESCHONNIC Henri
 MESHKOV Aleksej
 MESLIER Bertrand
 MESPLÈDE Claude
@@ -8536,6 +9278,7 @@ MESSAC Ralph
 MESSAC Régis
 MESSAGE Vincent
 MESSENGER Shannon
+MESSINGER Joseph
 MESSMER Lucas
 MESTA Gabriel
 MESTRON Hervé
@@ -8544,6 +9287,7 @@ META
 METANTROPO
 MÉTAYER Vincent
 METCALFE John
+METSCHIES Michael
 METTRA Claude
 METZEN Chris
 METZLER Jost
@@ -8566,6 +9310,7 @@ MEYER Stephenie
 MEYERS Theresa
 MEYNARD Daniel
 MEYNARD Yves
+MEYNIEL Dominique
 MEYNIEL François
 MEYRINK Gustav
 MÉZIÈRES Jean-Claude
@@ -8575,12 +9320,14 @@ MEZRICH Ben
 MEZZOMO Gilles
 MIANO Léonora
 MIASSANGOU Jean-Paul
+MICHA Alexandre
 MICHAELS Philip
 MICHAELS Rune
 MICHAKA Stéphane
 MICHAUD Nando
 MICHAUD Susan
 MICHAUD Thomas
+MICHAUD Yves
 MICHAUT Valérie
 MICHAUX Henri
 MICHEL Aimé
@@ -8598,6 +9345,7 @@ MICHELLE Patrice
 MICHEL Louise
 MICHEL Luce
 MICHEL Marie-Agnès
+MICHEL Serge
 MICHELS Tilde
 MICHEL Vincent
 MICHENER James
@@ -8612,6 +9360,7 @@ MIGNAVAL Philippe
 MIGNON Charles
 MIGNON Philippe
 MIGNOTTET Sébastien
+MIHAILEANU Radu
 MIHAYLOVA Larisa
 MIKHAËL Ephraïm
 MIKHAILOV Vladimir
@@ -8630,6 +9379,7 @@ MILLEFIORI Dimitri
 MILLEMANN Jean
 MILLE Pierre
 MILLER Christopher
+MILLER Frank
 MILLER Henry
 MILLER Ian
 MILLER John Jackson
@@ -8655,10 +9405,13 @@ MILLET Gilbert
 MILLET J(acques)
 MILLET Jean-François
 MILLET Lydia
+MILLET Olivier
 MILLETTE Annie
 MILLHAUSER Steven
 MILLIEN Achille
+MILLY Jean
 MILNE A. A.
+MILNE A.A.
 MILNER H. M.
 MILNER Max
 MILNE Robert Duncan
@@ -8670,6 +9423,7 @@ MINCHIN Brian
 MINERATH Marc
 MINER Horace M.
 MINERVA Nadia
+MINGARELLI Hubert
 MINH Yann (Nguyen)
 MINKOV Svetoslav
 MINNEBOO Jean-Claude
@@ -8687,10 +9441,12 @@ MIRANDE Jacqueline
 MIRAUCOURT Christophe
 MIRBEAU Octave
 MIRMAN Anne
+MIRO Juan Punyet
 MIRONOV Alexandru
 MIRRLEES Hope
 MISEREY Bernard
 MISHIMA Yukio
+MISSIKA Jean-Louis
 MISSONNIER Catherine
 MISTI
 MISTRAL Frédéric
@@ -8706,6 +9462,7 @@ MITCHISON Naomi
 MITFORD A. B.
 MITSUSE Ryu
 MITTELHOLZER Edgar
+MITTERAND Henri
 MIYABE Miyuki
 MIYAZAKI Hayao
 MIYAZAWA Kenji
@@ -8713,6 +9470,7 @@ MIZIO Francis
 MIZUNO Ryô
 M. LE BARON DE CRAQUE
 MLYNOWSKI Sarah
+MOATTI Alexandre
 MOCHON Jean-Philippe
 MOCKEL Albert
 MOCKERS Sébastien
@@ -8724,6 +9482,7 @@ MOFFETT Judith
 MOFFITT Donald
 MOFOLO Thomas
 MOGUÉROU Pascal
+MOHNNAU Ralph
 MOHS Mayo
 MOI
 MOIGNOT Daniel
@@ -8757,6 +9516,7 @@ MONDET Yves
 MONDIOT Vincent
 MONDOLONI Jacques
 MONDRAGON Juan Carlos
+MONÉNEMBO Tierno
 MONET Astrid
 MONET Claude
 MONETTE Paul
@@ -8773,6 +9533,7 @@ MONNERET Pierre
 MONNEROT Viviane
 MONNIER Jean-Gabriel
 MONNIER Marius
+MONNIN Nathalie
 MONOD Jean-Louis M.
 MONOD Sylvère
 MONOD Théodore
@@ -8780,6 +9541,7 @@ MONORY Jacques
 MONOT Philippe
 MONSIGNY Jacqueline
 MONTACLAIR Florent
+MONTAGNER Hubert
 MONTAGNE Sylvain
 MONTAGUT Christophe
 MONTALBAN Manuel Vázquez
@@ -8794,20 +9556,25 @@ MONTELEONE Thomas F.
 MONTEL Philippe
 MONTERO Rosa
 MONTÉSANTI Aline
+MONTÉSINOS Christian
 MONTÉSISTE Laurent
+MONTESQUIEU
 MONTFAUCON DE VILLARS Abbé Nicolas Pierre Henri De
 MONTFORT Elie
 MONTIER Mathilde
+MONTIGNAC Michel
 MONTILLON Christian
 MONTLOIN Pierre
 MONTOCCHIO Henri
 MONTORGUEIL Georges
 MONTPETIT Charles
 MONT-RACHAIS Héloïse de
+MONTREYNAUD Florence
 MONTSERRAT Ricardo
 MOODY David
 MOODY Rick
 MOON Elizabeth
+MOONEY Chris
 MOORAT A.E.
 MOORCOCK Michael
 MOORE Alan
@@ -8831,6 +9598,7 @@ MOPSIK Charles
 MORAIS Jose Manuel
 MORALIE Pierre
 MORAND Claude
+MORAND Paul
 MORANTE Elsa
 MORAVIA Alberto
 MORDAUNT Elinor
@@ -8838,11 +9606,13 @@ MORDEN Simon
 MORDWOOD Peter
 MORÉAS Jean
 MOREAU Catherine
+MOREAU Denis
 MOREAU Éric
 MOREAU Françoise
 MOREAU Gustave
 MOREAU Hélène
 MOREAU Jean-Luc
+MOREAU Jeanne
 MOREAU Marcel
 MOREAU Patrick
 MOREL Dave
@@ -8873,6 +9643,7 @@ MORICAND Conrad
 MORI Hiroshi
 MÖRIKE Eduard
 MORIN Anne
+MORIN Edgar
 MORIN Hugues
 MORIN Philippe
 MORISI Paolo
@@ -8887,6 +9658,7 @@ MORRELL David
 MORRESSY John
 MORRIGAN Orcus
 MORRILL Rowena
+MORRIS Desmond
 MORRIS-DUMOULIN Gilles
 MORRIS G.
 MORRIS G. A.
@@ -8896,6 +9668,7 @@ MORRIS Mark
 MORRISON Arthur
 MORRISON Boyd
 MORRISON Grant
+MORRISON Jim
 MORRISON Toni
 MORRISON William
 MORRISSET Franck
@@ -8955,6 +9728,7 @@ MOYNOT Emmanuel
 MOYON Sandra
 MOZZI Giulio
 MRABET Mohammed
+MRÉJEN Valérie
 MROZEK Slawomir
 MUCCHIELLI Jacques
 MUCHNIK Maïra
@@ -8971,6 +9745,7 @@ MULLEN Thomas
 MULLER Anne
 MULLER Anton
 MULLER Gerda
+MÜLLER Jürgen
 MÜLLER Xavier
 MULOT Pascal
 MUNBY Alan Noel Latimer
@@ -8987,13 +9762,16 @@ MUNSONIUS Marten
 MUNUERA José Luis
 MURAIL Elvire
 MURAIL Lorris
+MURAIL Marie-Aude
 MURAKAMI Haruki
 MURAKAMI Ryû
+MURAMATSU Tomomi
 MURA Philippe
 MURATA Range
 MURATET François
 MURAT Gilles
 MURAT Madame de
+MURAY Philippe
 MURCIANO Carlos
 MURCIE Georges
 MURDOCK M. S.
@@ -9011,6 +9789,7 @@ MUSA Gilda
 MUSÄUS Johann Karl August
 MUSCHIETTI Andy
 MUSCHIETTI Barbara
+MUSIL Robert
 MUSSET Alain
 MUSSO Emily
 MUSSO Guillaume
@@ -9026,16 +9805,21 @@ MYSOR Fernand
 MYSTÈRE Paul
 MYSTERY WRITERS OF AMERICA
 MYST Magnus
+MYTHIC
 MZALI-DUPRAT Marie-Claire
 NAAM Ramez
 NABB Magdalen
+NABE Marc-Édouard
+NABERT Jean
 NABL Franz
+NABOKOV Vladimir
 NABORS William
 NADA Blaise
 NADALET Gabriel
 NADAUD Alain
 NADAUD Mireille
 NADJA
+NADOLNY Sten
 NAGAI Gō
 NAGAÏKA
 NAGAO Seio
@@ -9068,11 +9852,15 @@ NATHAN Robert Gruntal
 NATHY
 NAUGRETTE Jean-Pierre
 NAU John-Antoine
+NAULT Thérèse
 NAUS Henri
 NAVAILLES Robert
 NAVARRO Yvonne
+NAVEAU Etienne
 NAVIGLIO Luigi
+NAYEBI Jean-Charles
 NAYERI Daniel
+NAZARE-AGA Isabelle
 NAZARIAN Vera
 NDIAYE Marie
 NDONG Fatou
@@ -9099,7 +9887,9 @@ NELSON Alan
 NELSON Jessica L.
 NELSON Ray
 NEMER Monique
+NÉMIROVSKY Irène
 NÉROMAN Dom
+NERUDA Pablo
 NERVAL Gérard de
 NERVEUX Jules
 NÉRY Gérard
@@ -9126,6 +9916,7 @@ N'GUESSAN Lydie
 NGUYÊN DU
 NGUYEN Dustin
 NGUYEN Jean-Jacques
+NICAISE Edouard
 NICHOLLS Peter
 NICHOLLS Stan
 NICHOLS Leigh
@@ -9152,6 +9943,7 @@ NIELSEN Jan Henrik
 NIELSEN Marija
 NIELSEN Terese
 NIEMAND O.
+NIEMI Mikael
 NIETZSCHE Friedrich
 NIEUDAN Éric
 NIFFENEGGER Audrey
@@ -9160,6 +9952,7 @@ NIGRO Christofer
 NIKOLAVITCH Alex
 NILES Douglas
 NIMERSHEIM Jack
+NIMIER Marie
 NIMIER Roger
 NIMMO Jenny
 NINE Carlos
@@ -9175,6 +9968,7 @@ NIVAT Georges
 NIVEN Larry
 NIX Garth
 NIXON Audrey
+NIZAN Paul
 NIZEROLLES René-Marcel de
 NIZET Marie
 NJEMBA MEDOU Jean-Louis
@@ -9194,6 +9988,7 @@ NOÉ Yvan
 NOFROST Mike
 NOHANT Gaëlle
 NOIREZ Jérôme
+NOIRIEL Gérard
 NOIRJEAN Claudine-Hélène
 NOJIMA Kazushige
 NokomisM
@@ -9261,6 +10056,7 @@ NUETZEL Charles
 NUMA Shozo
 NUNCQ Emmanuelle
 NUPPONEN Anni
+NURY Fabien
 NUTMAN Philip
 NYBERG Bjorn
 NYGÅRDSHAUG Gert
@@ -9302,6 +10098,7 @@ OEMOR Ève
 OFFUTT Andrew J.
 OFFUTT Chris
 OF GLENCOE Morgan
+OGAWA Yôko
 OGILVY Ian
 OGIWARA Noriko
 OHL Jean-Pierre
@@ -9354,6 +10151,7 @@ O'NEILL Joseph
 ONIONS Oliver
 ONIRINA Lanto
 ONOCHKO Léonid
+ONO-DIT-BIOT Christophe
 ONO Fuyumi
 ONOPA Robert
 O.O Dan
@@ -9376,6 +10174,7 @@ ORMEROD Jan
 OROSZ István
 O'ROURKE Erica
 O'ROURKE Tim
+ORSENNA Erik
 ORSINI Alexis
 ORSONI Francette
 ORSONI Jérôme
@@ -9384,6 +10183,7 @@ ORTEGA Cris
 ORTHLIEB Gérard
 ORTLIEB Gilles
 ORVIETO Laura
+ORWELL George
 OSBORN David
 OSBORNE Mary Pope
 OSBOURNE Lloyd
@@ -9401,6 +10201,7 @@ O'SULLIVAN Vincent
 OSVALD Gilles
 OSWALD James
 OSWALD Pierre Jean
+OTOMO Katsuhiro
 OTSUKA Eiji
 OTTUM Bob
 OUADAH Rachid
@@ -9412,6 +10213,7 @@ OUELLETTE Pierre
 OULD SALECK Ahmed
 OULIÉ André
 OULITSKAÏA Ludmila
+OUOLOGUEM Yambo
 OUREDNIK André
 OUSPENSKI Edouard
 OUSPENSKI Mikhaïl
@@ -9430,6 +10232,7 @@ PACAT C.S.
 PACCALET Yves
 PACHECO Maria Jesus
 PACHE Raphaëlle
+PACHET Pierre
 PACHI Luigi
 PACKARD Vance
 PACQUET Henri
@@ -9438,9 +10241,11 @@ PAGE Alain
 PAGEAU Marc
 PAGE Christian Robert
 PAGEL Michel
+PAGELS Heinz
 PAGE Marie
 PAGE Martin
 PAGE Norvell W.
+PAGE Olivier
 PAGERY François
 PAGES Émilie
 PAGE Thomas
@@ -9450,6 +10255,7 @@ PAGLIANO Paule
 PAGLIASSOTTI Dru
 PAGLIO François
 PAGLIUSO Filipe
+PAGNOL Marcel
 PAHLISCH Colin
 PAILLER Jean-Pierre
 PAILLET Marc
@@ -9478,9 +10284,12 @@ PALMER Stuart
 PALOU Jean-Bernard
 PALTOCK Robert
 PALUDETTI Franco
+PAMUK Orhan
+PANACCIO Claude
 PANASSENKO Léonide
 PANAYOTOPOULOS Nicos
 PANCHARD Georges
+PANCOL Katherine
 PANDOLFI Massimo
 PANEK Leroy Lad
 PANGBORN Edgar
@@ -9491,6 +10300,7 @@ PANSHIN Cory
 PANTELL Dora
 PANTIN Isabelle
 PAOLINI Christopher
+PAPERT Seymour
 PAPIERSKI-BREDY Anne-Marie
 PAPILIAN Victor
 PAPINI Giovanni
@@ -9549,6 +10359,7 @@ PARVULESCO Jean
 PASCAL Francine
 PASCAL Michel
 PASINI Alberto
+PASOLINI Pier Paolo
 PASQUE Aubin
 PASQUEREAU Claude
 PASQUEREAU Daniel
@@ -9584,6 +10395,7 @@ PAUCARD Alain
 PAUL Barbara
 PAUL Donita K.
 PAULEY Kimberly
+PAUL Frank
 PAUL Frank R.
 PAULHAC Jean
 PAULIN Christophe
@@ -9633,6 +10445,7 @@ PEEL John
 PEEPLES Samuel A.
 PEETERS Benoît
 PEETERS Bruno
+PEETERS Frederik
 PEF
 PÉGUIN Sébastien
 PEHUET Yves
@@ -9646,6 +10459,7 @@ PELEGRIN Javier
 PELEVINE Viktor
 PÉLIEU Claude
 PELINI Michel
+PELLEJERO Ruben
 PELLERIN Gilles
 PELLERIN Patrice
 PELLETAN Germaine
@@ -9661,12 +10475,16 @@ PELMAN Brice
 PELOSATO Alain
 PELOT Dylan
 PELOT Pierre
+PELT Jean-Marie
 PEMBERTON Max
 PEMERLE Didier
+PENA-RUIZ Henri
 PENAUD Maxime
 PENDANX Jean-Denis
 PENDARVES G. G.
 PENDLETON Thomas
+PENEFF Jean
+PENNAC Daniel
 PENNART Geoffroy de
 PENNES Sébastien
 PENNEY Lloyd
@@ -9676,6 +10494,7 @@ PENROSE Roger
 PÉPIN Maryse
 PERCHOC Erwann
 PERCY Benjamin
+PEREC Georges
 PERERA Anaïs
 PÉRÈS Jean-Baptiste
 PÉREZ Dominique
@@ -9687,8 +10506,11 @@ PERGER Stéphane
 PERICOLI Tullio
 PÉRIER Isabelle
 PÉRIGOT Joseph
+PERINO Luc
 PERISSET Maurice
+PERLMAN Elliot
 PERNAL Vincent
+PERNON Gérard
 PERNOT Isabelle
 PÉROCHON Ernest
 PÉROT Edmond-Maurice
@@ -9701,8 +10523,10 @@ PERRET Michèle
 PERRETTE René
 PERRIER Dominique
 PERRIER Edmond
+PERRIN Agnès
 PERRIN Don
 PERRIN Isabelle
+PERRIN Jean
 PERRIN Jules
 PERRIN Jules (Laurent)
 PERRIN Maud
@@ -9722,6 +10546,7 @@ PERUCHO Juan
 PERU Oliver
 PERU Olivier
 PERU Stéphane
+PERUTZ Leo
 PERUTZ Léo
 PERVILHAC Alice
 PESCHET Lilian
@@ -9731,6 +10556,7 @@ PESSAN Éric
 PESSIN Alain
 PESSIN Marc
 PESSIS Jacques
+PESSOA Fernando
 PESTRINIERO Renato
 PESTUREAU Gilbert
 PETAGNO Joe
@@ -9738,6 +10564,7 @@ PETAJA Emil
 PETERFREUND Diana
 PETER Pierre
 PETER Raimund
+PÉTER Rozsa
 PETERS Bryan
 PETERSEN Jesse
 PETERS Fémi
@@ -9763,8 +10590,10 @@ PETTERSSON Vicki
 PETTIGREW Jean
 PEUDENIER Laurence
 PEVEL Pierre
+PEWZNER Evelyne
 PEYRAMAURE Michel
 PEYRE Fernand
+PEYREFITTE Roger
 PEYRE Marc
 PÉZARD André
 PFEFFER Susan Beth
@@ -9776,6 +10605,7 @@ PHAM LeUyen
 PHANG Loo Hui
 PHELAN James
 PHI Daniel
+PHILIBERT
 PHILIPPART Michel
 PHILIPPE Jean-Loup
 PHILIPPE René
@@ -9786,10 +10616,12 @@ PHILLIPS Marie
 PHILLIPS Peter
 PHILLIPS Rog
 PHILLPOTTS Beatrice
+PHILONENKO Alexis
 PHIPSON Joan
 PHIZ
 PHUZIANT Xavier
 PIASECKI Jerry
+PIAT Jean-Bernard
 PIATTI Celestino
 PICACIO John
 PICANO Felice
@@ -9799,11 +10631,14 @@ PICARD Gilbert
 PICARD Marthe
 PICASSO Fabio Adrian
 PICASSO Pablo
+PICCARD A.
 PICCIRILLI Tom
 PICHARD Georges
+PICHOIS Claude
 PICHOLLE Éric
 PICHON Jean-Charles
 PICKMAN Debra
+PICOCHE Jacqueline
 PICON Antoine
 PIEGAI Daniela
 PIEILLER Evelyne
@@ -9823,6 +10658,7 @@ PIERRE Maeva
 PIERRE Victor
 PIERROUX Jacques
 PIERRU Georges
+PIERSAN
 PIETRI Annie
 PIETTE Isabelle
 PIEYRE DE MANDIARGUES André
@@ -9841,6 +10677,8 @@ PILU Gianluigi
 PINBOROUGH Sarah
 PINCHON Serge
 PINCIO Tommaso
+PINÇON-CHARLOT Monique
+PINÇON Michel
 PINEAU Christian
 PINEAUX Séverine
 PINEDA Arnaud
@@ -9848,6 +10686,7 @@ PINEDO Rafael
 PINEIRO R. J.
 PINEL Jean-Gil
 PINERA Virgilio
+PINGAUD Bernard
 PINGET Robert
 PING Lu
 PINGUILLY Yves
@@ -9865,12 +10704,14 @@ PIQUEMAL Michel
 PIRANDELLO Luigi
 PIRET Daniel
 PIRON Alexis
+PIRON Constantin
 PIROTTE Emmanuelle
 PISCAGLIA Christian
 PISERCHIA Doris
 PISHIER
 PITON Jean-Pierre
 PITTIER Jacques-Michel
+PIVEN Joshua
 PIVIDAL Rafaël
 PIZZORNO Benedetto
 PLACE François
@@ -9895,6 +10736,8 @@ PLEET Kathleen
 PLICHOTA Anne
 PLISSON Emmanuel
 PLONTKE Helmut
+PLOTIN
+PLUTARQUE
 POBLOCKI Dan
 POCHESCI Bruno
 PODOLNY Roman
@@ -9907,6 +10750,7 @@ POILLEVE Sylvie
 POINCARÉ Henri
 POINDRON Pierre-Yves
 POINTELIN Auguste
+POINTS-SAGESSE
 POIRIER Philippe
 POIRRIER Dr. Philippe
 POIRSON David
@@ -9922,6 +10766,7 @@ POLAK Eric
 POLANIS Jacques
 POLANSKY Daniel
 POLEISCHUK A.
+POLGAR Laszlo
 POLICE Aurélien
 POLIDORI John William
 POLI Jean-Dominique
@@ -9931,18 +10776,23 @@ POLLÈS Renan
 POLLET Jean-Jacques
 POMÈS Paul
 POMPIDOU Georges
+PONGE Francis
 PONGRATZ Peter
 PONS Maurice
 PONSON DU TERRAIL Pierre Alexis
 PONS René
+PONTALIS Jean-Bertrand
+PONTI Claude
 PONTIER Arnauld
 PONTY-AUDIBERTI Marie-Louise
 POORTEN Yves Ver
+POPE Dan
 POPESCU Cristian Tudor
 POPKES Steven
 POPOLLS
 POPP Walter
 PORATH Ellen
+PORÉE Jérôme
 PORGES Arthur
 PORITZKY Jakob Elias
 PORQUET André
@@ -9955,6 +10805,7 @@ PORTER Andrew
 PORTER Paco
 PORTRAIT Pierre
 PORT Red
+POSADAS Carmen
 POSKITT Kjartan
 POSLANIEC Christian
 POSNICK Paul
@@ -9966,6 +10817,7 @@ POST Melville Davisson
 POTHIN-WIDEMANN Myriam
 POTOCKI Jan
 POTR Loran
+POTTER Beatrix
 POTTER Ellen
 POTTER J. K.
 POTZ France
@@ -9975,6 +10827,7 @@ POUDAT Hervé
 POUGATCH Isaac
 POUGET Anne
 POUGET Émile
+POUILLON Fernand
 POUILLOUX David
 POUJOIS Laurent
 POULET-MALASSIS Auguste
@@ -9984,6 +10837,7 @@ POULIN Richard
 POULIOT Luc
 POULLAIN Edmond-Marie
 POUMEYROL Jean-Marie
+POUND Ezra
 POUPON René
 POUPON R. et R.
 POURBAIX Isabelle
@@ -9994,6 +10848,7 @@ POU Songling
 POUSSIER Grégory
 POUSSIN Gilles
 POUVOURVILLE Albert de
+POUY Jean-Bernard
 POUZADOUX Claude
 POWELL Gareth L.
 POWELL Talmage
@@ -10004,6 +10859,7 @@ POWERS William T.
 POWYS John Cowper
 POZNANSKI Ursula
 POZNER Vladimir
+POZZOLI Milena Ercole
 POZZUOLI Alain
 P. R.
 PRACHE Léonce
@@ -10017,9 +10873,11 @@ PRATCHETT Terry
 PRATES Vania
 PRATES V.I.
 PRATT Fletcher
+PRATT Hugo
 PRATT T. A.
 PRATT Tim
 PRÉ Jean-François
+PRELI Georges
 PRELLE Emmanuel
 PRELLER Friedrich
 PRÉMONT Henri
@@ -10049,6 +10907,7 @@ PRIESTLEY John Boynton
 PRIEUR Arnaud
 PRIEUR Jean
 PRIEUR Jérôme
+PRIGOGINE Ilya
 PRIMAVERA Elise
 PRINCE Alison
 PRINCE Nathalie
@@ -10062,9 +10921,11 @@ PRITCHARD John
 PROAL Jean
 PROJECT ITOH
 PROKOFIEV Sergueï
+PROKOSCH Frederic
 PRONZINI Bill
 PROSPERI Piero
 PROU Gil
+PROULX Annie
 PROUMEN Henri-Jacques
 PROUST Emmanuel
 PROUST Marcel
@@ -10092,19 +10953,24 @@ PULVER Joseph S.
 PUNCER Frank
 PUNTER David
 PURDOM Tom
+PURVES Dale
 PUSCH Harald
+PUTMAN Cyrille
 PUTNEY Mary Jo
 PUTTERS Jean-Pierre
 PUYBARET Éric
 PUYRAVAUD Frédéric
+PUZO Mario
 PY John Ethan
 PYLE Howard
+PYNCHON Thomas
 PYNE Nicholas
 QEROS H.
 QIN Man
 QINYU Yan
 QI Wang
 QI Yanhua
+QUADRIGE
 QUADRUPPANI Serge
 QUAN Xiang
 QUARRÉ Charline
@@ -10117,6 +10983,7 @@ QUENOT Katherine
 QUENTIN Emmanuel
 QUENTREC Marie
 QUÉRAN Patricia
+QUÉRAUD Marie-Hélène
 QUERO Yann
 QUESADA Angel Torres
 QUESEMAND Anne
@@ -10129,12 +10996,14 @@ QUEYSSI Laurent
 QUIBERON Robert
 QUICK Dorothy
 QUICK William T.
+QUIGNARD Pascal
 QUILLER-COUCH Sir Arthur
 QUILLIEN Christophe
 QUILLIET Catherine
 QUINE Caroline
 QUINEL Charles
 QUINN Seabury
+QUINT Michel
 QUINT Nicolas
 QUIRIELLE Jean de
 QUIRINY Bernard
@@ -10147,6 +11016,7 @@ RABA Jean-Pierre
 RABASA Eduardo
 RABBITTE David
 RABE Jean
+RABELAIS François
 RABIER Antoine
 RABIER Catherine
 RABINIAUX Roger
@@ -10159,12 +11029,15 @@ RACAULT Jean-Michel
 RACHET Guy
 RACHMUHL Françoise
 RACINE Guillemette
+RACINE Jean
 RACKHAM Arthur
 RACKHAM John
 RADCLIFFE Ann
 RAD Ean
 RADFORD Irene
+RADIGUET Raymond
 RADIS Ben
+RADOVIC Sinisa
 RADULESCU Razvan
 RADU Livia
 RAEMDONCK Jean-Paul
@@ -10173,6 +11046,7 @@ RAEVAARA Tiina
 RAFFIN Gilbert
 RAFFIN Louis
 RAGLUS Jeff
+RAGUET-BOUVART Christine
 RAGUSEO Jean
 RAHIER François-Xavier
 RAHIR Renée
@@ -10186,11 +11060,14 @@ RAIZER Sébastien
 RAJANIEMI Hannu
 RAJIC Négovan
 RALPHS Matt
+RAMACHANDRAN Vilayanur S.
 RAMBAUD Alfred
 RAMBAUD Maurice
 RAMBAUD Patrick
 RAMBAUD Yann
 RAMEAU Jean
+RAMOND Claudie
+RAMONET Julien
 RAMONET Yves
 RAMOS SUCRE José Antonio
 RAMPERTI Marco
@@ -10198,6 +11075,7 @@ RAMSEYER Patrick
 RAMSEY Kevin H.
 RAMSEY Sherry D.
 RAMSLAND Morten
+RAMUZ Charles Ferdinand
 RANCE Didier
 RANCIÈRE Jacques
 RANDALL Bob
@@ -10211,6 +11089,7 @@ RANKIN Hugh
 RANKIN Robert
 RANNE G. Elton
 RANPO Edogawa
+RANSKALAINEN Mikko
 RANSMAYR Christoph
 RANSOM Bill
 RANSON Gontran
@@ -10220,6 +11099,7 @@ RAO B. Shridar
 RAOULT Jean-Michel
 RAPHANEL Nathalie
 RAPIN Cristian
+RAPP Bernard
 RARDIN Jennifer
 RASPAIL Jean
 RASPE Rudolf Erich
@@ -10248,10 +11128,12 @@ RAY Jean
 RAYJEAN Max-André
 RAY Man
 RAYMOND Alex
+RAYMOND Didier
 RAYMOND François
 RAYMOND Frédéric
 RAYMOND Jean-Paul
 RAYMOND Julien
+RAYNAL Jake
 RAYNAL Michel
 RAYNAUD Olivier
 RAY Robert
@@ -10263,6 +11145,7 @@ REA Ermanno
 REAMY Tom
 REARDEN Don
 REASONER Livia
+RÉAUTÉ Brigitte
 REAVES Michael
 REBENA Frédéric
 REBERG Evelyne
@@ -10310,9 +11193,12 @@ REICHERT Mickey Zucker
 REICHS Kathy
 REID Thomas M.
 REINERT Jean
+REINICKE
 REISER
+REISER Jean-Marc
 REISFELD Randi
 REISSER Catherine
+REJAULT William
 RÉJAULT William
 RÉ Jean-Michel
 REMBRANDT
@@ -10325,6 +11211,7 @@ RÉMY Ada
 RÉMY Christian
 RÉMY Jean-Charles
 RÉMY Yves
+RENAN Ernest
 RENARD Anne
 RENARD Christine
 RENARD Maurice
@@ -10336,6 +11223,7 @@ RENAUD Alix
 RENAUD Bernadette
 RENAUD Chantal
 RENAUDIE Jean-Marc
+RENAUD Jacqueline
 RENAUD Jacques
 RENAUD Jean
 RENAUD Maurice
@@ -10345,6 +11233,9 @@ RENAUD-SIMARD Andréa
 RENAUD-VERNET Odette
 RENAUDY Claude
 RENAUD Yves
+RENAUT Alain
+RENDELL Ruth
+RENDERS Xavier
 RENÉ Jean
 RENERS Nancy
 RENEZ Joachim
@@ -10369,19 +11260,24 @@ R:É Sylvain
 RETAILLEAU Thierry
 RETAMAR Roberto Fernandez
 RETTÉ Adolphe
+REUCHLIN Maurice
 REUS Katie
 REUTER Bjarne
 REUZE André
+REVAULT-D`ALLONNES Myriam
 RÉVEILLET Françoise
+REVEL Jean-François
 REVERDY Pierre
 RÉVÉREND Alexandre
 REVOYRE Louise
 REVUE
 REVUZ Frédérique
 REX Lionel
+REY Alain
 REYES Alfonso
 REYES Alina
 REY Jan A.
+REYMOND-RIVIER Berthe
 REYNOLDS Alastair
 REYNOLDS Anthony
 REYNOLDS David West
@@ -10390,14 +11286,18 @@ REYNOLDS Josh
 REYNOLDS Mack
 REYNOLDS William J.
 REY Pierre K.
+REY Pierre-Louis
 REY Timothée
+REZA Yasmina
 REZNIKOV Patricia
 REZO Cali
 REZVANI Serge
+RHEIMS Nathalie
 RHEYSS Michael
 RHINEHART Luke
 RHINE Joseph Banks
 RHODES Daniel
+RHODES Evan H.
 RHODES Morgan
 RHODES Natasha
 RHOÏDES Emmanuel
@@ -10427,6 +11327,8 @@ RICHARD Jennifer D.
 RICHARD Julia
 RICHARD Laurent
 RICHARD Loïc
+RICHARD Michel
+RICHARD Nicolas
 RICHARDS Joel
 RICHARDS Justin
 RICHARDSON David
@@ -10451,17 +11353,20 @@ RICKERT M.
 RICKLIN Odile
 RICKMAN Phil
 RICO Don
+RICOEUR Paul
 RIDDELL Charlotte
 RIDDELL Chris
 RIDDLE A.G.
 RIDGWAY Bee
 RIDOUX Charles
+RIEL Jorn
 RIEL Jørn
 RIEUBON Fanny
 RIFKIN Jeremy
 RIGAUD Gaston
 RIGAUD Magali
 RIGAUT Elie
+RIGAUX Philippe
 RIGBY Robert
 RIGEL C.P.
 RIGGS Ransom
@@ -10479,6 +11384,7 @@ RIORDAN Rick
 RIOU Édouard
 RIOU Jean-Michel
 RIPERT
+RIPERT-P
 RIPERT Pierre
 RIPOLL Edmond
 RIPPERT Maryvonne
@@ -10510,6 +11416,7 @@ RIVIÈRE Jocelyne
 RIVIÈRE Samuel
 RIZZO Clément
 ROANHORSE Rebecca
+ROBA Jean
 ROBARDS Karen
 ROBBAN Randolph
 ROBBE-GRILLET Alain
@@ -10523,11 +11430,13 @@ ROBERSON Jennifer
 ROBERT Adrien
 ROBERT-DUMAS Charles
 ROBERT Émilie
+ROBERT Marthe
 ROBERT Michel
 ROBERTS Adam
 ROBERTS A.R.R.R.
 ROBERTS Austin F.
 ROBERTS Gareth
+ROBERTS Gregory David
 ROBERTS Jane
 ROBERTS John Maddox
 ROBERTS Keith
@@ -10653,6 +11562,7 @@ ROPS Félicien
 ROQUES René
 ROQUIER Philippe
 ROSA Joao Guimaraes
+ROSANVALLON Pierre
 ROSAN Xavier
 ROSART Jean-Paul
 ROSATI Christophe
@@ -10669,6 +11579,7 @@ ROSENFELD Albert
 ROSENHEIM Céline
 ROSENSTEEL F.C.
 ROSHWALD Mordecai
+ROSINSKI Grzegorz
 ROSMER Jean
 ROSMORDUC Ludovic
 ROSNY AÎNÉ Joseph-Henri
@@ -10676,6 +11587,8 @@ ROSNY J.-H.
 ROSOFF Meg
 ROSOKHOVATSKI Igor
 ROSSBACH Jean-Sébastien
+ROSSET Clément
+ROSSET François
 ROSSI Alexandra
 ROSSI Anne
 ROSSI Christian
@@ -10684,6 +11597,7 @@ ROSSI Paul Louis
 ROSSI Veronica
 ROSSOKHOVATSKI Igor
 ROSSON Christophe
+ROSS Peter
 ROSS Philippe
 ROSS Tony
 ROSTAND Edmond
@@ -10733,6 +11647,7 @@ ROUTIER Jean
 ROUX Benoît
 ROUX Frédéric
 ROUX George
+ROUX-LANIER Catherine
 ROUX Laurine
 ROUX Madeleine
 ROUX Philippe
@@ -10770,14 +11685,17 @@ RUCKLEY Brian
 RUD Anthony Melville
 RUDAUX Lucien
 RUDDEN Dave
+RUDIN Walter
 RUDIS Jaroslav
 RUDITIS Paul
 RUDORFF Raymond
 RUELLAN André
+RUELLE David
 RUE T. S.
 RUFFIN Constant
 RUFF Matt
 RUFIN Jean-Christophe
+RUFO Marcel
 RUIZ Alain
 RULFO Juan
 RULLIER Michel
@@ -10807,6 +11725,7 @@ RUSTERHOLTZ Nicolas
 RUTHENBERG Johannes
 RUTKOSKI Marie
 RUTLEDGE Nancy
+RUWET Claire
 RUYNES Pierre de
 RUYRA Joaquim
 RUYTERS André
@@ -10822,6 +11741,7 @@ RYCHNER Antoinette
 RYCK Francis
 RYDEN Mark
 RYDER Albert Pinckam
+RYKNER Arnaud
 RYLANT Cynthia
 RYMAN Geoff
 RYMER James Malcolm
@@ -10835,6 +11755,7 @@ SABATHÉ-RICKLIN Odile
 SABATIER Claudine
 SABATIER Robert
 SABATIER Roland
+SABATO Ernesto
 SABERHAGEN Fred
 SABET Katia
 SABRAN Guy
@@ -10845,6 +11766,7 @@ SACHER-MASOCH Leopold Ritter von
 SACHET Franck
 SACHOT Marc
 SACKETT Sam
+SACKVILLE-WEST Vita
 SACRÉ Florent
 SACRÉ Pascal
 SADAUNE Samuel
@@ -10905,6 +11827,7 @@ SALAZAR MALLÉN Rubén
 SALCEDO Maggie
 SALE Richard
 SALGARI Emilio
+SALINGER J. D.
 SALINGER J.D.
 SALIPANTE Laurent
 SALISBURY Mark
@@ -10918,6 +11841,7 @@ SALVAING François
 SALVA Pierre
 SALVAT Laura
 SALVATORE Robert Anthony
+SALVAYRE Lydie
 SALVI Nathalie
 SALYARDS Jeff
 SALZMAN Anne-Sylvie
@@ -10940,6 +11864,7 @@ SANDERSON Brandon
 SANDERSON Peter
 SANDERS Rob
 SANDERS Winston P.
+SAND George
 SANDMAN Nemo
 SANDRELL Alexander
 SANDRELLI Sandro
@@ -10954,8 +11879,10 @@ SANSAL Boualem
 SANSCHAGRIN Joceline
 SANSOM C.J.
 SANSOM William
+SANSOT Pierre
 SANSWEET Stephen J.
 SANTANGELO Eugène
+SANTÉ Action
 SANTIAGO Hugo
 SANTINI Gilles
 SANTINI Pio
@@ -10984,16 +11911,19 @@ SARKEL François
 SARN Amélie
 SARN-CANTIN Amélie
 SARRANTONIO Al
+SARRAUTE Nathalie
 SARRAZIN Bernard
 SARRAZIN Claude-Gérard
 SARRAZY Marc
 SARRE François de
 SARTÈNE Gil
+SARTRE Jean-Paul
 SASARMAN Gheorghe
 SASTRE Alfonso
 SATO Tsutomu
 SATRAPI Marjane
 SATTLER Roger
+SATTOUF Riad
 SAUBESTY Christy
 SAUER Marc
 SAUERWEIN Leigh
@@ -11021,9 +11951,13 @@ SAVAGE Candace
 SAVAGE Sam
 SAVARESE Nino
 SAVARY Patrick
+SAVATER Fernando
 SAVIC Nenad
+SAVIDAN Patrick
+SAVIGNAC Michel
 SAVILE Steven
 SAVINE Albert
+SAVINEL Christine
 SAVINIO Alberto
 SAVISTE Pierre
 SAVTCHENKO Vladimir
@@ -11036,6 +11970,7 @@ SAYERS Dorothy
 SAYRI Ueda
 SAZIE Léon
 SCALA Éric
+SCALA Olivier
 SCALESE Laurent
 SCALZI John
 SCANLON Mitchel
@@ -11063,6 +11998,7 @@ SCHEER Karl-Herbert
 SCHEFFER Robert
 SCHEFFLER Ursel
 SCHEIRS Jef
+SCHELLE Karl Gottlob
 SCHELLING George
 SCHEN
 SCHENCK Hilbert
@@ -11074,6 +12010,7 @@ SCHILLI Virginia
 SCHIMEL Lawrence
 SCHIØLER Carsten
 SCHLÉRET Jean-Jacques
+SCHLINK Bernhard
 SCHLOCKOFF Alain
 SCHLOSSBERG Elisabeth
 SCHLUCK Thomas
@@ -11081,10 +12018,13 @@ SCHMALTZ Nicolas
 SCHMAUCH Anne
 SCHMIDT Annie M.G.
 SCHMIDT Arno
+SCHMIDT Clara
 SCHMITT Didier
 SCHMITT Eric-Emmanuel
 SCHMITZBERGER Simone
+SCHMITZ Francois
 SCHMITZ James Henry
+SCHMITZ Olivier
 SCHNABEL William
 SCHNEBELEN François
 SCHNEEGANS Nicole
@@ -11101,6 +12041,8 @@ SCHOLES Ken
 SCHOLL Aurélien
 SCHOLZ Carter
 SCHOMBURG Alex
+SCHOPENHAUER Arthur
+SCHOTT Ben
 SCHOW David J.
 SCHREFER Eliot
 SCHREIBER Ellen
@@ -11118,6 +12060,7 @@ SCHULTZ David E.
 SCHULTZ Mark
 SCHULZ Bruno
 SCHULZ Dirk
+SCHUMACHER Ernst Friedrich
 SCHUURMAN Ludwig
 SCHUYLER George S.
 SCHUYLER MILLER P.
@@ -11127,6 +12070,7 @@ SCHWADER Ann K.
 SCHWAEBLÉ René
 SCHWARTZ Andréa
 SCHWARTZBROD Alexandra
+SCHWARTZENBERG Léon
 SCHWARTZ Howard
 SCHWARTZ Mauricio-José
 SCHWARTZ Susan
@@ -11139,9 +12083,11 @@ SCHWEINHUND
 SCHWEITZER Darrell
 SCHWETTMANN Eckhardt
 SCHWINDT Peter
+SCHWOB Marcel
 SCIALDONE Gabriella
 SCIPION Johan
 SCITHERS George H.
+SCORSESE Martin
 SCORTIA Thomas Nicholas
 SCOT Andrew
 SCOTTEN Cordell
@@ -11157,9 +12103,11 @@ SCOUVART Robert
 SCOVEL Guy
 SCOZZARI Gérald
 SCRYMSOUR Ella
+SCTRICK Jane
 SCULL Christina
 SCULL Luke
 SCULLY Frank
+SCUTENAIRE Louis
 SEABRA Luis
 SEABRIGHT Idris
 SEABROOK William Buehler
@@ -11184,6 +12132,7 @@ SEGAL Stephen H.
 SÉGAS Christophe
 SEGEL Jason
 SEGHERS Anna
+SEGHERS Pierre
 SEGUIN Gaëtan
 SEGUIN Pierre
 SÉGURA Magali
@@ -11199,6 +12148,7 @@ SEIJAS Antonio
 SEITER Roger
 SEKO Hiroshi
 SEKOWSKY Mike
+SELBY JR Hubert
 SELDEN George
 SELDOW Michel
 SÉLÈNES Pierre de
@@ -11216,17 +12166,23 @@ SÉMANT Paul de
 SEMENIKHIN Dimitri
 SEMENOFF Marc
 SEMET Jérémy
+SEMPÉ Jean-Jacques
 SEMPÈRE Emmanuelle
+SEMPRUN Jorge
 SENABRE Éric
 SENDAK Maurice
 SENÉCAL Patrick
+SÉNÈQUE
 SENF C.C.
 SENGER Claudine
+SENGES Pierre
 SENKOVSKI Ossip
 SENNINGER Franck
 SENSFELDER Pierre
+SENTE Yves
 SENYPHINE
 SÉOUDI Noureddine
+SEPULVE
 SEPULVEDA Luis
 SEPÚLVEDA Luis
 SERAY Patrice
@@ -11237,6 +12193,7 @@ SÉRIEL Jérôme
 SERIO Michele
 SERLING Rod
 SERNINE Daniel
+SERON Xavier
 SERRA Daniele
 SERRANO Élodie
 SERRANO Miguel
@@ -11264,20 +12221,24 @@ SEVILLA Jean-Louis
 SEWA
 SEYR Jacques
 SEYVOS Florence
+SFAR Joann
 SGARDOLI Guido
 SHAARA Michael
 SHA Emma
 SHAFER David
+SHAH Idries
 SHAKESPEARE William
 SHALLITT Joseph
 SHAN Darren
 SHANE Trevor
 SHANNON Lew
 SHANNON Samantha
+SHAPIRO Gerald
 SHAPIRO Marc
 SHARKEY Jack
 SHARMA Partap
 SHARMAT Marjorie
+SHARPE Tom
 SHATNER William
 SHAW Barclay
 SHAW Bob
@@ -11357,6 +12318,7 @@ SIEFFERT René
 SIEGEL Barbara
 SIEGEL Scott
 SIENKIEWICZ Bill
+SIERRA Kathy
 SIEVYTSY-RAUSSE Titaÿna
 SIGAUX Azelma
 SIGLER Scott
@@ -11365,6 +12327,7 @@ SIGUR Denis
 SIGWARD Valérie
 SIJIE Dai
 SILA Dominique
+SILESIUS Angelus
 SILHOL Léa
 SILLIG Olivier
 SILLORAY Florent
@@ -11374,6 +12337,7 @@ SILVER Steven H.
 SILVERWIND Selene
 SILVESTRE Anne-Sophie
 SILVESTRE Armand
+SIMAK Clifford D.
 SIMAK Clifford Donald
 SIMARD Danielle
 SIMARD Éric
@@ -11391,6 +12355,7 @@ SIMON Christian
 SIMON Claude
 SIMONETTI Marc
 SIMON Évélina
+SIMON Fritz B.
 SIMONIN Éva
 SIMONIS Damien
 SIMON Louis
@@ -11409,17 +12374,21 @@ SINDALI Michaëla
 SINDEN David
 SINDING Terje
 SINGARAVÉLOU Pierre
+SINGER Christiane
 SINGER Isaac Bashevis
 SINGER Nicky
 SINGH Nalini
+SINGH Simon
 SINGH Vandana
 SINGLETON Linda Joy
 SINIAC Pierre
 SINIAKINE Sergueï
 SINISALO Johanna
 SINKUS Silvestras
+SINOUÉ Gilbert
 SIODMAK Curt
 SIRE CÉDRIC
+SIRINELLI Pierre
 SIROIS Guy
 SIROT Frédéric
 SIS Peter
@@ -11454,6 +12423,7 @@ SLOCOMBE Romain
 SMALL Bertrice
 SMALL Harry
 SMEDMAN Lisa
+SMELSER Neil J.
 SMETS Robert
 SMITH A.C.H.
 SMITH Ali
@@ -11494,9 +12464,11 @@ SNYDER Lucy A.
 SNYDER Maria V.
 SNYDER Midori
 SNYERS Damien
+SOBEL Dava
 SOBRA Adrien
 SOCCAVO Lorenzo
 SOCIAS Sébastien
+SOCIETY National Geographic
 SOESBEE Ree
 SOGNY Georges
 SOHLBERG Harald Oskar
@@ -11508,11 +12480,13 @@ SOLARES Martin
 SOLARI Grégory
 SOLDATI Mario
 SOLET Bertrand
+SOLLERS Philippe
 SOLOMINE Sergueï
 SOLOMON Prashant
 SOLOMON Rivers
 SOLOTAREFF Grégoire
 SOLOVIEV Vsevolod
+SOLUDO Charles Chukwuma
 SOMAIN Jean-François
 SOMBREVAL Philippe
 SOMCYNSKY Jean-François
@@ -11526,7 +12500,9 @@ SOMPER Justin
 SOMTOW S.P.
 SONGLING Pu
 SONTAG Viviane
+SOPHOCLE
 SOREL Charles
+SOREL Guillaume
 SOREL Nicolas
 SORENSEN Villy
 SOREZ Roger
@@ -11592,11 +12568,13 @@ SPELLMAN Cathy Cash
 SPENCE Catherine Helen
 SPENCE Lewis
 SPENCER Andy
+SPIEGELMAN Art
 SPIELBERG Steven
 SPILLANE Mickey
 SPILLIAERT Leon Petrus
 SPINRAD Norman
 SPIRY Audrey
+SPITZ Bernard
 SPITZ Jacques
 SPITZMULLER Georges
 SPJUT Stefan
@@ -11657,17 +12635,20 @@ STEFF Georges
 STEFINGER Robert
 STEHR Frédéric
 STEIBER Ellen
+STEICHEN Robert
 STEIG William
 STEIMEN Henry-Paul
 STEIN Aaron Marc
 STEINBECK John
 STEINER Barbara
 STEINER Kurt
+STEINER Reinhard
 STEINFEST Heinrich
 STEIN Kevin T.
 STEINMETZ Jean-Luc
 STENBOCK Comte Éric
 STEN Camilla
+STENDHAL
 STENE Øystein
 STENGERS Isabelle
 STENSON Peter
@@ -11695,10 +12676,12 @@ STERN Richard Martin
 STERN Roger
 STERRETT Virginia Frances
 STEVENS-ARCE James
+STEVENS Bernard
 STEVENS Dave
 STEVENS Erika
 STEVENS Francis
 STEVENSON Burton Egbert
+STEVENSON Robert Louis
 STEVENSON Robert Louis Balfour
 STEVERMER Caroline
 STEWARD Ketty
@@ -11736,10 +12719,12 @@ STIVERS Valerie
 STJELJA Nikola
 ST-JOHN J. Allen
 ST-JOHN Lauren
+ST. LOUIS Regis
 STOCCO Guglielmo
 STOCKTON Frank R.
 STOCZKOWSKI Wiktor
 STOESSEL Bernard
+STOETZEL Jean
 STOHL Margaret
 STOICANESCU Calin
 STOILOV Boris
@@ -11758,6 +12743,7 @@ STONE Leslie F.
 STONE William
 ST-ONGE Simon
 STORA Frank
+STOREY Robert
 STORR Catherine
 STOTT W.R.S.
 STOUT Rex (Todhunter)
@@ -11780,6 +12766,7 @@ STRICK Philippe
 STRIEBER Whitley
 STRIMPL Louis
 STRINATI Pierre
+STRINDBERG August
 STRINGER Helen
 STROBL Karl Hans
 STRONG Jeremy
@@ -11823,9 +12810,12 @@ SURCHAMP Alex
 SURGERS Marie
 SURGET Alain
 SURIEUX Christian
+SURYA Michel
 SUSANN Jacqueline
 SUSKIND Patrick
+SÜSKIND Patrick
 SUSSAN René
+SUSSEL Annie
 SUSSMAN Susan A.
 SUTAL Louis
 SUTCLIFFE William
@@ -11847,6 +12837,7 @@ SUZUKI Kôji
 SUZUKO Akira
 SVENDSEN Hanne Marie
 SVENN Patrick
+SVEVO Italo
 SWAIN Edmund Gill
 SWAINE Joseph
 SWAINSTON Steph
@@ -11865,6 +12856,7 @@ SWINDELLS Robert
 SYAM F.V.
 SYBILINE
 SYHAEY
+SYKES Plum
 SYKES Sam
 SYLAS
 SYLF Christia
@@ -11885,8 +12877,10 @@ TABBI Richard
 TABORI Paul
 TABRAH Ruth M.
 TABREL Dan
+TABUCCHI Antonio
 TACHÉ Joseph-Charles
 TACQUET Olivier
+TADIÉ Jean-Yves
 TAFFIN Benedict
 TAFFIN Bénédicte
 TAFFRAIL
@@ -11895,6 +12889,7 @@ TAG Jeam
 TAGLI Philippe
 TAGLY Jack
 TAHIR Sabaa
+TAÏA Abdellah
 TAIBO Paco Ignacio II
 TAÏEB Grégory
 TAINE John
@@ -11922,6 +12917,7 @@ TANG KRISTENSEN Evald
 TANGUY Yves
 TANIGUCHI Jirô
 TANIZAKI Junichiro
+TANIZAKI Junichirô
 TANKERSLEY CUSICK Richie
 TANNER Rachel
 TANNHAUSER Richard
@@ -11929,8 +12925,10 @@ TAN Shaun
 TARCHETTI Iginio Ugo
 TARDE Gabriel
 TARDEL Roxanne
+TARDIEU Jean
 TARDIF Dominic
 TARDIF Jean-Claude
+TARDI Jacques
 TARDIVEL Jules-Paul
 TARGETE Jean-Pierre
 TARIN Véronique
@@ -11939,9 +12937,11 @@ TARQUIN Didier
 TARRIDE Michel
 TARRIN Fabrice
 TARR Judith
+TARTAR-GODDET Édith
 TARVEL Brice
 TASCHEREAU Ghislain
 TASSET Éric
+TASSIN Étienne
 TASSY Vincent
 TATAR Rózsa
 TATE Peter
@@ -11950,6 +12950,7 @@ TAUSSIG Sylvie
 TAVARES Braulio
 TAVERA François
 TAVERA Matteo
+TAVRIS Carol
 TA-WEI Chi
 TAYLOR (2) Geoff
 TAYLOR Bernard
@@ -11968,8 +12969,10 @@ TAYMANS André
 TCHAÏANOV Alexandre
 TCHAIKOVSKY Adrian
 TCHEKHOVA Johnny
+TCHEKHOV Anton
 TCHEKHOV Anton Pavlovitch
 TCHERNIA Pierre
+TCHOUANG-TSEU
 TCHOUDINOVA Elena
 TEAN Julia M.
 TEBAR Juan
@@ -12013,18 +13016,21 @@ TERSEN Alain
 TERTRAIS Jean-Claude
 TERTZ Abraham
 TESCHER Robert
+TESNIÈRE Lucien
 TESSIER Mario
 TESSIER Philippe
 TESSIER Robert
 TESSIER Thomas
 TESTA Philippe
 TÉTREAU Jean
+TEULÉ Jean
 TEVIS Walter S.
 TEWEN San
 TEXIER Nicolas
 TEYSSÈDRE Anne
 TEYSSIÉRAS Anne
 TÉZENAS Hubert
+TEZUKA Osamu
 THACKERAY W. M.
 THACKER Shelly
 THAILLARD René
@@ -12054,7 +13060,9 @@ THIBAULT Dominique
 THIBAUT Céline
 THIBERGE Guillaume
 THIBERT Colin
+THIBERT Jean-Christophe
 THIBON Eugène
+THIBON Gustave
 THIEL Henry
 THIELLEMENT Hervé
 THIELLEMENT Pacôme
@@ -12067,6 +13075,7 @@ THILL Christophe
 THILLIEZ Henri
 THINBALL Lawrence
 THINNES Roy
+THIRAULT Philippe
 THIRION Jan
 THIRION Jean-Benoît
 THIRION Louis
@@ -12076,6 +13085,7 @@ THIVIERGE Renée
 THÖLKEN Dieter
 THOMAS Antoine-Léonard
 THOMAS-BILSTEIN Jacques
+THOMAS Chantal
 THOMAS Gilles
 THOMAS Jean-François
 THOMAS Jean-François (2)
@@ -12100,7 +13110,9 @@ THOMAS Véronique
 THOMAZIC Nicolas
 THOMELIN Marie-Alix
 THOMPSON Colin
+THOMPSON Craig
 THOMPSON Frank
+THOMPSON Hunter S.
 THOMPSON Joyce
 THOMPSON Paul B.
 THOMPSON Ronda
@@ -12111,11 +13123,13 @@ THOMSON Amy
 THOMSON Jamie
 THOMSON O.-J.-W. Knut
 THOREAU Alain
+THOREAU Henry David
 THORES Jean-Marie
 THORNE Jack
 THORNTON Lawrence
 THORPE Gav
 THOUARD Jean-Louis
+THOUMIEUX Xavier
 THOVERON Gabriel
 THRÉHOUT Sébastien
 THUILLIER Guy
@@ -12165,6 +13179,7 @@ TODD Emmanuel
 TODOROV Tzvetan
 TOESCA Maurice
 TOLKIEN J. R. R.
+TOLKIEN J.R.R.
 TOLLÉ Emmanuel
 TOLLET Pierre Jack
 TOLLUM James
@@ -12218,6 +13233,7 @@ TOUATI Lucien-Guy
 TOUCHANT Jean-Louis
 TOUDOUZE Georges G(ustave)
 TOUDOUZE Gustave
+TOULAT Jean
 TOULEMONT Manon
 TOUNO Mamare
 TOUPET Armand
@@ -12227,9 +13243,11 @@ TOURBY Jess
 TOURGUENIEV Ivan
 TOURNEL Fabien
 TOURNIER Christophe
+TOURNIER Jacques
 TOURNIER Michel
 TOURTELLOTTE Shane
 TOURTEREL Jean
+TOUSSAINT Jean-Philippe
 TOUSSAINT Maurice
 TOUSSAINT-SAMAT Maguelonne
 TOUSSENEL Alphonse
@@ -12242,6 +13260,7 @@ TOWNSEND Jonh Rowe
 TRABELSI Mohammed
 TRACQUI Antoine
 TRACY Louis
+TRAKL Georg
 TRANEC-DUBLED Lola
 TRANEC Lola
 TRAN NHUT Kim
@@ -12267,6 +13286,7 @@ TREVAYNE Emma
 TREVOR William
 TRÉZENIK Léo
 TRIBALAT Romain
+TRICHET Cyril
 TRIGON Jean le Marchant de
 TRILLO Carlos
 TRINAME Sandra
@@ -12274,11 +13294,14 @@ TRINTZIUS René
 TRIOLET Elsa
 TRIOLO Jean-Luc
 TRIPATHI Amish
+TRIPP Jean-Louis
+TRISTAN
 TRISTAN Frédérick
 TRISTAN Poeta
 TROISI Licia
 TRONCHE Anne
 TRONCHET Didier
+TRONCONI Monica
 TRONDHEIM Lewis
 TRON Dominique
 TROTET DE BARGIS René
@@ -12286,6 +13309,7 @@ TROTOBAS Emmanuel
 TROTSKY Léon
 TROTTIER Catherine
 TROTTIER Danièle
+TROUILLEUX Rodolphe
 TROUT Kilgore
 TROYAT Henri
 TRUCHON Lilian
@@ -12301,6 +13325,7 @@ TRYON Thomas
 TRYSTAM Florence
 TSAAG VALREN Amélie
 T'SERSTEVENS Albert
+TSEU Lao
 TSIMPOUKI Dora
 TSIOLKOVSKI Constantin Édouardovitch
 TSUCHIYA Garon
@@ -12320,6 +13345,7 @@ TUNNEY Stephen
 TURAMBAR KOLACINSKI David
 TURGEON Daniel
 TURIN Philippe-Henri
+TURK
 TURLIN Jean-Rodolphe
 TURNER Delia Marshall
 TURNER Frederick
@@ -12337,6 +13363,7 @@ TYNES John
 TYRRELL G.N.M.
 TYSON Donald
 TYSSOT DE PATOT Simon
+TZU Sun
 UBAC Claire
 UBUKATA Tow
 UEDING Stepan
@@ -12346,6 +13373,7 @@ ULYSSE Louis-Stéphane
 UMINSKI Wladyslaw
 UNAMUNO Miguel de
 UNBEKANNT Artikel
+UNGARETTI Giuseppe
 UNGUREANU Alexandru
 UNSWORTH Simon Kurt
 UPDIKE John
@@ -12366,6 +13394,7 @@ VACCARI Josyane
 VACHER Aimeric
 VACHER Christophe
 VACHER Frédéric
+VACHER Jean-Jacques
 VACHON Jean-Nicholas
 VACHON Louis
 VACONSIN Marie-Lorna
@@ -12376,10 +13405,12 @@ VAFFLARD Pierre-Auguste
 VAGLIO Mélusine
 VAGNER Estelle
 VAGNER Yana
+VAGNON Henri
 VAILLANCOURT Marc
 VAINONEN Jyrki
 VAIRASSE D'ALLAIS Denis
 VALADE Frédéric
+VALADIER Paul
 ValANTIm
 VALAT Pierre-Marie
 VALBERT Léon
@@ -12394,6 +13425,7 @@ VALENTINE Mark
 VALERIE André
 VALERO Jean-Louis
 VALÉRY Francis
+VALÉRY Paul
 VALET Alain
 VALETOUX Philippe
 VALETTI Oscar
@@ -12406,9 +13438,11 @@ VALLÉE Jacques
 VALLE-INCLAN Ramon Maria del
 VALLEJO Boris
 VALLEJO César
+VALLEJO Fernando
 VALLÈNE Paul
 VALLERAND Jacques
 VALLEREY Tancrède
+VALLÈS Jules
 VALLET Dominik
 VALLETTE-HÉMERY Martine
 VALLETTI Serge
@@ -12432,10 +13466,12 @@ VAN CAUWELAERT Didier
 VANCE Jack
 VANCE Louis Joseph
 VANCE Steve
+VANCE William
 VAN CRUGTEN Alain
 VAN DAM Yannick
 VANDEL Jean-Gaston
 VANDEMAAN Wim
+VANDENPLAS-HOLPER Christiane
 VANDERCOOK John Womack
 VANDER Guy
 VANDERMEER Jeff
@@ -12444,12 +13480,15 @@ VAN DONGEN H. R.
 VAN DOREN Mark
 VAN EBBENHORST TENGBERGEN Thijs
 VAN EFFEN Justus
+VANEIGEM Raoul
 VAN GAERT Hugo
 VAN HAGELAND Albert
 VAN HAMME Jean
+VAN HEEMS Gilles
 VANHEL Antoine
 VAN HERCK Paul
 VAN HERP Jacques
+VAN HIEP Tran
 VAN HISE Delia
 VAN HOLLANDER Jason
 VAN LAANEN  Ien
@@ -12465,8 +13504,10 @@ VANNEREUX Michel
 VAN OFFEL Horace
 VAN REMOORTERE Julien
 VAN RENSSELAER DEY Frederick
+VAN RILLAER Jacques
 VAN SCYOC Sydney Joyce
 VANSTEEN Sam
+VAN VOGT A. E.
 VAN VOGT Alfred Elton
 VAN WILDER Cindy
 VAQUERIZO Eduardo
@@ -12496,6 +13537,7 @@ VAUTEL Clément
 VAUTHIER Maurice
 VAUZIÈRE Claude
 VAXELAIRE Daniel
+VAX Louis
 VAYRE Ch(arles)
 VAZQUEZ José Cadalso
 VEBER Pierre-Eugène
@@ -12511,15 +13553,20 @@ VELDE Vivian Vande
 VELEZ Antonio Mora
 VELEZ DE GUEVARA Luis
 VELLAND Jean-Noël
+VELTER André
 VELTISTOV Eugène
 VENISSE Alain
 VENJEAN Daniel
 VENULETH Jacques
+VÉRAIN Jérôme
 VERALDI Gabriel
 VERBA Joan Marie
 VERCORS
+VERDIER Cédric
 VERDIER Vic
+VERGELY Bertrand
 VERGER Romain
+VERGNAS Olivier Las
 VERGNAUD Lord Sébastien
 VERHAEREN Émile
 VERHEYDEN Ivan
@@ -12533,6 +13580,7 @@ VERMALEN Laurence
 VERMANDEL Janet Gregory
 VERMES Timur
 VERMEULEN John
+VERNANT Jean-Pierre
 VERNAY Jean-Pierre
 VERNE Jacques
 VERNE Jean-Jules
@@ -12543,6 +13591,8 @@ VERNES Henri
 VERNES Raoul
 VERNET Horace
 VERNET Jean-Michel
+VERNHES Jean-Victor
+VERNIMMEN Pierre
 VERNON Maurice
 VERNON Ursula
 VERNOU Pierre
@@ -12565,28 +13615,36 @@ VESPERINI Pierre
 VESS Charles
 VETTIER Jacques
 VEXIN Véronique
+VÉZINA Jean
+VHERE Roger
+VIALATTE Alexandre
 VIAL Éric
 VIALLET Bernard
 VIALLET Laurence
+VIAN Boris
 VIANO Maurizio
 VIARD Henri
 VIAUD Didier
 VIAUD Éva
 VIAULES Hugo
+VIAU Rolland
 VIBERT Edmond Célestin Paul
 VICAS Victor
 VICTOR René-Jacques
 VIDAL Gilles
 VIDAL Gore
 VIDAL Guillermo
+VIDAL-NAQUET Pierre
 VIDAL Philippe
 VIEL Tanguy
+VIENNEAU Raymond
 VIENNE Salomé
 VIERECK George Sylvester
 VIERNE Béatrice
 VIETON Peter T.
 VIGIL Luis
 VIGNAL Nathalie
+VIGNE Jacques
 VIGNE Jean
 VIGNES Édith
 VIGNON Claude
@@ -12594,6 +13652,8 @@ VIGO Luce
 VIGOT Dominique
 VILÀ Christian
 VILA Kriss
+VILA-MATAS Enrique
+VILAR Pierre
 VILLACAMPA Jean-Hugues
 VILLAIN Nicolas
 VILLAR Alfonso Alvarez
@@ -12619,6 +13679,7 @@ VINCENSINI Jean-Jacques
 VINCENT Bev
 VINCENT François
 VINCENT Harl
+VINCENT Jean-Didier
 VINCENT Jérôme
 VINCENT Nik
 VINCENT Paul
@@ -12634,8 +13695,10 @@ VIRGILLES
 VIRGO Roy
 VIRICEL Julianne
 VISCUSI Andrea
+VISE David A.
 VITIELLO Bruno
 VITKINE Antoine
+VITTACHI Nury
 VIVET-REMY Anne-Catherine
 VIVI ANNA
 VIVIEN Renée
@@ -12662,20 +13725,25 @@ VOLTAIRE
 VOLTZ William
 VOM SCHEIDT Jürgen
 VONARBURG Élisabeth
+VON ARNIM Achim
 VON AUE Hartmann
 VON BRAUN Wernher
 von CHAMISSO Adelbert
 von CHAMISSO Hippolyte
+VON CLAUSEWITZ Carl
 VON DÄNIKEN Erich
 VON DER GABELENTZ Georg
+VON DER WEID Jean-Noël
 VON DODERER Heimito
 VON ECKARTSHAUSEN Plotinus
 VON EICHENDORFF Josef
 VON FLESCH-BRUNNINGEN Hans
+VON GOETHE Johann Wolfgang
 VON HANSTEIN Otfried
 VON HARBOU Théa
 VON HELDERS Major
 VON HOFFMANNSTHAL Hugo
+VON HOFMANNSTHAL Hugo
 VON KLEIST Heinrich
 VON KRAFT Karl
 VONNEGUT Kurt Jr
@@ -12693,6 +13761,7 @@ VON WLISLOCKI Heinrich
 VORNHOLT John
 VORONCA Ilarie
 VOUSSAC Jean
+VOUTCH
 VOX Vincent
 V. Riton
 VRYENBERGH Daniel
@@ -12712,6 +13781,7 @@ WAGNER Karl Edward
 WAGNER Nicolas
 WAGNER Roland C.
 WAGON Sarah
+WAHL Jean
 WAILLY Commandant Gaston de
 WAILLY Léon de
 WAJSBROT Cécile
@@ -12771,6 +13841,7 @@ WARD Lynd
 WARD Michael J.
 WARD Philippe
 WARD Rachel
+WARE Chris
 WARE Danie
 WARE Joss
 WAREMBOURG Gilles
@@ -12783,6 +13854,7 @@ WARING STAMBOLLION Liba
 WARMAN Jessica
 WARNANT-CÔTÉ Marie-Andrée
 WARNER Harry Jr.
+WARNER Janine
 WARNER Sylvia Townsend
 WARNES Martin S.
 WARRACK John
@@ -12798,6 +13870,7 @@ WATERLOO Stanley
 WATERS Elisabeth
 WATERS Sarah
 WATKINS Claire Vaye
+WATKINS France-Marie
 WATKINS Graham
 WATKINS William Jon
 WATSON Ian
@@ -12806,8 +13879,12 @@ WATSON Reginald
 WATTEAU Jean-Antoine
 WATTEAU Monique Alika
 WATTELLE Thierry
+WATTERSON Bill
 WATT-EVANS Lawrence
+WATTS Alan
 WATTS Peter
+WATZLAWICK Paul
+WATZLAWI Paul
 WATZLIK Hans
 WAUGH Charles G.
 WAUGH Evelyn
@@ -12815,6 +13892,7 @@ WAUGH Hillary
 WAUGH Sylvia
 WAUTERS Antoine
 WAYNE Bruce
+WAZEM Pierre
 WEAGLY John
 WEATHERLY L.A.
 WEAVER Michael
@@ -12834,6 +13912,7 @@ WEIGAND Jörg
 WEIJUN Chen
 WEIL Frédéric
 WEIL Jonathan
+WEIL Simone
 WEINACHTER Jean-Nicolas
 WEINBAUM Stanley
 WEINBERG Lawrence
@@ -12866,6 +13945,7 @@ WELLS Basil
 WELLS Catherine
 WELLS Dan
 WELLS Herbert George
+WELLS H.G.
 WELLS Jaye
 WELLS John Jay
 WELLS Martha
@@ -12924,6 +14004,7 @@ WHIPPLE Chandler Henry
 WHISTLER James Abbott McNeill
 WHITAKER David
 WHITECHURCH Victor L.
+WHITE Edmund
 WHITE Edward Lucas
 WHITE Elwyn Brooks
 WHITEFORD Wynne Noel
@@ -12950,6 +14031,7 @@ WIATER Stanley
 WICKRAMASINGHE Chandra
 WICQUART Manuel
 WIECK Stewart
+WIELSCH Michael
 WIENER Anthony J.
 WIERTZ Antoine
 WIETZEL Erik
@@ -12965,6 +14047,7 @@ WILHELM Kate
 WILKINS-FREEMAN Mary Eleanor
 WILKINS Kim
 WILKS Eileen
+WILL
 WILLEMS Paul
 WILLER
 WILLETTE Henriette
@@ -12998,6 +14081,7 @@ WILLINGHAM Bill
 WILLIS Connie
 WILLIS Dan
 WILLIS Jeanne
+WILLIS Roy
 WILLOCKS Tim
 WILLY
 WILSDORF Anne
@@ -13013,6 +14097,7 @@ WILSON Jacqueline
 WILSON Richard
 WILSON Robert Anton
 WILSON Robert Charles
+WILSON Robert McLiam
 WILSON Robin Scott
 WILSON (USA) Robert Charles
 WIMMER Mike
@@ -13022,7 +14107,10 @@ WINDHAM Ryder
 WINDLING Terri
 WINGROVE David
 WINHELLER Charlotte
+WINKIN Yves
+WINKLER Josef
 WINNACKER Susanne
+WINSHLUSS
 WINSTEAD JONES Linda
 WINTERBOTHAM Russ R.
 WINTERFELD Henry
@@ -13037,8 +14125,10 @@ WISE David
 WISSNER Robert
 WITEK Jo
 WITKIEWICZ Stanilaw Ignacy
+WITTGENSTEIN Ludwig
 WITTIG Monique
 WITTKOP Gabrielle
+WITTKOWER Rudolf
 WITWICKI-BARBET Émilie
 WOCQUIER Léon
 WODEHOUSE P. G.
@@ -13053,6 +14143,7 @@ WOLFE Gary K.
 WOLFE Gene
 WOLFE Louis
 WOLF Emily
+WOLFE Tom
 WOLFF Robert
 WOLF Gary K.
 WOLFKIND Peter Daniel
@@ -13063,6 +14154,7 @@ WOLFRAM Richard
 WOLFS Sylvie
 WOLINSKI Georges
 WOLKENSTEIN Julie
+WOLKE Robert L.
 WOLLHEIM Donald Allen
 WOLLHEIM Elsie
 WOLMARK Nina
@@ -13080,6 +14172,7 @@ WOOD Mrs. Henry
 WOOD Nick
 WOOD N. Lee
 WOOD Paul Z.
+WOOD Ramsay
 WOODROFFE Patrick
 WOODS Arthur
 WOODS Richard
@@ -13087,6 +14180,7 @@ WOOD Stanley L.
 WOOD Susan
 WOOD Wallace (Wally)
 WOODWORTH Stephen
+WOOLF Virginia
 WOOLF Virginia Stephen
 WOOLRICH Cornell
 WOON Hank
@@ -13103,6 +14197,7 @@ WRIGHT DE DERBY Joseph
 WRIGHT John C.
 WRIGHT Kenneth
 WRIGHT Lan
+WRIGHT Richard
 WRIGHT Ronald
 WRIGHTSON Bernie
 WRIGHT Susan
@@ -13137,6 +14232,7 @@ XIA Jia
 XIAOBIN Cao
 XIAOBO Wang
 XIAOPU Zhang
+XINGJIAN Gao
 XINMIN Kang
 X.L.
 X Lieutenant
@@ -13150,11 +14246,14 @@ YAMAZAKI Hosui
 YAMBO
 YANCEY Rick
 YAN Lianke
+YAN Mo
+YANN
 YANNE Jean
 YANO Tetsuya
 YARBRO Chelsea Quinn
 YAWEN Lin
 YAYASHIN
+YAZAWA Ai
 YEATS William Butler
 YELNICK Claude
 YEOVIL Jack
@@ -13165,12 +14264,14 @@ YNO
 YOLEN Jane
 YONGLIE Ye
 YONNET Jacques
+YOSA Buson
 YOSHIMOTO Banana
 YOSHIMURA Akira
 YOSS
 YOULL Paul
 YOULL Stephen
 YOUNG Collier
+YOUNG Jeffrey E.
 YOUNG Moira
 YOUNG Robert F.
 YOURCENAR Marguerite
@@ -13187,6 +14288,7 @@ YU Charles
 YU Hua
 YUKIMURA Makoto
 YUKNAVITCH Lidia
+YUKOU Lie
 YUMEMAKURA Baku
 YUNG Pascal
 YUNSHU Zhang
@@ -13197,12 +14299,14 @@ ZACHAREZUK Jocelyne
 ZAD
 ZADOFF Allen
 ZAFON Carlos Ruiz
+ZAFÓN Carlos Ruiz
 ZAHN Timothy
 ZALLINGER Rudolph F.
 ZAMARON Alain
 ZAMIATINE Evgueni Ivanovitch
 ZAND Herbert
 ZANGA Julienne
+ZANGWILL Israël
 ZANOLA Émilie
 ZANUTTO Tiphaine
 ZANZOTTO Andrea
@@ -13261,6 +14365,7 @@ ZINOVIEV Alexandre
 ZITO V.M.
 ZIVKOVIC Zoran
 ZIZZO Allison
+ZOLA Émile
 ZOLA Gordon
 ZOLDAN Emmanuelle
 ZOLINE Pamela
@@ -13268,6 +14373,7 @@ ZÖLLER Elizabeth
 ZONDERGELD Rein A.
 ZORGLUB
 ZORN Jacqueline
+ZOUZOULKOVSKY Vincent
 ZOZOULIA Efim
 ZUBRIN Robert
 ZUDDAS Gianluigi
@@ -13276,6 +14382,7 @@ ZUMAS Leni
 ZUMOFEN Guillaume
 ZUNIC' Enrica
 ZÜRCHER Muriel
+ZUSAK Markus
 ZWEIG Stefan
 ZWERENZ Gerhard
 ZYBELL Jo
