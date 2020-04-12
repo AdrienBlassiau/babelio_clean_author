@@ -1,1 +1,1 @@
-# babelio_clean_author
+# Calibre author cleaning plugin (WIP)
